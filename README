@@ -1,1 +1,134 @@
 
+# 🚚 LogiPredict – Shipment Delay Prediction System
+
+A machine learning web application that predicts shipment delay days based on logistics, weather, and vendor features.
+
+🔗 **Live Demo:** [logipredict-hxr9ietbwfeham2rrschtv.streamlit.app](https://logipredict-hxr9ietbwfeham2rrschtv.streamlit.app/)
+
+---
+
+## 📌 Project Overview
+
+LogiPredict is a Supply Chain Analytics project that helps logistics teams estimate delivery delays before a shipment is dispatched. By inputting shipment details like distance, vehicle type, weather conditions, and vendor rating — the app instantly predicts the expected delay in days.
+
+---
+
+## 🗂️ Dataset
+
+- **Records:** 1,500 shipment entries
+- **Features:** 13 logistics and weather attributes
+- **Target:** `delay_days` (continuous — regression problem)
+
+| Feature | Description |
+|---|---|
+| `distance_km` | Shipment distance in kilometres |
+| `vehicle_type` | Truck / Train / Ship / Van / Bike |
+| `transport_mode` | Road / Rail / Sea |
+| `carrier` | Logistics partner (Delhivery, FedEx, etc.) |
+| `vendor_rating` | Vendor performance rating (1–5) |
+| `weather` | Clear / Fog / Rain / Storm |
+| `season` | Spring / Summer / Monsoon / Winter |
+| `is_weekend` | Whether shipment was on a weekend |
+| `is_peak_season` | Whether it was a peak demand period |
+| `weight_kg` | Cargo weight in kg |
+| `cargo_type` | Electronics / Medical / Furniture / etc. |
+| `is_fragile` | Whether cargo is fragile |
+
+---
+
+## 📊 Key Business Insights (from EDA)
+
+| Finding | Impact |
+|---|---|
+| Distance is the #1 delay driver | Correlation = **0.70** |
+| Storm weather vs Clear | **+2.32 days** extra delay |
+| Rating-5 vendors vs Rating-1 | **22% faster** delivery |
+| Sea transport vs Rail | Sea is **0.72 days slower** |
+| Monsoon season | Highest avg delay — **5.81 days** |
+| Medical cargo | Most at-risk category — **5.80 days** |
+| FedEx | Best carrier performance — **5.29 days** avg |
+
+---
+
+## 🤖 ML Pipeline
+
+### Models Compared
+
+| Model | R² (Test) | R² (CV-5) | MAE |
+|---|---|---|---|
+| Linear Regression | 0.8857 | 0.8646 | 0.41 days |
+| Random Forest | 0.8496 | 0.8492 | 0.47 days |
+| **Gradient Boosting** ✅ | **0.8947** | **0.8894** | **0.39 days** |
+
+### Why Gradient Boosting?
+- Best R² score across both test and 5-fold cross validation
+- Sequentially corrects errors — ideal for tabular logistics data
+- Low MAE of **0.39 days** — model is off by less than 9 hours on average
+
+### Preprocessing
+- `OneHotEncoder` for categorical features (vehicle type, carrier, season, etc.)
+- `weather` converted to ordered numeric severity score (Clear=0 → Storm=3)
+- `ColumnTransformer` + `Pipeline` for clean train/predict flow
+
+---
+
+## 🚀 Deployment
+
+- **Platform:** Streamlit Cloud
+- **Live App:** [logipredict-hxr9ietbwfeham2rrschtv.streamlit.app](https://logipredict-hxr9ietbwfeham2rrschtv.streamlit.app/)
+- Model trains on app startup using `@st.cache_resource` — no pickle version issues
+
+### App Features
+- 🎛️ Interactive input form for all shipment parameters
+- 📦 Predicted delay in days
+- 🟢🟡🔴 Risk level indicator (Low / Medium / High)
+- 📊 Comparison vs dataset average (5.50 days)
+- 💡 Smart recommendations based on input (weather, vendor, transport mode)
+- 📊 Business insights sidebar
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| Python | Core language |
+| Pandas & NumPy | Data processing |
+| Matplotlib & Seaborn | EDA visualizations |
+| Scikit-learn | ML pipeline & models |
+| Streamlit | Web app & deployment |
+| Google Colab | Model development |
+| GitHub | Version control |
+
+---
+
+## 📁 Repository Structure
+
+```
+LogiPredict/
+├── app.py                      # Streamlit web application
+├── shipment_data_cleaned.csv   # Dataset (1,500 records)
+├── requirements.txt            # Python dependencies
+├── runtime.txt                 # Python version for Streamlit Cloud
+└── README.md                   # Project documentation
+```
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/nksingh0845/LogiPredict.git
+cd LogiPredict
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 👤 Author
+
+**Nishant Kumar**  
+B.Tech – Production & Industrial Engineering  
+NIT Jamshedpur  
+GitHub: [@nksingh0845](https://github.com/nksingh0845)
