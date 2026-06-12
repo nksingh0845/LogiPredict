@@ -30,7 +30,7 @@ def train_model():
     categorical_cols = ['vehicle_type','transport_mode','carrier','season','cargo_type']
 
     preprocessor = ColumnTransformer(transformers=[
-        ('ohe', OneHotEncoder(drop='first', sparse_output=False), categorical_cols)
+        ('ohe', OneHotEncoder(drop='first'), categorical_cols)
     ], remainder='passthrough')
 
     pipe = Pipeline([
