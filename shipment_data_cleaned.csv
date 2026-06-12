@@ -1,0 +1,1501 @@
+shipment_id,ship_date,origin,destination,distance_km,vehicle_type,transport_mode,carrier,vendor_rating,weather,season,is_weekend,is_peak_season,weight_kg,cargo_type,is_fragile,delay_days,risk_score,month
+SHP00001,2024-07-12,Mumbai,Pune,506,Truck,Road,Delhivery,3,Rain,Summer,0,0,43.9,Apparel,0,4.21,48,2024-07
+SHP00002,2024-04-04,Pune,Mumbai,1002,Ship,Sea,Ecom Express,5,Clear,Spring,0,0,294.8,Electronics,1,3.78,36,2024-04
+SHP00003,2023-04-05,Hyderabad,Delhi,703,Train,Rail,Delhivery,3,Storm,Spring,0,0,190.3,Furniture,0,5.43,63,2023-04
+SHP00004,2024-10-05,Kolkata,Ahmedabad,227,Train,Rail,DTDC,5,Clear,Monsoon,1,1,309.5,Furniture,0,2.08,15,2024-10
+SHP00005,2023-08-27,Mumbai,Ahmedabad,2414,Van,Road,Delhivery,1,Clear,Summer,1,0,433.3,Apparel,0,6.14,70,2023-08
+SHP00006,2024-10-12,Mumbai,Hyderabad,1544,Van,Road,Delhivery,3,Storm,Monsoon,1,1,86.0,Medical,1,7.86,89,2024-10
+SHP00007,2023-02-27,Hyderabad,Ahmedabad,1052,Van,Road,FedEx,4,Fog,Winter,0,1,114.9,Electronics,1,5.1,58,2023-02
+SHP00008,2024-04-14,Pune,Hyderabad,321,Van,Road,Delhivery,5,Storm,Spring,1,0,71.9,Perishable,1,4.33,51,2024-04
+SHP00009,2023-08-13,Pune,Bangalore,1060,Ship,Sea,Ecom Express,5,Storm,Summer,1,0,498.7,Perishable,1,6.29,66,2023-08
+SHP00010,2024-09-02,Pune,Chennai,242,Truck,Road,DTDC,2,Rain,Monsoon,0,1,498.1,Industrial,0,4.79,58,2024-09
+SHP00011,2023-10-28,Hyderabad,Delhi,1079,Ship,Sea,Ecom Express,1,Clear,Monsoon,1,1,217.7,Apparel,0,6.17,70,2023-10
+SHP00012,2023-06-15,Bangalore,Chennai,1128,Ship,Sea,FedEx,2,Clear,Summer,0,0,269.9,Industrial,0,4.28,50,2023-06
+SHP00013,2023-11-11,Hyderabad,Ahmedabad,52,Ship,Sea,Blue Dart,3,Fog,Monsoon,1,1,120.1,Perishable,1,5.57,68,2023-11
+SHP00014,2024-06-24,Bangalore,Chennai,400,Train,Rail,Delhivery,1,Rain,Summer,0,0,436.3,Apparel,0,3.75,57,2024-06
+SHP00015,2024-04-07,Ahmedabad,Kolkata,917,Ship,Sea,DTDC,2,Storm,Spring,1,0,60.9,Perishable,1,7.13,90,2024-04
+SHP00016,2023-03-11,Delhi,Bangalore,2318,Van,Road,Blue Dart,5,Rain,Spring,1,0,452.8,Furniture,0,5.74,48,2023-03
+SHP00017,2024-08-07,Bangalore,Pune,340,Ship,Sea,DTDC,2,Storm,Summer,0,0,288.3,Perishable,1,6.3,84,2024-08
+SHP00018,2023-02-25,Pune,Chennai,829,Truck,Road,FedEx,1,Fog,Winter,1,1,336.8,Medical,1,5.73,81,2023-02
+SHP00019,2024-07-03,Chennai,Mumbai,453,Truck,Road,Blue Dart,4,Storm,Summer,0,0,224.6,Apparel,0,4.79,52,2024-07
+SHP00020,2023-08-31,Mumbai,Ahmedabad,358,Train,Rail,Blue Dart,5,Clear,Summer,0,0,83.6,Apparel,0,2.02,15,2023-08
+SHP00021,2023-09-29,Delhi,Kolkata,2021,Van,Road,Delhivery,4,Clear,Monsoon,0,1,463.3,Apparel,0,5.15,44,2023-09
+SHP00022,2024-07-09,Delhi,Hyderabad,2326,Train,Rail,FedEx,2,Rain,Summer,0,0,30.9,Furniture,0,6.89,74,2024-07
+SHP00023,2023-03-24,Delhi,Hyderabad,284,Truck,Road,Ecom Express,5,Fog,Spring,0,0,425.7,Electronics,1,3.22,38,2023-03
+SHP00024,2024-11-04,Mumbai,Kolkata,1013,Train,Rail,Ecom Express,1,Rain,Monsoon,0,1,292.0,Industrial,0,5.41,69,2024-11
+SHP00025,2024-11-18,Pune,Mumbai,1345,Bike,Road,Delhivery,2,Storm,Monsoon,0,1,322.9,Apparel,0,6.39,76,2024-11
+SHP00026,2023-12-24,Kolkata,Mumbai,347,Truck,Road,Blue Dart,4,Clear,Winter,1,1,440.5,Perishable,1,3.87,43,2023-12
+SHP00027,2024-07-21,Delhi,Pune,1563,Bike,Road,Ecom Express,2,Fog,Summer,1,0,150.0,Medical,1,6.83,83,2024-07
+SHP00028,2023-12-18,Chennai,Pune,1133,Truck,Road,FedEx,1,Rain,Winter,0,1,102.2,Medical,1,6.51,85,2023-12
+SHP00029,2023-10-11,Pune,Ahmedabad,1131,Ship,Sea,Blue Dart,4,Storm,Monsoon,0,1,22.5,Furniture,0,6.54,66,2023-10
+SHP00030,2023-06-02,Mumbai,Delhi,1122,Van,Road,Ecom Express,4,Fog,Summer,0,0,273.0,Furniture,0,4.19,43,2023-06
+SHP00031,2023-02-10,Kolkata,Bangalore,2435,Ship,Sea,Delhivery,2,Fog,Winter,0,1,449.5,Perishable,1,8.38,95,2023-02
+SHP00032,2023-01-26,Bangalore,Kolkata,1498,Ship,Sea,Delhivery,4,Rain,Winter,0,1,90.1,Furniture,0,5.36,51,2023-01
+SHP00033,2024-04-26,Delhi,Ahmedabad,1736,Van,Road,Blue Dart,3,Rain,Spring,0,0,111.6,Apparel,0,5.1,55,2024-04
+SHP00034,2023-03-13,Kolkata,Ahmedabad,982,Van,Road,DTDC,1,Rain,Spring,0,0,483.5,Furniture,0,5.79,72,2023-03
+SHP00035,2024-08-17,Kolkata,Mumbai,1488,Ship,Sea,Blue Dart,4,Storm,Summer,1,0,481.3,Furniture,0,7.2,71,2024-08
+SHP00036,2024-03-22,Kolkata,Delhi,1465,Bike,Road,DTDC,4,Clear,Spring,0,0,1.3,Industrial,0,3.88,35,2024-03
+SHP00037,2023-11-04,Mumbai,Pune,857,Bike,Road,FedEx,4,Clear,Monsoon,1,1,253.8,Medical,1,2.92,35,2023-11
+SHP00038,2024-08-05,Bangalore,Hyderabad,1261,Ship,Sea,DTDC,2,Rain,Summer,0,0,150.8,Industrial,0,6.42,71,2024-08
+SHP00039,2024-03-28,Ahmedabad,Chennai,51,Bike,Road,DTDC,3,Rain,Spring,0,0,338.0,Industrial,0,2.11,32,2024-03
+SHP00040,2023-07-23,Kolkata,Mumbai,745,Truck,Road,Blue Dart,3,Storm,Summer,1,0,74.1,Electronics,1,6.02,76,2023-07
+SHP00041,2024-01-29,Chennai,Pune,1052,Train,Rail,DTDC,5,Clear,Winter,0,1,247.4,Perishable,1,4.32,40,2024-01
+SHP00042,2023-09-13,Delhi,Hyderabad,486,Train,Rail,Ecom Express,2,Rain,Monsoon,0,1,458.8,Electronics,1,5.58,72,2023-09
+SHP00043,2024-05-01,Ahmedabad,Mumbai,1919,Van,Road,DTDC,4,Storm,Spring,0,0,225.3,Perishable,1,7.51,81,2024-05
+SHP00044,2023-10-06,Kolkata,Mumbai,2185,Train,Rail,DTDC,2,Storm,Monsoon,0,1,168.3,Industrial,0,8.1,89,2023-10
+SHP00045,2024-02-29,Chennai,Delhi,380,Van,Road,DTDC,2,Rain,Winter,0,1,204.1,Industrial,0,4.46,56,2024-02
+SHP00046,2023-12-27,Ahmedabad,Delhi,1770,Train,Rail,Ecom Express,5,Clear,Winter,0,1,149.7,Apparel,0,4.61,34,2023-12
+SHP00047,2024-05-12,Kolkata,Chennai,1766,Ship,Sea,DTDC,5,Rain,Spring,1,0,15.0,Furniture,0,5.48,46,2024-05
+SHP00048,2024-03-14,Mumbai,Pune,726,Train,Rail,DTDC,2,Clear,Spring,0,0,68.3,Apparel,0,2.96,40,2024-03
+SHP00049,2023-12-12,Ahmedabad,Bangalore,794,Truck,Road,FedEx,3,Fog,Winter,0,1,380.7,Apparel,0,4.77,54,2023-12
+SHP00050,2024-10-27,Hyderabad,Mumbai,1776,Bike,Road,Blue Dart,1,Fog,Monsoon,1,1,34.8,Medical,1,8.2,100,2024-10
+SHP00051,2024-04-29,Chennai,Mumbai,214,Truck,Road,Blue Dart,2,Rain,Spring,0,0,334.9,Industrial,0,4.19,54,2024-04
+SHP00052,2023-01-27,Mumbai,Hyderabad,1099,Bike,Road,Delhivery,2,Clear,Winter,0,1,464.5,Industrial,0,3.97,47,2023-01
+SHP00053,2023-11-05,Mumbai,Pune,1587,Train,Rail,Ecom Express,2,Clear,Monsoon,1,1,425.2,Industrial,0,5.57,59,2023-11
+SHP00054,2024-03-06,Hyderabad,Delhi,2368,Truck,Road,FedEx,3,Fog,Spring,0,0,411.3,Electronics,1,6.41,74,2024-03
+SHP00055,2024-07-05,Kolkata,Hyderabad,1825,Bike,Road,DTDC,4,Rain,Summer,0,0,387.4,Apparel,0,4.67,46,2024-07
+SHP00056,2024-04-20,Chennai,Ahmedabad,1149,Bike,Road,FedEx,2,Clear,Spring,1,0,285.1,Medical,1,4.5,59,2024-04
+SHP00057,2023-12-30,Ahmedabad,Mumbai,1602,Bike,Road,FedEx,1,Fog,Winter,1,1,399.0,Furniture,0,6.4,78,2023-12
+SHP00058,2024-07-22,Pune,Chennai,1181,Ship,Sea,Blue Dart,1,Rain,Summer,0,0,379.2,Medical,1,6.63,86,2024-07
+SHP00059,2023-09-07,Chennai,Kolkata,2000,Train,Rail,Blue Dart,4,Clear,Monsoon,0,1,153.4,Industrial,0,4.25,37,2023-09
+SHP00060,2023-09-15,Kolkata,Bangalore,1458,Train,Rail,FedEx,5,Storm,Monsoon,0,1,115.7,Medical,1,6.61,68,2023-09
+SHP00061,2024-08-26,Ahmedabad,Bangalore,838,Bike,Road,Delhivery,1,Rain,Summer,0,0,488.3,Industrial,0,3.79,57,2024-08
+SHP00062,2024-06-30,Delhi,Pune,845,Bike,Road,Delhivery,2,Storm,Summer,1,0,63.7,Electronics,1,5.31,76,2024-06
+SHP00063,2023-10-19,Delhi,Hyderabad,273,Ship,Sea,DTDC,3,Rain,Monsoon,0,1,235.0,Apparel,0,4.23,48,2023-10
+SHP00064,2024-10-06,Mumbai,Hyderabad,1084,Train,Rail,DTDC,1,Clear,Monsoon,1,1,343.4,Perishable,1,6.47,80,2024-10
+SHP00065,2024-09-02,Pune,Kolkata,661,Ship,Sea,Delhivery,3,Clear,Monsoon,0,1,395.5,Perishable,1,4.51,53,2024-09
+SHP00066,2023-08-01,Mumbai,Ahmedabad,1863,Bike,Road,FedEx,5,Fog,Summer,0,0,312.9,Furniture,0,4.48,40,2023-08
+SHP00067,2024-02-23,Bangalore,Delhi,382,Van,Road,Ecom Express,2,Rain,Winter,0,1,225.5,Industrial,0,4.49,56,2024-02
+SHP00068,2023-04-28,Chennai,Kolkata,1230,Bike,Road,Delhivery,4,Clear,Spring,0,0,272.5,Medical,1,3.42,39,2023-04
+SHP00069,2024-08-05,Kolkata,Hyderabad,660,Bike,Road,Blue Dart,2,Clear,Summer,0,0,460.6,Apparel,0,3.34,43,2024-08
+SHP00070,2023-11-27,Delhi,Kolkata,1698,Bike,Road,DTDC,5,Fog,Monsoon,0,1,302.1,Electronics,1,6.36,62,2023-11
+SHP00071,2024-06-15,Bangalore,Kolkata,424,Van,Road,FedEx,5,Clear,Summer,1,0,325.9,Furniture,0,2.13,15,2024-06
+SHP00072,2023-04-18,Hyderabad,Pune,2064,Truck,Road,DTDC,4,Storm,Spring,0,0,428.9,Furniture,0,7.67,74,2023-04
+SHP00073,2023-11-19,Ahmedabad,Delhi,1736,Train,Rail,Ecom Express,3,Fog,Monsoon,1,1,126.6,Electronics,1,7.28,81,2023-11
+SHP00074,2024-01-06,Chennai,Hyderabad,2157,Truck,Road,DTDC,5,Fog,Winter,1,1,311.5,Apparel,0,6.91,58,2024-01
+SHP00075,2024-05-11,Kolkata,Chennai,1860,Truck,Road,Ecom Express,2,Storm,Spring,1,0,61.2,Medical,1,7.89,96,2024-05
+SHP00076,2023-04-27,Mumbai,Bangalore,698,Bike,Road,Ecom Express,5,Clear,Spring,0,0,231.0,Electronics,1,2.56,27,2023-04
+SHP00077,2024-04-12,Ahmedabad,Mumbai,680,Train,Rail,DTDC,3,Storm,Spring,0,0,275.9,Apparel,0,5.72,65,2024-04
+SHP00078,2023-11-02,Delhi,Chennai,609,Truck,Road,FedEx,3,Fog,Monsoon,0,1,418.8,Industrial,0,5.06,56,2023-11
+SHP00079,2023-11-26,Pune,Chennai,2055,Van,Road,FedEx,4,Fog,Monsoon,1,1,434.9,Medical,1,6.5,69,2023-11
+SHP00080,2023-02-07,Bangalore,Kolkata,1732,Truck,Road,DTDC,3,Fog,Winter,0,1,63.6,Industrial,0,7.42,74,2023-02
+SHP00081,2023-05-28,Delhi,Pune,1409,Truck,Road,Ecom Express,4,Clear,Spring,1,0,205.3,Medical,1,4.97,51,2023-05
+SHP00082,2024-10-03,Pune,Bangalore,1135,Bike,Road,Blue Dart,5,Fog,Monsoon,0,1,359.5,Apparel,0,4.18,37,2024-10
+SHP00083,2023-04-03,Chennai,Pune,2266,Truck,Road,Delhivery,5,Clear,Spring,0,0,217.3,Electronics,1,5.07,46,2023-04
+SHP00084,2023-02-27,Hyderabad,Ahmedabad,461,Train,Rail,Blue Dart,2,Storm,Winter,0,1,147.0,Furniture,0,4.89,65,2023-02
+SHP00085,2023-03-22,Bangalore,Mumbai,1814,Van,Road,Ecom Express,2,Fog,Spring,0,0,304.9,Apparel,0,6.13,70,2023-03
+SHP00086,2023-01-10,Kolkata,Pune,2438,Van,Road,FedEx,2,Fog,Winter,0,1,449.5,Apparel,0,7.38,79,2023-01
+SHP00087,2024-03-10,Kolkata,Pune,1228,Ship,Sea,DTDC,2,Clear,Spring,1,0,345.3,Apparel,0,5.14,56,2024-03
+SHP00088,2023-10-30,Kolkata,Pune,1625,Train,Rail,DTDC,1,Rain,Monsoon,0,1,11.5,Medical,1,6.59,86,2023-10
+SHP00089,2023-08-24,Kolkata,Ahmedabad,1671,Bike,Road,Ecom Express,1,Clear,Summer,0,0,303.7,Furniture,0,5.29,63,2023-08
+SHP00090,2024-01-09,Delhi,Hyderabad,1076,Van,Road,FedEx,1,Clear,Winter,0,1,366.3,Electronics,1,5.24,71,2024-01
+SHP00091,2024-05-28,Hyderabad,Kolkata,1258,Bike,Road,Delhivery,4,Rain,Spring,0,0,456.8,Perishable,1,4.52,52,2024-05
+SHP00092,2023-08-20,Bangalore,Ahmedabad,2023,Bike,Road,DTDC,3,Clear,Summer,1,0,430.1,Medical,1,6.24,66,2023-08
+SHP00093,2023-05-07,Kolkata,Hyderabad,1677,Ship,Sea,DTDC,3,Clear,Spring,1,0,227.7,Medical,1,5.79,63,2023-05
+SHP00094,2023-08-15,Hyderabad,Kolkata,1610,Bike,Road,DTDC,1,Rain,Summer,0,0,324.0,Medical,1,6.09,82,2023-08
+SHP00095,2024-05-19,Delhi,Chennai,1951,Bike,Road,Delhivery,4,Clear,Spring,1,0,58.5,Perishable,1,5.0,51,2024-05
+SHP00096,2023-04-12,Pune,Hyderabad,1908,Bike,Road,Ecom Express,5,Fog,Spring,0,0,416.9,Industrial,0,5.1,44,2023-04
+SHP00097,2024-01-07,Ahmedabad,Mumbai,1721,Bike,Road,Delhivery,1,Storm,Winter,1,1,50.1,Medical,1,7.83,100,2024-01
+SHP00098,2024-11-09,Ahmedabad,Delhi,1519,Truck,Road,Delhivery,4,Storm,Monsoon,1,1,106.4,Medical,1,8.06,85,2024-11
+SHP00099,2024-07-21,Chennai,Delhi,2495,Truck,Road,Delhivery,1,Storm,Summer,1,0,104.0,Perishable,1,9.39,100,2024-07
+SHP00100,2023-06-28,Kolkata,Ahmedabad,654,Ship,Sea,Delhivery,1,Storm,Summer,0,0,55.4,Electronics,1,6.48,91,2023-06
+SHP00101,2023-09-29,Delhi,Bangalore,589,Truck,Road,Ecom Express,3,Rain,Monsoon,0,1,26.7,Medical,1,4.76,60,2023-09
+SHP00102,2023-08-15,Ahmedabad,Kolkata,310,Train,Rail,Ecom Express,4,Storm,Summer,0,0,472.7,Electronics,1,4.79,60,2023-08
+SHP00103,2023-04-21,Pune,Chennai,2185,Bike,Road,Blue Dart,4,Clear,Spring,0,0,245.4,Apparel,0,4.77,41,2023-04
+SHP00104,2024-06-27,Pune,Kolkata,657,Truck,Road,Ecom Express,2,Storm,Summer,0,0,147.8,Industrial,0,5.85,72,2024-06
+SHP00105,2023-12-14,Chennai,Kolkata,1812,Truck,Road,DTDC,1,Rain,Winter,0,1,413.8,Apparel,0,7.38,84,2023-12
+SHP00106,2023-03-29,Mumbai,Delhi,1798,Bike,Road,Delhivery,3,Storm,Spring,0,0,47.1,Electronics,1,7.21,85,2023-03
+SHP00107,2023-12-29,Mumbai,Kolkata,1576,Van,Road,Ecom Express,5,Clear,Winter,0,1,436.9,Apparel,0,4.47,33,2023-12
+SHP00108,2024-05-08,Bangalore,Pune,1228,Ship,Sea,Blue Dart,3,Storm,Spring,0,0,112.5,Electronics,1,6.19,77,2024-05
+SHP00109,2024-07-28,Pune,Ahmedabad,1484,Ship,Sea,FedEx,3,Clear,Summer,1,0,487.3,Industrial,0,4.2,43,2024-07
+SHP00110,2023-12-26,Kolkata,Bangalore,157,Ship,Sea,Delhivery,3,Clear,Winter,0,1,3.5,Perishable,1,3.14,43,2023-12
+SHP00111,2024-03-05,Chennai,Kolkata,2369,Train,Rail,Blue Dart,1,Rain,Spring,0,0,227.1,Perishable,1,6.75,87,2024-03
+SHP00112,2023-03-25,Delhi,Pune,2374,Ship,Sea,Delhivery,1,Clear,Spring,1,0,136.4,Medical,1,7.67,89,2023-03
+SHP00113,2024-06-08,Chennai,Ahmedabad,1786,Train,Rail,DTDC,5,Fog,Summer,1,0,57.4,Apparel,0,5.8,50,2024-06
+SHP00114,2023-02-26,Pune,Kolkata,2479,Train,Rail,Blue Dart,5,Storm,Winter,1,1,4.3,Furniture,0,7.84,69,2023-02
+SHP00115,2024-03-16,Delhi,Kolkata,915,Van,Road,FedEx,3,Storm,Spring,1,0,88.3,Apparel,0,5.22,62,2024-03
+SHP00116,2023-03-21,Delhi,Kolkata,2338,Bike,Road,Blue Dart,1,Fog,Spring,0,0,431.1,Industrial,0,7.13,83,2023-03
+SHP00117,2023-11-29,Pune,Delhi,1808,Ship,Sea,FedEx,4,Fog,Monsoon,0,1,86.4,Industrial,0,5.84,56,2023-11
+SHP00118,2023-03-22,Pune,Kolkata,1532,Truck,Road,Delhivery,4,Clear,Spring,0,0,198.2,Furniture,0,4.54,40,2023-03
+SHP00119,2023-12-24,Chennai,Ahmedabad,1440,Van,Road,Blue Dart,3,Rain,Winter,1,1,175.9,Medical,1,6.07,70,2023-12
+SHP00120,2024-10-05,Mumbai,Bangalore,649,Bike,Road,Ecom Express,2,Rain,Monsoon,1,1,247.3,Industrial,0,4.62,57,2024-10
+SHP00121,2024-04-25,Ahmedabad,Delhi,2423,Train,Rail,FedEx,5,Storm,Spring,0,0,221.4,Furniture,0,6.73,61,2024-04
+SHP00122,2024-01-13,Delhi,Mumbai,1491,Ship,Sea,DTDC,1,Storm,Winter,1,1,415.9,Electronics,1,8.57,100,2024-01
+SHP00123,2024-08-08,Ahmedabad,Pune,419,Ship,Sea,DTDC,5,Fog,Summer,0,0,326.1,Furniture,0,3.73,34,2024-08
+SHP00124,2024-03-24,Delhi,Bangalore,303,Train,Rail,Blue Dart,1,Storm,Spring,1,0,495.5,Industrial,0,4.95,72,2024-03
+SHP00125,2023-12-13,Pune,Chennai,2191,Ship,Sea,FedEx,2,Storm,Winter,0,1,339.6,Electronics,1,8.81,100,2023-12
+SHP00126,2023-03-25,Bangalore,Chennai,319,Bike,Road,FedEx,1,Fog,Spring,1,0,291.6,Perishable,1,3.79,66,2023-03
+SHP00127,2024-01-21,Kolkata,Hyderabad,1482,Bike,Road,Ecom Express,4,Rain,Winter,1,1,321.9,Furniture,0,5.7,53,2024-01
+SHP00128,2023-08-08,Kolkata,Mumbai,2206,Truck,Road,Blue Dart,4,Storm,Summer,0,0,171.2,Apparel,0,6.44,65,2023-08
+SHP00129,2024-07-06,Mumbai,Hyderabad,836,Van,Road,Blue Dart,2,Rain,Summer,1,0,417.6,Industrial,0,4.79,58,2024-07
+SHP00130,2024-03-24,Bangalore,Pune,586,Ship,Sea,Delhivery,4,Rain,Spring,1,0,22.3,Furniture,0,4.38,43,2024-03
+SHP00131,2024-04-25,Chennai,Bangalore,1022,Train,Rail,DTDC,5,Storm,Spring,0,0,452.0,Perishable,1,4.72,54,2024-04
+SHP00132,2023-07-24,Bangalore,Ahmedabad,1854,Train,Rail,Ecom Express,3,Fog,Summer,0,0,400.7,Perishable,1,7.21,80,2023-07
+SHP00133,2023-03-27,Mumbai,Chennai,1074,Truck,Road,Ecom Express,4,Storm,Spring,0,0,381.7,Furniture,0,5.43,57,2023-03
+SHP00134,2024-02-10,Pune,Delhi,1841,Truck,Road,FedEx,2,Fog,Winter,1,1,251.3,Perishable,1,7.53,88,2024-02
+SHP00135,2024-10-27,Mumbai,Ahmedabad,1631,Truck,Road,Blue Dart,3,Rain,Monsoon,1,1,168.0,Perishable,1,6.53,73,2024-10
+SHP00136,2023-09-20,Mumbai,Delhi,1985,Van,Road,Ecom Express,4,Fog,Monsoon,0,1,108.2,Perishable,1,7.04,73,2023-09
+SHP00137,2023-05-05,Chennai,Bangalore,2297,Ship,Sea,Blue Dart,5,Fog,Spring,0,0,24.4,Apparel,0,5.81,50,2023-05
+SHP00138,2024-03-15,Bangalore,Chennai,307,Truck,Road,Ecom Express,4,Clear,Spring,0,0,1.3,Furniture,0,2.07,21,2024-03
+SHP00139,2024-07-11,Mumbai,Hyderabad,1035,Ship,Sea,Blue Dart,4,Rain,Summer,0,0,253.9,Industrial,0,4.04,41,2024-07
+SHP00140,2023-03-11,Hyderabad,Ahmedabad,1975,Truck,Road,FedEx,4,Storm,Spring,1,0,172.7,Medical,1,7.14,78,2023-03
+SHP00141,2024-10-20,Hyderabad,Ahmedabad,474,Ship,Sea,Blue Dart,3,Rain,Monsoon,1,1,88.0,Medical,1,4.37,57,2024-10
+SHP00142,2023-07-24,Chennai,Delhi,796,Van,Road,Blue Dart,1,Fog,Summer,0,0,443.0,Furniture,0,4.96,67,2023-07
+SHP00143,2024-01-01,Chennai,Bangalore,1320,Ship,Sea,FedEx,4,Fog,Winter,0,1,431.1,Electronics,1,6.27,67,2024-01
+SHP00144,2024-05-23,Hyderabad,Mumbai,559,Bike,Road,DTDC,4,Fog,Spring,0,0,346.2,Furniture,0,3.73,40,2024-05
+SHP00145,2023-10-28,Bangalore,Hyderabad,2176,Bike,Road,Blue Dart,1,Fog,Monsoon,1,1,160.9,Electronics,1,7.8,97,2023-10
+SHP00146,2023-12-28,Ahmedabad,Delhi,1876,Ship,Sea,DTDC,4,Rain,Winter,0,1,307.6,Apparel,0,6.82,62,2023-12
+SHP00147,2024-09-14,Delhi,Bangalore,1174,Truck,Road,FedEx,1,Fog,Monsoon,1,1,339.2,Apparel,0,6.53,79,2024-09
+SHP00148,2024-01-16,Ahmedabad,Bangalore,1550,Bike,Road,Ecom Express,4,Clear,Winter,0,1,222.2,Electronics,1,4.61,48,2024-01
+SHP00149,2023-04-27,Kolkata,Mumbai,2400,Van,Road,DTDC,5,Storm,Spring,0,0,13.4,Perishable,1,6.92,70,2023-04
+SHP00150,2024-05-17,Kolkata,Pune,2350,Truck,Road,DTDC,3,Storm,Spring,0,0,100.5,Perishable,1,8.37,93,2024-05
+SHP00151,2023-03-08,Hyderabad,Pune,353,Train,Rail,Blue Dart,2,Fog,Spring,0,0,275.2,Furniture,0,4.35,57,2023-03
+SHP00152,2024-05-20,Bangalore,Mumbai,763,Bike,Road,Blue Dart,5,Rain,Spring,0,0,13.6,Industrial,0,2.51,23,2024-05
+SHP00153,2024-02-12,Mumbai,Chennai,2394,Bike,Road,Ecom Express,4,Rain,Winter,0,1,499.8,Medical,1,6.46,67,2024-02
+SHP00154,2024-11-27,Ahmedabad,Chennai,1727,Ship,Sea,FedEx,1,Rain,Monsoon,0,1,258.9,Perishable,1,7.42,92,2024-11
+SHP00155,2023-06-06,Mumbai,Hyderabad,2308,Ship,Sea,DTDC,2,Rain,Summer,0,0,152.4,Perishable,1,7.57,87,2023-06
+SHP00156,2024-10-02,Kolkata,Mumbai,1467,Ship,Sea,FedEx,3,Clear,Monsoon,0,1,151.8,Industrial,0,5.47,53,2024-10
+SHP00157,2023-01-30,Delhi,Ahmedabad,432,Ship,Sea,Delhivery,2,Rain,Winter,0,1,41.1,Medical,1,5.3,70,2023-01
+SHP00158,2023-09-08,Kolkata,Chennai,913,Ship,Sea,DTDC,4,Clear,Monsoon,0,1,402.4,Medical,1,4.13,44,2023-09
+SHP00159,2024-05-10,Ahmedabad,Chennai,1713,Bike,Road,Blue Dart,4,Clear,Spring,0,0,232.5,Furniture,0,3.44,31,2024-05
+SHP00160,2024-04-22,Hyderabad,Mumbai,1357,Bike,Road,FedEx,4,Rain,Spring,0,0,61.7,Apparel,0,3.97,40,2024-04
+SHP00161,2023-06-13,Pune,Mumbai,1065,Van,Road,FedEx,1,Clear,Summer,0,0,406.8,Industrial,0,4.12,54,2023-06
+SHP00162,2023-04-03,Ahmedabad,Delhi,702,Train,Rail,DTDC,5,Fog,Spring,0,0,472.6,Industrial,0,3.34,31,2023-04
+SHP00163,2024-09-03,Kolkata,Chennai,1922,Van,Road,Blue Dart,2,Storm,Monsoon,0,1,441.2,Medical,1,7.84,95,2024-09
+SHP00164,2023-02-16,Pune,Bangalore,83,Truck,Road,FedEx,4,Rain,Winter,0,1,200.6,Industrial,0,2.87,32,2023-02
+SHP00165,2024-07-17,Ahmedabad,Pune,2351,Van,Road,Blue Dart,3,Storm,Summer,0,0,140.2,Industrial,0,7.52,79,2024-07
+SHP00166,2024-09-08,Bangalore,Mumbai,446,Train,Rail,Ecom Express,3,Storm,Monsoon,1,1,254.8,Industrial,0,5.24,62,2024-09
+SHP00167,2024-09-12,Ahmedabad,Mumbai,214,Truck,Road,FedEx,1,Rain,Monsoon,0,1,446.6,Perishable,1,4.8,73,2024-09
+SHP00168,2024-07-30,Ahmedabad,Hyderabad,715,Train,Rail,Ecom Express,5,Storm,Summer,0,0,150.2,Electronics,1,5.2,58,2024-07
+SHP00169,2024-04-30,Delhi,Hyderabad,1558,Bike,Road,Ecom Express,1,Fog,Spring,0,0,133.1,Medical,1,6.46,86,2024-04
+SHP00170,2024-11-28,Bangalore,Ahmedabad,2415,Van,Road,Delhivery,1,Fog,Monsoon,0,1,121.5,Industrial,0,7.52,86,2024-11
+SHP00171,2023-07-28,Bangalore,Kolkata,500,Van,Road,FedEx,1,Fog,Summer,0,0,205.5,Industrial,0,5.38,70,2023-07
+SHP00172,2024-01-21,Ahmedabad,Kolkata,305,Van,Road,Ecom Express,5,Rain,Winter,1,1,157.2,Perishable,1,3.34,38,2024-01
+SHP00173,2023-10-13,Chennai,Mumbai,1932,Ship,Sea,FedEx,3,Storm,Monsoon,0,1,279.3,Perishable,1,9.37,100,2023-10
+SHP00174,2023-05-05,Kolkata,Bangalore,1233,Van,Road,DTDC,4,Storm,Spring,0,0,287.0,Industrial,0,5.29,56,2023-05
+SHP00175,2023-03-22,Kolkata,Pune,1605,Train,Rail,FedEx,3,Rain,Spring,0,0,173.5,Apparel,0,4.62,51,2023-03
+SHP00176,2024-09-22,Bangalore,Delhi,926,Van,Road,Ecom Express,5,Storm,Monsoon,1,1,370.6,Perishable,1,5.26,58,2024-09
+SHP00177,2023-12-05,Mumbai,Kolkata,1043,Truck,Road,Delhivery,5,Rain,Winter,0,1,358.8,Electronics,1,4.9,49,2023-12
+SHP00178,2023-10-20,Kolkata,Bangalore,2304,Van,Road,DTDC,4,Fog,Monsoon,0,1,323.1,Electronics,1,7.05,73,2023-10
+SHP00179,2024-02-11,Bangalore,Delhi,2401,Van,Road,Delhivery,5,Clear,Winter,1,1,394.1,Perishable,1,6.92,59,2024-02
+SHP00180,2024-04-10,Hyderabad,Bangalore,1235,Truck,Road,Ecom Express,1,Storm,Spring,0,0,494.6,Industrial,0,6.77,85,2024-04
+SHP00181,2023-06-16,Mumbai,Chennai,2197,Train,Rail,FedEx,2,Fog,Summer,0,0,365.7,Medical,1,6.69,82,2023-06
+SHP00182,2023-12-02,Pune,Kolkata,1430,Bike,Road,Delhivery,5,Rain,Winter,1,1,43.8,Medical,1,5.65,55,2023-12
+SHP00183,2024-01-28,Delhi,Chennai,440,Van,Road,FedEx,2,Fog,Winter,1,1,118.1,Furniture,0,5.01,62,2024-01
+SHP00184,2023-11-11,Mumbai,Kolkata,2396,Truck,Road,Delhivery,3,Storm,Monsoon,1,1,80.3,Medical,1,8.93,97,2023-11
+SHP00185,2024-05-04,Chennai,Mumbai,2108,Bike,Road,FedEx,1,Storm,Spring,1,0,77.0,Medical,1,8.31,100,2024-05
+SHP00186,2024-01-06,Ahmedabad,Kolkata,2299,Train,Rail,Delhivery,5,Rain,Winter,1,1,39.5,Industrial,0,6.26,51,2024-01
+SHP00187,2024-06-16,Bangalore,Chennai,509,Truck,Road,Ecom Express,5,Rain,Summer,1,0,221.2,Medical,1,4.08,43,2024-06
+SHP00188,2024-07-31,Pune,Chennai,422,Ship,Sea,DTDC,4,Clear,Summer,0,0,29.3,Apparel,0,3.57,32,2024-07
+SHP00189,2024-03-09,Mumbai,Delhi,1312,Truck,Road,Blue Dart,4,Storm,Spring,1,0,172.6,Electronics,1,6.2,71,2024-03
+SHP00190,2024-10-18,Bangalore,Ahmedabad,332,Train,Rail,DTDC,1,Storm,Monsoon,0,1,489.2,Medical,1,6.25,89,2024-10
+SHP00191,2024-11-08,Mumbai,Pune,1771,Bike,Road,DTDC,4,Fog,Monsoon,0,1,437.3,Perishable,1,6.32,67,2024-11
+SHP00192,2024-04-19,Delhi,Chennai,781,Ship,Sea,Delhivery,4,Rain,Spring,0,0,336.9,Industrial,0,4.16,42,2024-04
+SHP00193,2023-10-10,Hyderabad,Mumbai,1787,Ship,Sea,Delhivery,4,Rain,Monsoon,0,1,94.6,Medical,1,6.86,70,2023-10
+SHP00194,2023-02-04,Mumbai,Hyderabad,1767,Ship,Sea,Delhivery,1,Rain,Winter,1,1,223.5,Medical,1,7.82,95,2023-02
+SHP00195,2023-02-27,Chennai,Ahmedabad,249,Van,Road,DTDC,1,Fog,Winter,0,1,70.5,Furniture,0,5.15,69,2023-02
+SHP00196,2024-06-17,Bangalore,Pune,2409,Bike,Road,Delhivery,5,Storm,Summer,0,0,110.9,Furniture,0,7.52,67,2024-06
+SHP00197,2024-10-20,Delhi,Chennai,1177,Truck,Road,DTDC,5,Rain,Monsoon,1,1,335.8,Industrial,0,5.26,44,2024-10
+SHP00198,2023-08-19,Chennai,Ahmedabad,661,Bike,Road,Ecom Express,4,Rain,Summer,1,0,150.7,Medical,1,4.62,53,2023-08
+SHP00199,2023-09-19,Pune,Mumbai,641,Train,Rail,DTDC,1,Fog,Monsoon,0,1,102.1,Medical,1,6.21,85,2023-09
+SHP00200,2024-09-11,Pune,Hyderabad,1569,Truck,Road,Blue Dart,5,Rain,Monsoon,0,1,301.7,Electronics,1,5.54,54,2024-09
+SHP00201,2023-01-16,Hyderabad,Bangalore,820,Ship,Sea,DTDC,5,Rain,Winter,0,1,106.3,Perishable,1,5.28,52,2023-01
+SHP00202,2023-10-17,Hyderabad,Ahmedabad,2011,Van,Road,DTDC,5,Rain,Monsoon,0,1,190.6,Industrial,0,5.84,48,2023-10
+SHP00203,2024-04-25,Ahmedabad,Delhi,1521,Bike,Road,Ecom Express,3,Storm,Spring,0,0,380.9,Furniture,0,6.85,74,2024-04
+SHP00204,2024-08-21,Kolkata,Hyderabad,1745,Truck,Road,Delhivery,5,Rain,Summer,0,0,289.8,Apparel,0,5.0,42,2024-08
+SHP00205,2024-07-17,Chennai,Kolkata,1259,Van,Road,Delhivery,2,Storm,Summer,0,0,327.5,Medical,1,6.54,86,2024-07
+SHP00206,2024-07-13,Bangalore,Pune,2051,Train,Rail,FedEx,4,Rain,Summer,1,0,244.4,Industrial,0,5.97,55,2024-07
+SHP00207,2024-10-07,Pune,Mumbai,290,Ship,Sea,Blue Dart,1,Clear,Monsoon,0,1,116.1,Medical,1,4.58,66,2024-10
+SHP00208,2024-07-18,Delhi,Hyderabad,1917,Bike,Road,DTDC,1,Fog,Summer,0,0,206.0,Electronics,1,7.37,93,2024-07
+SHP00209,2023-04-09,Bangalore,Delhi,2218,Bike,Road,Blue Dart,5,Storm,Spring,1,0,262.4,Perishable,1,7.19,72,2023-04
+SHP00210,2023-09-07,Ahmedabad,Kolkata,1501,Bike,Road,FedEx,4,Clear,Monsoon,0,1,495.1,Perishable,1,4.8,50,2023-09
+SHP00211,2024-05-02,Pune,Kolkata,1278,Truck,Road,DTDC,1,Clear,Spring,0,0,28.5,Electronics,1,5.53,73,2024-05
+SHP00212,2024-08-03,Chennai,Mumbai,1827,Bike,Road,Ecom Express,5,Clear,Summer,1,0,238.0,Electronics,1,4.25,39,2024-08
+SHP00213,2024-08-24,Delhi,Bangalore,354,Bike,Road,Delhivery,5,Clear,Summer,1,0,72.5,Medical,1,2.39,25,2024-08
+SHP00214,2023-05-24,Hyderabad,Chennai,1275,Van,Road,Ecom Express,5,Rain,Spring,0,0,395.4,Medical,1,3.94,42,2023-05
+SHP00215,2023-03-19,Chennai,Ahmedabad,371,Ship,Sea,Blue Dart,3,Clear,Spring,1,0,170.6,Industrial,0,3.77,40,2023-03
+SHP00216,2024-01-20,Hyderabad,Kolkata,1386,Truck,Road,DTDC,3,Fog,Winter,1,1,216.2,Medical,1,6.68,76,2024-01
+SHP00217,2023-06-07,Mumbai,Chennai,2449,Train,Rail,Delhivery,1,Storm,Summer,0,0,190.3,Medical,1,8.92,100,2023-06
+SHP00218,2023-10-04,Hyderabad,Ahmedabad,1527,Truck,Road,FedEx,1,Clear,Monsoon,0,1,51.6,Electronics,1,6.26,78,2023-10
+SHP00219,2024-07-21,Mumbai,Chennai,817,Train,Rail,Blue Dart,4,Fog,Summer,1,0,47.0,Industrial,0,4.29,44,2024-07
+SHP00220,2024-01-25,Bangalore,Pune,100,Bike,Road,Blue Dart,4,Fog,Winter,0,1,85.2,Furniture,0,2.42,30,2024-01
+SHP00221,2024-03-07,Pune,Bangalore,1283,Bike,Road,Blue Dart,4,Rain,Spring,0,0,150.2,Electronics,1,3.78,47,2024-03
+SHP00222,2023-01-07,Bangalore,Chennai,2080,Ship,Sea,DTDC,5,Rain,Winter,1,1,474.4,Furniture,0,7.61,62,2023-01
+SHP00223,2024-09-09,Kolkata,Bangalore,1606,Bike,Road,DTDC,4,Storm,Monsoon,0,1,473.7,Perishable,1,6.71,75,2024-09
+SHP00224,2023-10-15,Hyderabad,Chennai,1681,Bike,Road,Ecom Express,3,Fog,Monsoon,1,1,408.3,Apparel,0,6.34,66,2023-10
+SHP00225,2024-04-17,Delhi,Pune,1545,Truck,Road,Ecom Express,5,Rain,Spring,0,0,471.5,Perishable,1,4.91,49,2024-04
+SHP00226,2023-06-07,Kolkata,Pune,333,Train,Rail,FedEx,4,Rain,Summer,0,0,357.8,Apparel,0,2.86,32,2023-06
+SHP00227,2023-02-07,Pune,Kolkata,352,Train,Rail,Ecom Express,5,Fog,Winter,0,1,395.5,Furniture,0,3.63,33,2023-02
+SHP00228,2024-10-22,Delhi,Hyderabad,2482,Truck,Road,FedEx,1,Rain,Monsoon,0,1,338.9,Apparel,0,7.06,81,2024-10
+SHP00229,2024-06-15,Chennai,Hyderabad,1408,Train,Rail,Blue Dart,1,Clear,Summer,1,0,279.2,Medical,1,4.41,65,2024-06
+SHP00230,2023-10-30,Ahmedabad,Delhi,1652,Train,Rail,FedEx,5,Rain,Monsoon,0,1,208.3,Electronics,1,4.96,50,2023-10
+SHP00231,2024-05-09,Chennai,Hyderabad,525,Van,Road,FedEx,3,Storm,Spring,0,0,174.5,Electronics,1,4.63,65,2024-05
+SHP00232,2023-04-22,Hyderabad,Pune,1356,Truck,Road,Blue Dart,3,Clear,Spring,1,0,338.7,Perishable,1,4.87,56,2023-04
+SHP00233,2024-02-19,Ahmedabad,Mumbai,1049,Ship,Sea,FedEx,2,Rain,Winter,0,1,315.1,Perishable,1,5.93,75,2024-02
+SHP00234,2023-08-08,Pune,Delhi,169,Ship,Sea,Ecom Express,2,Fog,Summer,0,0,103.3,Medical,1,4.81,68,2023-08
+SHP00235,2023-04-27,Chennai,Kolkata,306,Ship,Sea,FedEx,1,Rain,Spring,0,0,131.5,Apparel,0,3.76,57,2023-04
+SHP00236,2024-04-13,Hyderabad,Bangalore,2495,Train,Rail,Ecom Express,5,Fog,Spring,1,0,308.9,Medical,1,6.67,64,2024-04
+SHP00237,2023-11-09,Mumbai,Bangalore,1268,Ship,Sea,Delhivery,5,Clear,Monsoon,0,1,58.9,Furniture,0,3.93,29,2023-11
+SHP00238,2024-07-04,Ahmedabad,Hyderabad,1763,Ship,Sea,DTDC,2,Fog,Summer,0,0,346.9,Medical,1,6.83,83,2024-07
+SHP00239,2024-04-06,Bangalore,Chennai,759,Ship,Sea,FedEx,2,Fog,Spring,1,0,309.9,Furniture,0,5.68,67,2024-04
+SHP00240,2024-03-30,Pune,Hyderabad,849,Train,Rail,DTDC,5,Fog,Spring,1,0,244.6,Electronics,1,4.53,48,2024-03
+SHP00241,2023-10-23,Chennai,Hyderabad,2365,Truck,Road,Blue Dart,2,Storm,Monsoon,0,1,84.5,Apparel,0,7.79,87,2023-10
+SHP00242,2024-07-10,Kolkata,Ahmedabad,2078,Ship,Sea,Ecom Express,5,Clear,Summer,0,0,411.7,Furniture,0,4.79,35,2024-07
+SHP00243,2023-02-03,Chennai,Bangalore,2270,Truck,Road,DTDC,4,Rain,Winter,0,1,225.1,Furniture,0,7.1,64,2023-02
+SHP00244,2023-05-23,Bangalore,Hyderabad,530,Van,Road,Ecom Express,2,Storm,Spring,0,0,392.5,Perishable,1,5.83,80,2023-05
+SHP00245,2023-10-27,Hyderabad,Pune,293,Ship,Sea,Ecom Express,3,Storm,Monsoon,0,1,145.0,Furniture,0,6.29,70,2023-10
+SHP00246,2023-05-30,Bangalore,Mumbai,440,Van,Road,FedEx,4,Clear,Spring,0,0,355.8,Perishable,1,2.15,30,2023-05
+SHP00247,2024-10-10,Ahmedabad,Delhi,1658,Train,Rail,DTDC,2,Storm,Monsoon,0,1,397.4,Electronics,1,7.52,93,2024-10
+SHP00248,2024-04-14,Mumbai,Pune,1561,Train,Rail,Ecom Express,4,Storm,Spring,1,0,317.6,Medical,1,7.06,77,2024-04
+SHP00249,2023-10-02,Chennai,Kolkata,1517,Truck,Road,Delhivery,5,Fog,Monsoon,0,1,161.8,Furniture,0,5.54,48,2023-10
+SHP00250,2023-05-08,Ahmedabad,Delhi,2368,Train,Rail,Blue Dart,3,Clear,Spring,0,0,464.8,Perishable,1,5.93,64,2023-05
+SHP00251,2023-10-08,Kolkata,Mumbai,1857,Train,Rail,Delhivery,1,Fog,Monsoon,1,1,47.1,Furniture,0,7.26,84,2023-10
+SHP00252,2023-04-08,Mumbai,Pune,727,Truck,Road,Delhivery,4,Storm,Spring,1,0,1.0,Apparel,0,6.02,62,2023-04
+SHP00253,2023-12-18,Delhi,Mumbai,369,Van,Road,Ecom Express,5,Rain,Winter,0,1,408.6,Apparel,0,3.52,31,2023-12
+SHP00254,2023-05-21,Hyderabad,Bangalore,987,Train,Rail,Blue Dart,1,Clear,Spring,1,0,191.7,Perishable,1,3.77,60,2023-05
+SHP00255,2023-08-07,Ahmedabad,Bangalore,635,Truck,Road,Ecom Express,5,Clear,Summer,0,0,314.2,Perishable,1,3.4,33,2023-08
+SHP00256,2024-03-15,Pune,Bangalore,1862,Van,Road,Delhivery,1,Clear,Spring,0,0,157.6,Perishable,1,5.49,73,2024-03
+SHP00257,2024-11-05,Delhi,Ahmedabad,1064,Bike,Road,Ecom Express,1,Rain,Monsoon,0,1,438.0,Perishable,1,5.34,77,2024-11
+SHP00258,2024-05-26,Mumbai,Bangalore,1654,Bike,Road,DTDC,1,Rain,Spring,1,0,319.2,Electronics,1,6.76,87,2024-05
+SHP00259,2024-07-13,Pune,Bangalore,2213,Truck,Road,Delhivery,3,Storm,Summer,1,0,341.6,Apparel,0,8.77,88,2024-07
+SHP00260,2024-02-12,Delhi,Mumbai,118,Ship,Sea,FedEx,1,Clear,Winter,0,1,253.6,Medical,1,3.78,60,2024-02
+SHP00261,2023-11-14,Kolkata,Delhi,2102,Train,Rail,Blue Dart,4,Fog,Monsoon,0,1,40.0,Perishable,1,6.69,70,2023-11
+SHP00262,2023-09-08,Chennai,Delhi,1388,Train,Rail,FedEx,5,Clear,Monsoon,0,1,43.6,Apparel,0,3.6,27,2023-09
+SHP00263,2023-05-21,Mumbai,Delhi,525,Train,Rail,FedEx,5,Clear,Spring,1,0,350.9,Perishable,1,1.79,21,2023-05
+SHP00264,2023-01-31,Mumbai,Ahmedabad,2168,Bike,Road,Delhivery,2,Storm,Winter,0,1,167.8,Apparel,0,7.85,87,2023-01
+SHP00265,2024-06-07,Ahmedabad,Chennai,1164,Ship,Sea,Ecom Express,1,Storm,Summer,0,0,180.4,Apparel,0,7.52,91,2024-06
+SHP00266,2023-01-13,Delhi,Ahmedabad,694,Bike,Road,Delhivery,1,Clear,Winter,0,1,122.7,Apparel,0,3.9,53,2023-01
+SHP00267,2023-09-12,Chennai,Bangalore,1540,Train,Rail,Blue Dart,2,Rain,Monsoon,0,1,208.4,Medical,1,5.98,75,2023-09
+SHP00268,2023-03-12,Delhi,Kolkata,2391,Bike,Road,Delhivery,1,Clear,Spring,1,0,438.6,Furniture,0,6.8,75,2023-03
+SHP00269,2024-07-31,Chennai,Bangalore,1322,Bike,Road,Blue Dart,1,Fog,Summer,0,0,392.4,Medical,1,5.36,78,2024-07
+SHP00270,2023-08-27,Pune,Delhi,2473,Train,Rail,Delhivery,2,Rain,Summer,1,0,271.0,Medical,1,7.07,84,2023-08
+SHP00271,2023-09-01,Chennai,Hyderabad,89,Bike,Road,FedEx,1,Fog,Monsoon,0,1,210.2,Electronics,1,4.75,74,2023-09
+SHP00272,2023-03-28,Hyderabad,Chennai,1196,Truck,Road,Ecom Express,1,Rain,Spring,0,0,290.6,Industrial,0,6.02,74,2023-03
+SHP00273,2023-09-25,Chennai,Bangalore,596,Train,Rail,DTDC,1,Clear,Monsoon,0,1,425.5,Apparel,0,3.96,53,2023-09
+SHP00274,2024-08-21,Bangalore,Ahmedabad,1352,Train,Rail,Blue Dart,3,Rain,Summer,0,0,54.9,Electronics,1,4.32,57,2024-08
+SHP00275,2023-08-01,Hyderabad,Ahmedabad,723,Train,Rail,DTDC,4,Storm,Summer,0,0,226.2,Apparel,0,5.06,54,2023-08
+SHP00276,2023-09-12,Bangalore,Delhi,695,Bike,Road,Delhivery,5,Clear,Monsoon,0,1,484.2,Apparel,0,2.68,20,2023-09
+SHP00277,2024-04-08,Pune,Ahmedabad,2153,Truck,Road,Delhivery,3,Storm,Spring,0,0,278.2,Industrial,0,7.68,80,2024-04
+SHP00278,2024-02-15,Chennai,Ahmedabad,622,Truck,Road,Delhivery,1,Clear,Winter,0,1,186.4,Medical,1,5.14,70,2024-02
+SHP00279,2024-10-23,Mumbai,Bangalore,394,Ship,Sea,Blue Dart,5,Storm,Monsoon,0,1,222.0,Perishable,1,6.01,64,2024-10
+SHP00280,2024-02-09,Pune,Ahmedabad,1408,Truck,Road,Blue Dart,1,Fog,Winter,0,1,248.3,Apparel,0,7.05,83,2024-02
+SHP00281,2023-06-02,Kolkata,Chennai,1797,Van,Road,Delhivery,3,Rain,Summer,0,0,17.8,Industrial,0,5.03,54,2023-06
+SHP00282,2023-05-21,Kolkata,Chennai,2093,Train,Rail,Blue Dart,5,Fog,Spring,1,0,209.9,Medical,1,5.5,55,2023-05
+SHP00283,2024-05-11,Ahmedabad,Kolkata,2203,Van,Road,DTDC,5,Clear,Spring,1,0,172.3,Industrial,0,4.34,32,2024-05
+SHP00284,2024-04-28,Delhi,Ahmedabad,786,Truck,Road,Blue Dart,3,Rain,Spring,1,0,265.0,Industrial,0,4.31,49,2024-04
+SHP00285,2023-08-13,Delhi,Ahmedabad,1003,Van,Road,Delhivery,1,Rain,Summer,1,0,288.1,Apparel,0,4.75,64,2023-08
+SHP00286,2024-07-31,Hyderabad,Kolkata,761,Van,Road,FedEx,2,Storm,Summer,0,0,71.5,Perishable,1,6.34,84,2024-07
+SHP00287,2023-08-27,Mumbai,Delhi,2066,Ship,Sea,DTDC,3,Rain,Summer,1,0,301.0,Electronics,1,7.34,80,2023-08
+SHP00288,2024-08-23,Delhi,Bangalore,875,Van,Road,FedEx,3,Rain,Summer,0,0,352.5,Perishable,1,4.35,57,2024-08
+SHP00289,2023-11-06,Mumbai,Chennai,504,Ship,Sea,FedEx,3,Clear,Monsoon,0,1,161.6,Perishable,1,4.02,50,2023-11
+SHP00290,2023-10-29,Pune,Bangalore,2045,Bike,Road,Delhivery,2,Storm,Monsoon,1,1,64.1,Medical,1,7.86,95,2023-10
+SHP00291,2024-08-02,Chennai,Pune,57,Ship,Sea,Delhivery,4,Clear,Summer,0,0,52.5,Apparel,0,2.64,25,2024-08
+SHP00292,2023-09-29,Ahmedabad,Delhi,1024,Bike,Road,Blue Dart,3,Rain,Monsoon,0,1,105.2,Medical,1,5.26,64,2023-09
+SHP00293,2024-03-05,Pune,Chennai,327,Bike,Road,Blue Dart,3,Clear,Spring,0,0,484.6,Apparel,0,1.78,25,2024-03
+SHP00294,2023-03-17,Bangalore,Kolkata,2286,Train,Rail,Ecom Express,1,Fog,Spring,0,0,399.7,Electronics,1,7.59,95,2023-03
+SHP00295,2024-01-20,Hyderabad,Mumbai,1257,Truck,Road,Blue Dart,3,Storm,Winter,1,1,80.9,Electronics,1,6.38,78,2024-01
+SHP00296,2024-03-20,Bangalore,Hyderabad,431,Bike,Road,Blue Dart,5,Fog,Spring,0,0,79.0,Electronics,1,3.12,37,2024-03
+SHP00297,2023-09-01,Kolkata,Bangalore,1406,Van,Road,Ecom Express,2,Fog,Monsoon,0,1,48.4,Apparel,0,5.46,65,2023-09
+SHP00298,2024-11-08,Kolkata,Ahmedabad,679,Truck,Road,DTDC,3,Clear,Monsoon,0,1,312.7,Apparel,0,3.74,40,2024-11
+SHP00299,2023-04-29,Mumbai,Kolkata,867,Truck,Road,Delhivery,1,Rain,Spring,1,0,154.5,Apparel,0,4.49,62,2023-04
+SHP00300,2023-07-11,Pune,Bangalore,1135,Truck,Road,Delhivery,5,Fog,Summer,0,0,223.2,Furniture,0,4.57,40,2023-07
+SHP00301,2024-11-14,Bangalore,Ahmedabad,1851,Train,Rail,FedEx,3,Rain,Monsoon,0,1,48.8,Medical,1,5.87,69,2024-11
+SHP00302,2023-08-30,Ahmedabad,Kolkata,2465,Van,Road,DTDC,5,Clear,Summer,0,0,238.4,Electronics,1,5.99,52,2023-08
+SHP00303,2023-08-05,Bangalore,Mumbai,1667,Truck,Road,Blue Dart,5,Rain,Summer,1,0,404.3,Perishable,1,5.69,55,2023-08
+SHP00304,2024-07-23,Mumbai,Kolkata,1833,Van,Road,FedEx,2,Storm,Summer,0,0,199.0,Furniture,0,7.01,81,2024-07
+SHP00305,2023-06-03,Mumbai,Kolkata,1181,Ship,Sea,Ecom Express,4,Clear,Summer,1,0,74.5,Industrial,0,3.59,32,2023-06
+SHP00306,2024-01-28,Pune,Bangalore,460,Truck,Road,FedEx,5,Clear,Winter,1,1,327.6,Industrial,0,2.03,15,2024-01
+SHP00307,2024-02-10,Pune,Delhi,1987,Truck,Road,DTDC,2,Storm,Winter,1,1,444.8,Furniture,0,8.55,93,2024-02
+SHP00308,2024-05-18,Kolkata,Bangalore,1996,Bike,Road,FedEx,3,Clear,Spring,1,0,429.2,Medical,1,4.62,54,2024-05
+SHP00309,2024-03-02,Kolkata,Pune,452,Van,Road,DTDC,2,Storm,Spring,1,0,302.7,Electronics,1,5.89,81,2024-03
+SHP00310,2024-06-02,Mumbai,Chennai,1717,Train,Rail,Blue Dart,5,Storm,Summer,1,0,202.0,Industrial,0,6.12,56,2024-06
+SHP00311,2024-04-12,Chennai,Delhi,2379,Truck,Road,Delhivery,2,Rain,Spring,0,0,25.8,Furniture,0,7.06,75,2024-04
+SHP00312,2024-08-31,Hyderabad,Chennai,1951,Ship,Sea,Blue Dart,4,Clear,Summer,1,0,223.3,Apparel,0,4.74,41,2024-08
+SHP00313,2023-01-29,Mumbai,Chennai,2453,Ship,Sea,Delhivery,3,Storm,Winter,1,1,193.6,Perishable,1,9.62,100,2023-01
+SHP00314,2024-11-29,Delhi,Ahmedabad,927,Van,Road,FedEx,2,Rain,Monsoon,0,1,4.9,Perishable,1,4.87,67,2024-11
+SHP00315,2024-01-21,Kolkata,Chennai,759,Ship,Sea,FedEx,1,Rain,Winter,1,1,425.9,Apparel,0,5.67,71,2024-01
+SHP00316,2024-12-01,Kolkata,Bangalore,2182,Ship,Sea,Blue Dart,4,Clear,Winter,1,1,54.5,Electronics,1,6.51,62,2024-12
+SHP00317,2024-06-13,Chennai,Mumbai,1427,Bike,Road,FedEx,3,Storm,Summer,0,0,382.9,Electronics,1,6.17,77,2024-06
+SHP00318,2024-02-19,Kolkata,Chennai,1705,Bike,Road,DTDC,2,Clear,Winter,0,1,194.4,Electronics,1,4.8,62,2024-02
+SHP00319,2023-11-04,Hyderabad,Kolkata,2438,Ship,Sea,Delhivery,2,Storm,Monsoon,1,1,422.8,Medical,1,10.06,100,2023-11
+SHP00320,2023-04-02,Hyderabad,Pune,449,Train,Rail,Ecom Express,2,Storm,Spring,1,0,111.5,Perishable,1,5.52,78,2023-04
+SHP00321,2023-05-01,Ahmedabad,Pune,1307,Train,Rail,FedEx,3,Storm,Spring,0,0,235.5,Medical,1,5.03,68,2023-05
+SHP00322,2023-06-04,Pune,Delhi,341,Train,Rail,DTDC,2,Clear,Summer,1,0,69.1,Perishable,1,2.85,47,2023-06
+SHP00323,2023-03-24,Bangalore,Ahmedabad,1453,Train,Rail,Delhivery,5,Fog,Spring,0,0,244.0,Medical,1,5.11,52,2023-03
+SHP00324,2023-04-01,Bangalore,Kolkata,287,Truck,Road,Delhivery,4,Storm,Spring,1,0,65.1,Apparel,0,4.74,52,2023-04
+SHP00325,2023-07-24,Delhi,Hyderabad,1808,Train,Rail,DTDC,4,Fog,Summer,0,0,365.5,Electronics,1,6.56,69,2023-07
+SHP00326,2023-05-13,Hyderabad,Bangalore,2225,Van,Road,Delhivery,1,Clear,Spring,1,0,51.8,Industrial,0,5.67,66,2023-05
+SHP00327,2024-06-16,Kolkata,Chennai,2461,Bike,Road,Blue Dart,2,Clear,Summer,1,0,298.4,Furniture,0,5.0,55,2024-06
+SHP00328,2023-08-22,Pune,Delhi,598,Bike,Road,Delhivery,4,Storm,Summer,0,0,112.5,Perishable,1,5.06,62,2023-08
+SHP00329,2024-10-17,Delhi,Kolkata,915,Truck,Road,Blue Dart,5,Rain,Monsoon,0,1,128.3,Industrial,0,3.71,32,2024-10
+SHP00330,2023-05-07,Ahmedabad,Chennai,246,Truck,Road,Blue Dart,1,Clear,Spring,1,0,273.9,Apparel,0,3.23,48,2023-05
+SHP00331,2024-09-12,Kolkata,Hyderabad,677,Van,Road,DTDC,1,Storm,Monsoon,0,1,350.5,Apparel,0,6.76,85,2024-09
+SHP00332,2023-09-27,Chennai,Ahmedabad,532,Bike,Road,DTDC,1,Clear,Monsoon,0,1,415.8,Perishable,1,4.11,62,2023-09
+SHP00333,2024-05-07,Chennai,Pune,1516,Train,Rail,Blue Dart,3,Rain,Spring,0,0,165.6,Electronics,1,5.59,66,2024-05
+SHP00334,2024-10-21,Mumbai,Chennai,502,Ship,Sea,Blue Dart,4,Rain,Monsoon,0,1,116.0,Furniture,0,4.38,43,2024-10
+SHP00335,2024-11-24,Kolkata,Bangalore,1131,Train,Rail,Delhivery,1,Clear,Monsoon,1,1,156.7,Medical,1,5.9,76,2024-11
+SHP00336,2023-10-02,Ahmedabad,Kolkata,237,Truck,Road,FedEx,2,Rain,Monsoon,0,1,439.3,Electronics,1,4.9,67,2023-10
+SHP00337,2024-01-30,Ahmedabad,Bangalore,1576,Bike,Road,DTDC,2,Clear,Winter,0,1,345.1,Apparel,0,5.53,59,2024-01
+SHP00338,2024-05-09,Pune,Kolkata,733,Truck,Road,Delhivery,2,Clear,Spring,0,0,401.2,Medical,1,3.55,52,2024-05
+SHP00339,2024-05-14,Bangalore,Kolkata,1844,Van,Road,FedEx,5,Fog,Spring,0,0,56.9,Apparel,0,4.9,43,2024-05
+SHP00340,2023-09-12,Pune,Hyderabad,1337,Truck,Road,FedEx,5,Rain,Monsoon,0,1,241.2,Medical,1,5.16,51,2023-09
+SHP00341,2024-05-22,Ahmedabad,Pune,1626,Van,Road,Blue Dart,5,Clear,Spring,0,0,434.8,Electronics,1,3.74,36,2024-05
+SHP00342,2023-08-29,Pune,Ahmedabad,1405,Bike,Road,Ecom Express,1,Rain,Summer,0,0,39.9,Apparel,0,5.51,70,2023-08
+SHP00343,2024-10-31,Mumbai,Kolkata,2397,Train,Rail,DTDC,1,Fog,Monsoon,0,1,9.4,Apparel,0,7.48,86,2024-10
+SHP00344,2024-01-08,Ahmedabad,Bangalore,50,Truck,Road,Ecom Express,5,Storm,Winter,0,1,412.7,Perishable,1,5.05,56,2024-01
+SHP00345,2024-11-05,Mumbai,Delhi,1911,Bike,Road,FedEx,5,Fog,Monsoon,0,1,111.3,Furniture,0,5.23,45,2024-11
+SHP00346,2023-05-24,Bangalore,Kolkata,1245,Ship,Sea,Blue Dart,5,Storm,Spring,0,0,411.0,Medical,1,6.53,67,2023-05
+SHP00347,2024-04-13,Pune,Mumbai,1726,Truck,Road,Delhivery,3,Rain,Spring,1,0,412.4,Perishable,1,6.33,72,2024-04
+SHP00348,2023-01-05,Bangalore,Kolkata,1747,Truck,Road,DTDC,5,Clear,Winter,0,1,265.4,Electronics,1,5.16,46,2023-01
+SHP00349,2023-05-12,Bangalore,Pune,2316,Train,Rail,Ecom Express,5,Fog,Spring,0,0,52.2,Medical,1,5.55,56,2023-05
+SHP00350,2024-04-08,Hyderabad,Bangalore,2114,Train,Rail,FedEx,4,Rain,Spring,0,0,402.5,Perishable,1,5.33,58,2024-04
+SHP00351,2023-08-03,Chennai,Mumbai,1740,Ship,Sea,Ecom Express,5,Storm,Summer,0,0,312.3,Furniture,0,6.23,57,2023-08
+SHP00352,2024-08-07,Ahmedabad,Kolkata,593,Van,Road,Blue Dart,5,Storm,Summer,0,0,471.4,Medical,1,3.51,45,2024-08
+SHP00353,2023-05-29,Delhi,Kolkata,1759,Ship,Sea,Blue Dart,3,Fog,Spring,0,0,27.0,Electronics,1,6.82,77,2023-05
+SHP00354,2024-07-08,Chennai,Ahmedabad,709,Bike,Road,Blue Dart,3,Rain,Summer,0,0,16.6,Apparel,0,4.14,48,2024-07
+SHP00355,2023-10-22,Chennai,Hyderabad,469,Ship,Sea,Ecom Express,5,Rain,Monsoon,1,1,346.6,Electronics,1,5.27,52,2023-10
+SHP00356,2023-08-19,Ahmedabad,Pune,1330,Ship,Sea,FedEx,1,Clear,Summer,1,0,455.8,Medical,1,5.23,71,2023-08
+SHP00357,2024-11-30,Ahmedabad,Mumbai,1556,Ship,Sea,Delhivery,5,Rain,Monsoon,1,1,37.7,Perishable,1,5.99,57,2024-11
+SHP00358,2023-12-05,Kolkata,Delhi,216,Train,Rail,Delhivery,3,Storm,Winter,0,1,233.4,Perishable,1,5.02,68,2023-12
+SHP00359,2024-08-09,Ahmedabad,Pune,213,Van,Road,Ecom Express,3,Clear,Summer,0,0,275.3,Electronics,1,2.67,40,2024-08
+SHP00360,2024-07-03,Pune,Kolkata,950,Van,Road,Ecom Express,5,Clear,Summer,0,0,202.0,Furniture,0,2.43,18,2024-07
+SHP00361,2024-09-25,Chennai,Ahmedabad,956,Van,Road,FedEx,3,Storm,Monsoon,0,1,265.5,Industrial,0,6.16,69,2024-09
+SHP00362,2023-11-25,Delhi,Pune,86,Truck,Road,Delhivery,3,Fog,Monsoon,1,1,191.0,Electronics,1,3.72,54,2023-11
+SHP00363,2023-02-14,Ahmedabad,Chennai,1630,Bike,Road,Blue Dart,5,Storm,Winter,0,1,148.6,Medical,1,6.29,66,2023-02
+SHP00364,2024-03-10,Chennai,Ahmedabad,443,Van,Road,Blue Dart,5,Clear,Spring,1,0,417.9,Perishable,1,2.69,28,2024-03
+SHP00365,2023-03-31,Hyderabad,Delhi,2252,Train,Rail,Blue Dart,1,Rain,Spring,0,0,37.1,Perishable,1,7.31,91,2023-03
+SHP00366,2023-11-20,Pune,Chennai,2405,Van,Road,DTDC,3,Fog,Monsoon,0,1,8.9,Medical,1,7.49,82,2023-11
+SHP00367,2024-05-29,Mumbai,Chennai,534,Ship,Sea,Ecom Express,1,Clear,Spring,0,0,53.5,Medical,1,4.51,65,2024-05
+SHP00368,2024-02-05,Chennai,Mumbai,1842,Train,Rail,DTDC,4,Clear,Winter,0,1,398.5,Industrial,0,5.05,43,2024-02
+SHP00369,2023-01-06,Mumbai,Delhi,1258,Van,Road,Blue Dart,3,Storm,Winter,0,1,286.6,Apparel,0,5.36,63,2023-01
+SHP00370,2023-08-15,Bangalore,Mumbai,1298,Van,Road,DTDC,3,Rain,Summer,0,0,308.6,Furniture,0,4.84,53,2023-08
+SHP00371,2024-11-18,Mumbai,Chennai,845,Truck,Road,Ecom Express,2,Clear,Monsoon,0,1,34.1,Electronics,1,5.18,64,2024-11
+SHP00372,2023-11-22,Mumbai,Bangalore,1405,Bike,Road,Blue Dart,2,Rain,Monsoon,0,1,243.2,Furniture,0,5.85,66,2023-11
+SHP00373,2023-11-17,Bangalore,Delhi,1302,Ship,Sea,FedEx,2,Storm,Monsoon,0,1,123.5,Perishable,1,7.63,94,2023-11
+SHP00374,2023-11-09,Ahmedabad,Bangalore,1183,Bike,Road,DTDC,2,Storm,Monsoon,0,1,243.7,Electronics,1,6.73,87,2023-11
+SHP00375,2024-10-03,Kolkata,Pune,769,Ship,Sea,Delhivery,1,Storm,Monsoon,0,1,38.7,Electronics,1,8.01,100,2024-10
+SHP00376,2023-09-24,Delhi,Hyderabad,177,Ship,Sea,Ecom Express,5,Fog,Monsoon,1,1,272.0,Industrial,0,3.77,34,2023-09
+SHP00377,2024-05-28,Bangalore,Kolkata,1983,Van,Road,Delhivery,3,Fog,Spring,0,0,255.5,Apparel,0,5.98,63,2024-05
+SHP00378,2024-08-02,Bangalore,Hyderabad,1028,Ship,Sea,DTDC,2,Rain,Summer,0,0,329.9,Perishable,1,5.97,75,2024-08
+SHP00379,2024-01-14,Mumbai,Chennai,2030,Bike,Road,DTDC,1,Rain,Winter,1,1,117.4,Medical,1,7.84,95,2024-01
+SHP00380,2024-06-17,Hyderabad,Delhi,1529,Train,Rail,Blue Dart,4,Fog,Summer,0,0,317.0,Furniture,0,5.78,55,2024-06
+SHP00381,2024-10-31,Hyderabad,Kolkata,1128,Ship,Sea,DTDC,5,Rain,Monsoon,0,1,449.2,Electronics,1,5.37,53,2024-10
+SHP00382,2023-01-07,Ahmedabad,Kolkata,962,Ship,Sea,FedEx,4,Storm,Winter,1,1,251.2,Perishable,1,6.73,75,2023-01
+SHP00383,2023-07-11,Chennai,Mumbai,1851,Van,Road,Ecom Express,2,Clear,Summer,0,0,79.1,Industrial,0,4.94,55,2023-07
+SHP00384,2024-08-27,Ahmedabad,Mumbai,993,Train,Rail,DTDC,3,Clear,Summer,0,0,81.0,Apparel,0,3.57,38,2024-08
+SHP00385,2024-06-08,Bangalore,Pune,141,Van,Road,Ecom Express,1,Rain,Summer,1,0,20.1,Industrial,0,4.36,61,2024-06
+SHP00386,2024-09-13,Chennai,Kolkata,787,Ship,Sea,FedEx,4,Clear,Monsoon,0,1,496.4,Apparel,0,3.87,35,2024-09
+SHP00387,2023-12-17,Kolkata,Mumbai,748,Van,Road,Ecom Express,4,Rain,Winter,1,1,461.2,Industrial,0,4.29,43,2023-12
+SHP00388,2023-04-09,Bangalore,Hyderabad,1628,Van,Road,Delhivery,1,Clear,Spring,1,0,89.1,Industrial,0,5.32,63,2023-04
+SHP00389,2024-07-06,Bangalore,Hyderabad,209,Ship,Sea,Blue Dart,5,Clear,Summer,1,0,413.8,Medical,1,2.46,26,2024-07
+SHP00390,2024-08-26,Pune,Bangalore,1567,Truck,Road,Delhivery,5,Fog,Summer,0,0,402.4,Medical,1,5.3,54,2024-08
+SHP00391,2023-03-27,Chennai,Ahmedabad,2409,Truck,Road,FedEx,4,Rain,Spring,0,0,142.0,Industrial,0,6.12,56,2023-03
+SHP00392,2023-07-30,Pune,Hyderabad,79,Ship,Sea,Ecom Express,5,Clear,Summer,1,0,344.0,Furniture,0,2.55,19,2023-07
+SHP00393,2024-07-02,Kolkata,Ahmedabad,1724,Bike,Road,DTDC,1,Rain,Summer,0,0,212.1,Furniture,0,5.11,67,2024-07
+SHP00394,2023-11-11,Ahmedabad,Bangalore,1677,Van,Road,Delhivery,4,Fog,Monsoon,1,1,289.0,Medical,1,5.43,61,2023-11
+SHP00395,2024-06-04,Mumbai,Bangalore,1680,Van,Road,DTDC,1,Rain,Summer,0,0,200.6,Furniture,0,6.48,77,2024-06
+SHP00396,2024-03-21,Ahmedabad,Kolkata,263,Van,Road,Blue Dart,4,Clear,Spring,0,0,44.5,Furniture,0,1.31,15,2024-03
+SHP00397,2024-09-03,Kolkata,Pune,958,Bike,Road,DTDC,1,Clear,Monsoon,0,1,29.2,Perishable,1,4.85,68,2024-09
+SHP00398,2023-02-06,Bangalore,Pune,876,Ship,Sea,Blue Dart,3,Rain,Winter,0,1,180.2,Medical,1,5.13,63,2023-02
+SHP00399,2024-08-23,Pune,Chennai,51,Van,Road,DTDC,1,Storm,Summer,0,0,100.6,Electronics,1,5.35,83,2024-08
+SHP00400,2023-07-19,Chennai,Hyderabad,419,Ship,Sea,FedEx,3,Storm,Summer,0,0,227.7,Apparel,0,4.84,59,2023-07
+SHP00401,2023-10-29,Mumbai,Hyderabad,2404,Truck,Road,DTDC,3,Rain,Monsoon,1,1,170.3,Electronics,1,8.36,87,2023-10
+SHP00402,2023-12-14,Chennai,Ahmedabad,2253,Ship,Sea,DTDC,3,Fog,Winter,0,1,480.6,Apparel,0,7.12,71,2023-12
+SHP00403,2024-10-10,Mumbai,Kolkata,1937,Ship,Sea,Blue Dart,1,Fog,Monsoon,0,1,394.4,Perishable,1,7.73,96,2024-10
+SHP00404,2024-02-13,Kolkata,Delhi,1343,Train,Rail,FedEx,3,Clear,Winter,0,1,337.0,Furniture,0,3.77,40,2024-02
+SHP00405,2023-10-03,Chennai,Hyderabad,361,Ship,Sea,FedEx,2,Fog,Monsoon,0,1,91.8,Medical,1,4.8,68,2023-10
+SHP00406,2023-09-13,Chennai,Mumbai,2093,Van,Road,FedEx,2,Rain,Monsoon,0,1,418.2,Furniture,0,5.75,66,2023-09
+SHP00407,2024-05-08,Delhi,Ahmedabad,688,Truck,Road,DTDC,1,Clear,Spring,0,0,185.9,Furniture,0,3.12,47,2024-05
+SHP00408,2024-08-13,Pune,Mumbai,2403,Bike,Road,Ecom Express,4,Rain,Summer,0,0,64.6,Industrial,0,5.93,55,2024-08
+SHP00409,2023-06-28,Pune,Ahmedabad,1783,Train,Rail,Ecom Express,5,Clear,Summer,0,0,228.9,Electronics,1,3.9,37,2023-06
+SHP00410,2024-09-19,Hyderabad,Bangalore,84,Truck,Road,Ecom Express,2,Fog,Monsoon,0,1,431.0,Perishable,1,4.65,67,2024-09
+SHP00411,2024-05-25,Hyderabad,Mumbai,2296,Bike,Road,DTDC,2,Storm,Spring,1,0,212.3,Apparel,0,7.8,87,2024-05
+SHP00412,2023-04-13,Chennai,Ahmedabad,1690,Bike,Road,Ecom Express,4,Rain,Spring,0,0,360.5,Perishable,1,4.91,55,2023-04
+SHP00413,2023-01-10,Ahmedabad,Pune,2324,Train,Rail,Delhivery,4,Rain,Winter,0,1,88.7,Apparel,0,6.94,63,2023-01
+SHP00414,2023-04-12,Delhi,Kolkata,2167,Ship,Sea,FedEx,3,Fog,Spring,0,0,345.4,Electronics,1,7.52,82,2023-04
+SHP00415,2024-01-04,Kolkata,Bangalore,932,Bike,Road,DTDC,4,Clear,Winter,0,1,280.4,Furniture,0,3.14,29,2024-01
+SHP00416,2024-06-06,Hyderabad,Pune,1488,Ship,Sea,FedEx,2,Rain,Summer,0,0,244.0,Medical,1,6.31,78,2024-06
+SHP00417,2023-12-12,Bangalore,Pune,1880,Truck,Road,DTDC,4,Storm,Winter,0,1,211.2,Industrial,0,6.85,68,2023-12
+SHP00418,2023-10-26,Hyderabad,Pune,342,Truck,Road,Delhivery,2,Storm,Monsoon,0,1,355.4,Industrial,0,5.39,69,2023-10
+SHP00419,2023-07-08,Pune,Mumbai,1669,Bike,Road,Ecom Express,4,Storm,Summer,1,0,427.2,Perishable,1,6.8,76,2023-07
+SHP00420,2024-07-15,Mumbai,Kolkata,377,Van,Road,Blue Dart,2,Fog,Summer,0,0,27.4,Apparel,0,3.51,50,2024-07
+SHP00421,2024-02-04,Mumbai,Pune,2196,Truck,Road,Ecom Express,1,Storm,Winter,1,1,155.0,Perishable,1,9.41,100,2024-02
+SHP00422,2023-11-30,Hyderabad,Ahmedabad,567,Van,Road,Blue Dart,5,Rain,Monsoon,0,1,432.2,Apparel,0,3.08,28,2023-11
+SHP00423,2024-10-13,Ahmedabad,Hyderabad,2264,Bike,Road,Delhivery,5,Fog,Monsoon,1,1,438.7,Apparel,0,5.78,49,2024-10
+SHP00424,2024-02-27,Kolkata,Bangalore,1318,Bike,Road,Blue Dart,4,Rain,Winter,0,1,130.3,Furniture,0,4.8,47,2024-02
+SHP00425,2023-01-09,Ahmedabad,Kolkata,93,Truck,Road,FedEx,5,Rain,Winter,0,1,344.0,Apparel,0,3.25,29,2023-01
+SHP00426,2024-07-28,Chennai,Kolkata,87,Train,Rail,Blue Dart,3,Rain,Summer,1,0,218.8,Perishable,1,3.07,48,2024-07
+SHP00427,2023-09-03,Pune,Hyderabad,718,Train,Rail,FedEx,4,Rain,Monsoon,1,1,258.5,Industrial,0,4.29,43,2023-09
+SHP00428,2023-10-24,Bangalore,Mumbai,1216,Ship,Sea,Delhivery,3,Fog,Monsoon,0,1,55.6,Apparel,0,5.67,61,2023-10
+SHP00429,2023-02-20,Delhi,Bangalore,1904,Bike,Road,Delhivery,5,Fog,Winter,0,1,484.9,Electronics,1,5.88,58,2023-02
+SHP00430,2024-05-20,Bangalore,Delhi,1152,Van,Road,Delhivery,4,Clear,Spring,0,0,109.0,Apparel,0,3.57,32,2024-05
+SHP00431,2023-05-30,Mumbai,Ahmedabad,1326,Train,Rail,Blue Dart,3,Fog,Spring,0,0,28.5,Apparel,0,5.19,57,2023-05
+SHP00432,2024-03-29,Pune,Ahmedabad,837,Bike,Road,Blue Dart,4,Clear,Spring,0,0,124.0,Electronics,1,2.95,36,2024-03
+SHP00433,2023-06-12,Kolkata,Bangalore,865,Train,Rail,DTDC,1,Rain,Summer,0,0,314.8,Electronics,1,5.57,78,2023-06
+SHP00434,2024-11-13,Delhi,Ahmedabad,550,Bike,Road,Delhivery,4,Storm,Monsoon,0,1,109.3,Electronics,1,4.62,59,2024-11
+SHP00435,2023-09-06,Mumbai,Kolkata,1016,Train,Rail,Delhivery,3,Clear,Monsoon,0,1,5.0,Electronics,1,3.51,46,2023-09
+SHP00436,2024-09-25,Ahmedabad,Delhi,2492,Van,Road,Delhivery,3,Clear,Monsoon,0,1,169.5,Medical,1,6.07,65,2024-09
+SHP00437,2023-08-27,Bangalore,Kolkata,295,Truck,Road,Ecom Express,3,Rain,Summer,1,0,158.7,Industrial,0,4.28,49,2023-08
+SHP00438,2024-05-11,Kolkata,Delhi,1846,Van,Road,FedEx,1,Fog,Spring,1,0,353.5,Industrial,0,5.89,74,2024-05
+SHP00439,2024-04-24,Hyderabad,Bangalore,1257,Ship,Sea,Ecom Express,4,Rain,Spring,0,0,138.0,Industrial,0,5.59,52,2024-04
+SHP00440,2023-01-01,Hyderabad,Chennai,332,Ship,Sea,FedEx,2,Fog,Winter,1,1,388.1,Industrial,0,4.75,60,2023-01
+SHP00441,2023-03-06,Hyderabad,Pune,1602,Van,Road,Ecom Express,1,Storm,Spring,0,0,329.3,Industrial,0,7.41,90,2023-03
+SHP00442,2023-04-09,Hyderabad,Delhi,2087,Ship,Sea,FedEx,2,Storm,Spring,1,0,261.8,Electronics,1,8.35,99,2023-04
+SHP00443,2023-04-12,Ahmedabad,Mumbai,229,Van,Road,Delhivery,2,Clear,Spring,0,0,16.4,Medical,1,3.38,51,2023-04
+SHP00444,2023-03-14,Chennai,Hyderabad,2203,Ship,Sea,Blue Dart,5,Storm,Spring,0,0,7.0,Perishable,1,6.74,69,2023-03
+SHP00445,2023-03-01,Hyderabad,Ahmedabad,2062,Truck,Road,FedEx,4,Clear,Spring,0,0,411.9,Furniture,0,4.21,37,2023-03
+SHP00446,2023-07-17,Pune,Mumbai,1294,Truck,Road,Blue Dart,2,Clear,Summer,0,0,263.3,Perishable,1,4.49,59,2023-07
+SHP00447,2024-11-12,Ahmedabad,Hyderabad,2384,Van,Road,Blue Dart,5,Fog,Monsoon,0,1,213.8,Electronics,1,6.62,64,2024-11
+SHP00448,2024-07-17,Hyderabad,Bangalore,1694,Ship,Sea,Ecom Express,3,Rain,Summer,0,0,495.7,Furniture,0,6.59,66,2024-07
+SHP00449,2024-07-17,Chennai,Kolkata,1572,Train,Rail,Ecom Express,4,Storm,Summer,0,0,463.1,Furniture,0,5.83,60,2024-07
+SHP00450,2023-01-07,Bangalore,Chennai,1676,Truck,Road,Ecom Express,1,Storm,Winter,1,1,150.5,Perishable,1,9.13,100,2023-01
+SHP00451,2024-04-16,Mumbai,Delhi,929,Bike,Road,Ecom Express,1,Storm,Spring,0,0,178.2,Perishable,1,6.36,90,2024-04
+SHP00452,2023-03-21,Chennai,Pune,1073,Van,Road,Blue Dart,3,Storm,Spring,0,0,361.9,Apparel,0,6.62,72,2023-03
+SHP00453,2024-08-13,Delhi,Pune,758,Train,Rail,Ecom Express,5,Clear,Summer,0,0,191.1,Electronics,1,2.89,29,2024-08
+SHP00454,2023-11-09,Pune,Delhi,1828,Train,Rail,Ecom Express,1,Rain,Monsoon,0,1,262.4,Furniture,0,6.74,79,2023-11
+SHP00455,2024-11-20,Bangalore,Delhi,2261,Ship,Sea,Ecom Express,2,Storm,Monsoon,0,1,365.9,Apparel,0,9.65,100,2024-11
+SHP00456,2023-05-16,Pune,Mumbai,2406,Ship,Sea,DTDC,1,Rain,Spring,0,0,168.4,Apparel,0,7.71,86,2023-05
+SHP00457,2024-03-20,Pune,Kolkata,2390,Truck,Road,FedEx,5,Fog,Spring,0,0,387.0,Perishable,1,6.45,62,2024-03
+SHP00458,2023-09-30,Chennai,Delhi,861,Train,Rail,Ecom Express,4,Rain,Monsoon,1,1,388.5,Furniture,0,4.13,41,2023-09
+SHP00459,2023-11-25,Hyderabad,Mumbai,2409,Truck,Road,DTDC,1,Fog,Monsoon,1,1,172.6,Medical,1,9.17,100,2023-11
+SHP00460,2024-01-18,Chennai,Mumbai,1482,Ship,Sea,DTDC,4,Rain,Winter,0,1,78.4,Medical,1,6.52,67,2024-01
+SHP00461,2023-12-18,Kolkata,Delhi,401,Truck,Road,Ecom Express,1,Rain,Winter,0,1,347.1,Electronics,1,5.33,76,2023-12
+SHP00462,2023-05-25,Ahmedabad,Kolkata,1409,Van,Road,Delhivery,5,Rain,Spring,0,0,347.7,Medical,1,4.93,49,2023-05
+SHP00463,2023-07-25,Delhi,Chennai,125,Train,Rail,FedEx,5,Clear,Summer,0,0,394.7,Industrial,0,1.03,7,2023-07
+SHP00464,2024-10-26,Delhi,Chennai,84,Truck,Road,FedEx,4,Storm,Monsoon,1,1,193.6,Apparel,0,5.21,56,2024-10
+SHP00465,2024-05-27,Bangalore,Mumbai,2132,Truck,Road,Ecom Express,3,Fog,Spring,0,0,483.4,Industrial,0,6.92,70,2024-05
+SHP00466,2023-12-22,Bangalore,Delhi,1063,Ship,Sea,DTDC,3,Storm,Winter,0,1,342.3,Furniture,0,7.23,77,2023-12
+SHP00467,2023-01-31,Pune,Ahmedabad,1288,Van,Road,Blue Dart,5,Storm,Winter,0,1,472.1,Furniture,0,5.59,52,2023-01
+SHP00468,2024-08-09,Pune,Mumbai,1659,Van,Road,Ecom Express,1,Fog,Summer,0,0,76.8,Furniture,0,6.84,81,2024-08
+SHP00469,2023-05-22,Chennai,Ahmedabad,1398,Train,Rail,Delhivery,5,Rain,Spring,0,0,154.8,Medical,1,5.21,52,2023-05
+SHP00470,2023-11-22,Mumbai,Bangalore,1811,Van,Road,FedEx,5,Rain,Monsoon,0,1,419.8,Perishable,1,4.97,50,2023-11
+SHP00471,2023-07-12,Kolkata,Mumbai,170,Bike,Road,FedEx,4,Fog,Summer,0,0,53.8,Perishable,1,4.4,53,2023-07
+SHP00472,2023-01-27,Chennai,Pune,1143,Ship,Sea,Ecom Express,5,Rain,Winter,0,1,180.0,Medical,1,5.63,55,2023-01
+SHP00473,2024-04-30,Pune,Chennai,2002,Van,Road,FedEx,5,Fog,Spring,0,0,69.2,Perishable,1,5.53,55,2024-04
+SHP00474,2024-03-25,Mumbai,Bangalore,111,Bike,Road,Delhivery,4,Rain,Spring,0,0,433.6,Apparel,0,3.02,33,2024-03
+SHP00475,2023-11-17,Pune,Hyderabad,1380,Train,Rail,DTDC,2,Fog,Monsoon,0,1,197.4,Medical,1,6.18,78,2023-11
+SHP00476,2024-07-04,Chennai,Hyderabad,207,Ship,Sea,DTDC,1,Fog,Summer,0,0,198.1,Medical,1,5.28,78,2024-07
+SHP00477,2023-11-08,Ahmedabad,Chennai,210,Ship,Sea,Delhivery,4,Clear,Monsoon,0,1,387.0,Furniture,0,2.53,24,2023-11
+SHP00478,2024-08-22,Mumbai,Bangalore,273,Ship,Sea,DTDC,2,Fog,Summer,0,0,469.0,Medical,1,5.34,72,2024-08
+SHP00479,2024-04-09,Delhi,Bangalore,2288,Van,Road,FedEx,4,Fog,Spring,0,0,295.4,Medical,1,7.13,73,2024-04
+SHP00480,2024-04-05,Mumbai,Pune,419,Bike,Road,Blue Dart,3,Rain,Spring,0,0,317.2,Electronics,1,3.09,48,2024-04
+SHP00481,2023-06-24,Delhi,Ahmedabad,2195,Train,Rail,DTDC,5,Rain,Summer,1,0,456.2,Industrial,0,6.54,54,2023-06
+SHP00482,2024-04-01,Kolkata,Pune,714,Van,Road,DTDC,2,Clear,Spring,0,0,144.7,Perishable,1,3.18,49,2024-04
+SHP00483,2024-05-24,Delhi,Kolkata,531,Van,Road,Ecom Express,2,Clear,Spring,0,0,427.8,Industrial,0,3.29,42,2024-05
+SHP00484,2024-09-07,Ahmedabad,Delhi,2071,Van,Road,DTDC,2,Fog,Monsoon,1,1,300.3,Perishable,1,7.55,89,2024-09
+SHP00485,2024-10-30,Bangalore,Delhi,2291,Bike,Road,Blue Dart,5,Rain,Monsoon,0,1,174.8,Perishable,1,6.34,60,2024-10
+SHP00486,2024-11-19,Bangalore,Mumbai,1272,Bike,Road,Blue Dart,1,Clear,Monsoon,0,1,142.5,Medical,1,4.7,67,2024-11
+SHP00487,2023-11-03,Delhi,Mumbai,2486,Ship,Sea,DTDC,5,Rain,Monsoon,0,1,161.7,Apparel,0,7.33,59,2023-11
+SHP00488,2024-06-23,Kolkata,Bangalore,2304,Truck,Road,Delhivery,3,Fog,Summer,1,0,207.2,Perishable,1,6.88,78,2024-06
+SHP00489,2024-09-11,Ahmedabad,Hyderabad,906,Ship,Sea,Ecom Express,1,Clear,Monsoon,0,1,467.0,Medical,1,5.47,73,2024-09
+SHP00490,2023-07-04,Ahmedabad,Chennai,1346,Bike,Road,Delhivery,5,Storm,Summer,0,0,441.9,Perishable,1,6.31,66,2023-07
+SHP00491,2023-08-01,Mumbai,Pune,1239,Van,Road,Blue Dart,1,Clear,Summer,0,0,399.9,Apparel,0,4.21,55,2023-08
+SHP00492,2023-11-04,Mumbai,Chennai,2345,Van,Road,FedEx,1,Rain,Monsoon,1,1,253.6,Furniture,0,7.53,85,2023-11
+SHP00493,2023-12-05,Bangalore,Mumbai,75,Truck,Road,DTDC,3,Storm,Winter,0,1,417.0,Medical,1,5.26,70,2023-12
+SHP00494,2024-02-28,Ahmedabad,Pune,195,Van,Road,DTDC,4,Rain,Winter,0,1,463.9,Electronics,1,3.88,48,2024-02
+SHP00495,2023-12-06,Chennai,Hyderabad,2184,Bike,Road,Ecom Express,5,Storm,Winter,0,1,399.9,Furniture,0,7.33,65,2023-12
+SHP00496,2023-04-30,Bangalore,Hyderabad,177,Bike,Road,Ecom Express,4,Rain,Spring,1,0,432.4,Furniture,0,3.34,36,2023-04
+SHP00497,2024-04-07,Chennai,Bangalore,1338,Truck,Road,Blue Dart,3,Fog,Spring,1,0,414.8,Furniture,0,5.83,62,2024-04
+SHP00498,2024-05-09,Delhi,Ahmedabad,509,Bike,Road,Blue Dart,1,Rain,Spring,0,0,452.5,Perishable,1,4.91,73,2024-05
+SHP00499,2024-06-12,Mumbai,Ahmedabad,829,Bike,Road,FedEx,4,Storm,Summer,0,0,338.5,Perishable,1,4.87,61,2024-06
+SHP00500,2024-04-23,Mumbai,Chennai,1637,Ship,Sea,FedEx,1,Clear,Spring,0,0,444.6,Electronics,1,5.84,75,2024-04
+SHP00501,2023-10-21,Chennai,Mumbai,2182,Bike,Road,Delhivery,1,Storm,Monsoon,1,1,138.7,Furniture,0,8.49,98,2023-10
+SHP00502,2024-07-09,Mumbai,Bangalore,1166,Van,Road,Blue Dart,2,Storm,Summer,0,0,175.5,Furniture,0,5.53,70,2024-07
+SHP00503,2023-12-13,Kolkata,Hyderabad,1160,Van,Road,Delhivery,3,Rain,Winter,0,1,270.5,Electronics,1,5.87,69,2023-12
+SHP00504,2024-09-02,Pune,Mumbai,256,Truck,Road,Blue Dart,4,Clear,Monsoon,0,1,445.7,Medical,1,3.49,40,2024-09
+SHP00505,2024-04-21,Mumbai,Ahmedabad,1876,Ship,Sea,FedEx,3,Storm,Spring,1,0,284.1,Electronics,1,8.04,91,2024-04
+SHP00506,2023-05-28,Chennai,Mumbai,1968,Truck,Road,DTDC,4,Storm,Spring,1,0,430.6,Industrial,0,6.78,67,2023-05
+SHP00507,2023-01-31,Ahmedabad,Chennai,1106,Bike,Road,FedEx,4,Rain,Winter,0,1,33.1,Electronics,1,4.16,50,2023-01
+SHP00508,2023-04-20,Pune,Ahmedabad,749,Bike,Road,Ecom Express,3,Rain,Spring,0,0,163.3,Medical,1,4.73,60,2023-04
+SHP00509,2023-09-07,Chennai,Hyderabad,340,Bike,Road,DTDC,5,Fog,Monsoon,0,1,274.2,Apparel,0,3.56,33,2023-09
+SHP00510,2024-11-16,Bangalore,Pune,2470,Train,Rail,Ecom Express,4,Storm,Monsoon,1,1,39.4,Medical,1,8.63,89,2024-11
+SHP00511,2023-11-12,Ahmedabad,Mumbai,2401,Train,Rail,FedEx,1,Fog,Monsoon,1,1,478.0,Electronics,1,7.63,95,2023-11
+SHP00512,2023-05-23,Chennai,Ahmedabad,2492,Train,Rail,Blue Dart,3,Fog,Spring,0,0,443.7,Medical,1,6.61,76,2023-05
+SHP00513,2024-08-14,Pune,Kolkata,50,Van,Road,Ecom Express,2,Fog,Summer,0,0,223.9,Perishable,1,3.87,61,2024-08
+SHP00514,2023-05-11,Pune,Ahmedabad,2385,Bike,Road,Blue Dart,4,Storm,Spring,0,0,426.3,Electronics,1,6.94,77,2023-05
+SHP00515,2023-10-16,Mumbai,Ahmedabad,1562,Ship,Sea,Ecom Express,1,Clear,Monsoon,0,1,432.9,Perishable,1,5.84,75,2023-10
+SHP00516,2023-05-23,Bangalore,Kolkata,1353,Train,Rail,DTDC,4,Fog,Spring,0,0,94.5,Apparel,0,5.22,51,2023-05
+SHP00517,2024-10-25,Delhi,Mumbai,1525,Train,Rail,Delhivery,2,Storm,Monsoon,0,1,8.3,Medical,1,7.88,96,2024-10
+SHP00518,2024-06-05,Bangalore,Kolkata,606,Truck,Road,DTDC,2,Fog,Summer,0,0,212.4,Apparel,0,4.88,61,2024-06
+SHP00519,2023-08-31,Ahmedabad,Pune,1625,Bike,Road,DTDC,2,Rain,Summer,0,0,356.2,Furniture,0,5.35,63,2023-08
+SHP00520,2023-03-23,Ahmedabad,Hyderabad,1553,Truck,Road,FedEx,1,Fog,Spring,0,0,71.5,Medical,1,6.89,90,2023-03
+SHP00521,2024-10-07,Chennai,Kolkata,2206,Bike,Road,Ecom Express,4,Clear,Monsoon,0,1,371.0,Medical,1,6.1,59,2024-10
+SHP00522,2024-06-08,Ahmedabad,Chennai,2424,Bike,Road,FedEx,5,Clear,Summer,1,0,453.1,Industrial,0,4.83,36,2024-06
+SHP00523,2024-09-03,Delhi,Pune,1407,Train,Rail,FedEx,3,Storm,Monsoon,0,1,374.8,Medical,1,6.69,81,2024-09
+SHP00524,2023-03-26,Kolkata,Chennai,1988,Ship,Sea,FedEx,2,Clear,Spring,1,0,63.8,Electronics,1,5.79,69,2023-03
+SHP00525,2023-04-25,Delhi,Pune,1188,Bike,Road,FedEx,2,Storm,Spring,0,0,302.1,Industrial,0,5.6,71,2023-04
+SHP00526,2023-03-28,Delhi,Chennai,1564,Van,Road,DTDC,3,Rain,Spring,0,0,483.7,Industrial,0,4.86,53,2023-03
+SHP00527,2024-08-14,Bangalore,Mumbai,681,Train,Rail,Delhivery,4,Fog,Summer,0,0,367.3,Furniture,0,4.37,45,2024-08
+SHP00528,2024-06-29,Kolkata,Chennai,525,Truck,Road,DTDC,2,Fog,Summer,1,0,117.2,Medical,1,5.75,75,2024-06
+SHP00529,2024-04-04,Delhi,Chennai,1647,Train,Rail,Ecom Express,3,Rain,Spring,0,0,191.3,Furniture,0,6.19,63,2024-04
+SHP00530,2023-10-01,Hyderabad,Bangalore,218,Truck,Road,DTDC,5,Storm,Monsoon,1,1,401.3,Furniture,0,4.76,46,2023-10
+SHP00531,2023-07-04,Hyderabad,Pune,2442,Train,Rail,Ecom Express,4,Rain,Summer,0,0,157.0,Electronics,1,6.1,64,2023-07
+SHP00532,2023-10-18,Chennai,Pune,98,Train,Rail,DTDC,1,Clear,Monsoon,0,1,126.3,Electronics,1,2.96,54,2023-10
+SHP00533,2023-05-03,Mumbai,Pune,147,Ship,Sea,Ecom Express,1,Clear,Spring,0,0,43.6,Industrial,0,4.02,54,2023-05
+SHP00534,2023-03-19,Ahmedabad,Hyderabad,2368,Van,Road,FedEx,1,Rain,Spring,1,0,319.6,Furniture,0,7.3,83,2023-03
+SHP00535,2024-02-02,Delhi,Kolkata,1798,Bike,Road,Blue Dart,3,Rain,Winter,0,1,166.7,Electronics,1,5.82,68,2024-02
+SHP00536,2024-05-18,Bangalore,Pune,778,Train,Rail,Delhivery,1,Fog,Spring,1,0,54.7,Industrial,0,6.19,76,2024-05
+SHP00537,2023-03-16,Mumbai,Delhi,1816,Van,Road,DTDC,5,Clear,Spring,0,0,35.7,Medical,1,4.28,40,2023-03
+SHP00538,2023-12-04,Bangalore,Pune,2088,Van,Road,DTDC,1,Clear,Winter,0,1,452.4,Industrial,0,6.71,74,2023-12
+SHP00539,2023-08-20,Mumbai,Hyderabad,65,Ship,Sea,DTDC,4,Fog,Summer,1,0,2.2,Medical,1,4.78,56,2023-08
+SHP00540,2024-10-24,Delhi,Pune,2373,Ship,Sea,FedEx,3,Storm,Monsoon,0,1,45.8,Industrial,0,8.22,84,2024-10
+SHP00541,2024-11-07,Delhi,Kolkata,1442,Truck,Road,Delhivery,4,Storm,Monsoon,0,1,95.9,Medical,1,6.87,76,2024-11
+SHP00542,2023-01-26,Delhi,Bangalore,1521,Train,Rail,Delhivery,1,Fog,Winter,0,1,360.0,Industrial,0,6.7,80,2023-01
+SHP00543,2024-04-05,Ahmedabad,Kolkata,1026,Train,Rail,Ecom Express,4,Clear,Spring,0,0,483.3,Electronics,1,3.44,39,2024-04
+SHP00544,2024-08-16,Bangalore,Pune,225,Train,Rail,Ecom Express,1,Rain,Summer,0,0,116.9,Electronics,1,4.6,71,2024-08
+SHP00545,2024-10-26,Chennai,Pune,201,Van,Road,DTDC,4,Clear,Monsoon,1,1,65.7,Perishable,1,2.65,33,2024-10
+SHP00546,2024-05-24,Mumbai,Delhi,448,Train,Rail,Ecom Express,5,Rain,Spring,0,0,297.7,Industrial,0,2.4,23,2024-05
+SHP00547,2024-12-01,Hyderabad,Delhi,953,Truck,Road,FedEx,2,Fog,Winter,1,1,288.2,Perishable,1,5.81,76,2024-12
+SHP00548,2023-05-25,Mumbai,Chennai,923,Truck,Road,FedEx,5,Rain,Spring,0,0,378.9,Perishable,1,4.95,50,2023-05
+SHP00549,2024-10-09,Bangalore,Delhi,1565,Ship,Sea,Delhivery,2,Fog,Monsoon,0,1,306.4,Perishable,1,7.85,91,2024-10
+SHP00550,2024-05-02,Pune,Hyderabad,76,Truck,Road,Ecom Express,2,Clear,Spring,0,0,346.3,Perishable,1,3.09,49,2024-05
+SHP00551,2023-02-08,Bangalore,Hyderabad,636,Bike,Road,DTDC,5,Fog,Winter,0,1,298.3,Medical,1,3.34,39,2023-02
+SHP00552,2024-06-26,Chennai,Delhi,1283,Bike,Road,Ecom Express,4,Clear,Summer,0,0,488.4,Industrial,0,3.39,31,2024-06
+SHP00553,2023-07-18,Kolkata,Delhi,1532,Ship,Sea,DTDC,5,Rain,Summer,0,0,56.8,Perishable,1,5.18,51,2023-07
+SHP00554,2023-08-03,Hyderabad,Bangalore,1993,Train,Rail,Blue Dart,2,Rain,Summer,0,0,217.6,Furniture,0,5.03,60,2023-08
+SHP00555,2023-01-30,Bangalore,Ahmedabad,1906,Truck,Road,Ecom Express,1,Clear,Winter,0,1,242.8,Electronics,1,6.9,83,2023-01
+SHP00556,2023-04-23,Hyderabad,Mumbai,1871,Ship,Sea,DTDC,5,Storm,Spring,1,0,163.4,Electronics,1,7.61,76,2023-04
+SHP00557,2024-05-11,Ahmedabad,Kolkata,1021,Train,Rail,Delhivery,2,Fog,Spring,1,0,27.6,Apparel,0,5.87,68,2024-05
+SHP00558,2024-01-03,Chennai,Pune,1913,Van,Road,Delhivery,4,Storm,Winter,0,1,487.8,Perishable,1,8.36,87,2024-01
+SHP00559,2024-04-21,Mumbai,Ahmedabad,1425,Van,Road,FedEx,1,Clear,Spring,1,0,229.6,Perishable,1,4.96,69,2024-04
+SHP00560,2024-06-18,Mumbai,Kolkata,1258,Ship,Sea,Ecom Express,2,Rain,Summer,0,0,244.9,Perishable,1,5.88,75,2024-06
+SHP00561,2023-12-02,Chennai,Mumbai,2473,Train,Rail,Blue Dart,4,Storm,Winter,1,1,217.4,Perishable,1,8.75,90,2023-12
+SHP00562,2024-05-31,Ahmedabad,Hyderabad,660,Ship,Sea,Blue Dart,1,Fog,Spring,0,0,17.3,Industrial,0,5.11,68,2024-05
+SHP00563,2023-01-13,Mumbai,Hyderabad,1665,Train,Rail,DTDC,1,Fog,Winter,0,1,346.7,Apparel,0,7.19,84,2023-01
+SHP00564,2024-04-15,Bangalore,Pune,1261,Van,Road,DTDC,1,Clear,Spring,0,0,429.0,Medical,1,4.83,68,2024-04
+SHP00565,2024-01-15,Bangalore,Ahmedabad,2440,Truck,Road,Delhivery,4,Fog,Winter,0,1,313.6,Medical,1,7.25,74,2024-01
+SHP00566,2024-09-19,Kolkata,Pune,339,Train,Rail,FedEx,3,Clear,Monsoon,0,1,271.4,Perishable,1,2.54,39,2024-09
+SHP00567,2024-01-28,Delhi,Mumbai,381,Ship,Sea,Ecom Express,3,Clear,Winter,1,1,183.1,Industrial,0,4.2,43,2024-01
+SHP00568,2023-04-27,Chennai,Hyderabad,2338,Truck,Road,Delhivery,5,Rain,Spring,0,0,324.7,Medical,1,6.23,59,2023-04
+SHP00569,2023-02-25,Pune,Bangalore,2426,Van,Road,FedEx,2,Storm,Winter,1,1,32.2,Furniture,0,7.85,87,2023-02
+SHP00570,2024-04-13,Mumbai,Bangalore,552,Train,Rail,DTDC,5,Storm,Spring,1,0,44.1,Apparel,0,4.62,45,2024-04
+SHP00571,2023-06-01,Mumbai,Pune,782,Bike,Road,Delhivery,1,Clear,Summer,0,0,248.4,Perishable,1,3.25,56,2023-06
+SHP00572,2024-10-22,Pune,Chennai,1250,Train,Rail,DTDC,5,Rain,Monsoon,0,1,11.2,Perishable,1,4.8,49,2024-10
+SHP00573,2024-08-30,Hyderabad,Chennai,307,Truck,Road,DTDC,2,Storm,Summer,0,0,333.1,Industrial,0,5.62,71,2024-08
+SHP00574,2024-01-16,Chennai,Kolkata,1295,Ship,Sea,Delhivery,2,Storm,Winter,0,1,485.4,Electronics,1,7.33,91,2024-01
+SHP00575,2023-06-29,Kolkata,Mumbai,657,Bike,Road,Delhivery,3,Fog,Summer,0,0,419.7,Medical,1,4.94,63,2023-06
+SHP00576,2024-01-14,Ahmedabad,Bangalore,710,Van,Road,FedEx,1,Clear,Winter,1,1,92.7,Industrial,0,3.72,51,2024-01
+SHP00577,2023-11-05,Bangalore,Hyderabad,192,Bike,Road,FedEx,3,Rain,Monsoon,1,1,61.2,Electronics,1,3.64,52,2023-11
+SHP00578,2023-10-24,Kolkata,Chennai,645,Train,Rail,Blue Dart,3,Rain,Monsoon,0,1,484.8,Industrial,0,4.28,49,2023-10
+SHP00579,2024-11-25,Delhi,Bangalore,652,Ship,Sea,Blue Dart,4,Storm,Monsoon,0,1,275.7,Furniture,0,6.48,65,2024-11
+SHP00580,2024-06-23,Chennai,Hyderabad,952,Train,Rail,FedEx,3,Clear,Summer,1,0,111.5,Furniture,0,3.35,37,2024-06
+SHP00581,2023-11-22,Chennai,Kolkata,851,Truck,Road,Blue Dart,1,Fog,Monsoon,0,1,301.8,Industrial,0,6.89,82,2023-11
+SHP00582,2023-10-19,Hyderabad,Delhi,1528,Train,Rail,FedEx,2,Fog,Monsoon,0,1,172.8,Furniture,0,5.88,68,2023-10
+SHP00583,2023-06-17,Ahmedabad,Bangalore,1875,Ship,Sea,DTDC,1,Rain,Summer,1,0,402.9,Apparel,0,7.57,85,2023-06
+SHP00584,2024-06-21,Ahmedabad,Pune,2455,Ship,Sea,Delhivery,1,Rain,Summer,0,0,493.3,Electronics,1,7.59,93,2024-06
+SHP00585,2024-07-23,Pune,Mumbai,2469,Train,Rail,DTDC,1,Clear,Summer,0,0,231.3,Industrial,0,6.22,70,2024-07
+SHP00586,2024-07-26,Kolkata,Chennai,811,Train,Rail,Blue Dart,3,Fog,Summer,0,0,370.1,Perishable,1,4.13,57,2024-07
+SHP00587,2024-11-12,Mumbai,Pune,159,Truck,Road,FedEx,2,Storm,Monsoon,0,1,446.4,Apparel,0,5.9,73,2024-11
+SHP00588,2024-05-07,Hyderabad,Kolkata,1052,Truck,Road,DTDC,1,Storm,Spring,0,0,283.0,Furniture,0,7.79,93,2024-05
+SHP00589,2023-11-24,Delhi,Bangalore,1999,Truck,Road,FedEx,3,Clear,Monsoon,0,1,230.8,Medical,1,5.82,63,2023-11
+SHP00590,2024-10-16,Kolkata,Hyderabad,1166,Bike,Road,Blue Dart,4,Storm,Monsoon,0,1,468.2,Industrial,0,5.69,59,2024-10
+SHP00591,2023-11-05,Hyderabad,Ahmedabad,843,Van,Road,Ecom Express,1,Rain,Monsoon,1,1,136.1,Medical,1,5.83,80,2023-11
+SHP00592,2024-05-11,Hyderabad,Ahmedabad,2425,Bike,Road,Delhivery,2,Clear,Spring,1,0,206.3,Perishable,1,5.84,69,2024-05
+SHP00593,2023-03-20,Pune,Chennai,469,Van,Road,Delhivery,2,Rain,Spring,0,0,58.7,Perishable,1,4.83,67,2023-03
+SHP00594,2023-11-08,Bangalore,Pune,1326,Bike,Road,Ecom Express,2,Fog,Monsoon,0,1,14.9,Electronics,1,5.92,76,2023-11
+SHP00595,2023-03-22,Chennai,Mumbai,960,Van,Road,FedEx,2,Rain,Spring,0,0,212.7,Electronics,1,5.34,71,2023-03
+SHP00596,2023-09-17,Ahmedabad,Delhi,1816,Truck,Road,Blue Dart,2,Clear,Monsoon,1,1,22.1,Furniture,0,6.17,64,2023-09
+SHP00597,2023-12-26,Bangalore,Pune,92,Truck,Road,Ecom Express,1,Rain,Winter,0,1,15.1,Perishable,1,5.58,78,2023-12
+SHP00598,2024-08-15,Mumbai,Delhi,2424,Bike,Road,Ecom Express,3,Rain,Summer,0,0,381.7,Industrial,0,5.59,58,2024-08
+SHP00599,2024-05-31,Mumbai,Bangalore,938,Van,Road,Ecom Express,3,Rain,Spring,0,0,425.7,Apparel,0,4.18,48,2024-05
+SHP00600,2023-08-22,Chennai,Hyderabad,1850,Truck,Road,DTDC,2,Storm,Summer,0,0,204.1,Furniture,0,8.34,91,2023-08
+SHP00601,2023-02-11,Kolkata,Hyderabad,556,Train,Rail,DTDC,1,Rain,Winter,1,1,41.6,Apparel,0,5.43,69,2023-02
+SHP00602,2023-03-13,Chennai,Ahmedabad,1327,Train,Rail,FedEx,2,Fog,Spring,0,0,447.4,Apparel,0,5.61,66,2023-03
+SHP00603,2024-11-05,Ahmedabad,Kolkata,1555,Van,Road,Blue Dart,1,Fog,Monsoon,0,1,338.4,Electronics,1,7.32,93,2024-11
+SHP00604,2024-09-01,Hyderabad,Mumbai,2468,Truck,Road,FedEx,2,Clear,Monsoon,1,1,422.1,Apparel,0,6.9,69,2024-09
+SHP00605,2024-05-02,Pune,Bangalore,552,Van,Road,FedEx,4,Fog,Spring,0,0,333.5,Apparel,0,3.81,41,2024-05
+SHP00606,2024-10-05,Ahmedabad,Mumbai,653,Train,Rail,FedEx,1,Clear,Monsoon,1,1,471.2,Electronics,1,4.45,65,2024-10
+SHP00607,2024-11-26,Pune,Kolkata,457,Truck,Road,Blue Dart,1,Fog,Monsoon,0,1,163.8,Furniture,0,5.13,68,2024-11
+SHP00608,2024-05-31,Ahmedabad,Chennai,363,Ship,Sea,Delhivery,4,Fog,Spring,0,0,131.2,Furniture,0,3.83,41,2024-05
+SHP00609,2023-11-19,Pune,Chennai,2264,Ship,Sea,DTDC,1,Clear,Monsoon,1,1,426.5,Apparel,0,7.43,79,2023-11
+SHP00610,2024-02-03,Kolkata,Pune,2330,Bike,Road,DTDC,2,Fog,Winter,1,1,244.0,Electronics,1,8.01,92,2024-02
+SHP00611,2023-09-27,Delhi,Kolkata,2380,Train,Rail,DTDC,5,Fog,Monsoon,0,1,247.6,Apparel,0,6.33,53,2023-09
+SHP00612,2024-01-11,Bangalore,Ahmedabad,1215,Bike,Road,Ecom Express,1,Clear,Winter,0,1,174.8,Medical,1,4.99,69,2024-01
+SHP00613,2024-02-26,Hyderabad,Bangalore,2441,Truck,Road,Blue Dart,3,Fog,Winter,0,1,176.0,Medical,1,7.95,86,2024-02
+SHP00614,2023-01-21,Hyderabad,Mumbai,1328,Ship,Sea,FedEx,1,Clear,Winter,1,1,269.4,Electronics,1,6.29,79,2023-01
+SHP00615,2023-01-23,Ahmedabad,Kolkata,1937,Train,Rail,FedEx,5,Fog,Winter,0,1,492.9,Apparel,0,5.25,45,2023-01
+SHP00616,2024-09-21,Hyderabad,Mumbai,450,Train,Rail,FedEx,1,Rain,Monsoon,1,1,150.1,Apparel,0,4.74,64,2024-09
+SHP00617,2024-08-10,Delhi,Chennai,876,Train,Rail,FedEx,1,Rain,Summer,1,0,201.3,Perishable,1,4.23,68,2024-08
+SHP00618,2023-08-03,Ahmedabad,Chennai,2418,Truck,Road,FedEx,5,Storm,Summer,0,0,174.0,Electronics,1,6.64,68,2023-08
+SHP00619,2024-02-16,Chennai,Kolkata,1286,Ship,Sea,Ecom Express,3,Fog,Winter,0,1,126.0,Industrial,0,5.58,60,2024-02
+SHP00620,2024-04-23,Chennai,Pune,789,Truck,Road,Ecom Express,5,Rain,Spring,0,0,134.3,Medical,1,4.57,47,2024-04
+SHP00621,2023-06-01,Hyderabad,Chennai,2232,Ship,Sea,Ecom Express,4,Clear,Summer,0,0,120.6,Medical,1,5.71,56,2023-06
+SHP00622,2023-10-21,Kolkata,Ahmedabad,1833,Train,Rail,Delhivery,3,Clear,Monsoon,1,1,323.2,Furniture,0,5.16,50,2023-10
+SHP00623,2023-11-14,Delhi,Bangalore,1017,Train,Rail,Delhivery,2,Clear,Monsoon,0,1,232.3,Industrial,0,4.63,52,2023-11
+SHP00624,2023-10-12,Kolkata,Ahmedabad,201,Van,Road,Delhivery,2,Storm,Monsoon,0,1,329.5,Perishable,1,5.71,79,2023-10
+SHP00625,2023-03-07,Kolkata,Ahmedabad,222,Train,Rail,Blue Dart,1,Clear,Spring,0,0,450.3,Apparel,0,3.08,47,2023-03
+SHP00626,2023-04-03,Kolkata,Chennai,419,Train,Rail,Blue Dart,2,Rain,Spring,0,0,119.4,Electronics,1,3.69,58,2023-04
+SHP00627,2023-04-20,Chennai,Mumbai,1333,Bike,Road,Delhivery,5,Fog,Spring,0,0,88.0,Furniture,0,4.27,38,2023-04
+SHP00628,2024-11-30,Pune,Chennai,2464,Truck,Road,Blue Dart,4,Storm,Monsoon,1,1,123.6,Furniture,0,8.17,78,2024-11
+SHP00629,2024-11-09,Delhi,Ahmedabad,643,Bike,Road,FedEx,4,Storm,Monsoon,1,1,399.6,Electronics,1,5.11,63,2024-11
+SHP00630,2023-08-31,Mumbai,Hyderabad,1031,Bike,Road,FedEx,5,Fog,Summer,0,0,428.9,Apparel,0,2.81,27,2023-08
+SHP00631,2023-06-14,Kolkata,Mumbai,82,Train,Rail,Blue Dart,3,Storm,Summer,0,0,458.0,Medical,1,4.03,61,2023-06
+SHP00632,2023-12-07,Pune,Ahmedabad,1714,Truck,Road,DTDC,3,Clear,Winter,0,1,358.8,Electronics,1,6.67,70,2023-12
+SHP00633,2023-01-29,Hyderabad,Chennai,706,Bike,Road,FedEx,5,Clear,Winter,1,1,381.1,Medical,1,2.7,28,2023-01
+SHP00634,2023-06-11,Mumbai,Delhi,607,Truck,Road,FedEx,4,Rain,Summer,1,0,125.2,Medical,1,3.47,45,2023-06
+SHP00635,2023-06-27,Bangalore,Chennai,582,Ship,Sea,DTDC,4,Storm,Summer,0,0,343.9,Furniture,0,5.81,60,2023-06
+SHP00636,2024-07-25,Delhi,Mumbai,1747,Bike,Road,DTDC,2,Fog,Summer,0,0,323.7,Medical,1,6.2,79,2024-07
+SHP00637,2024-09-24,Delhi,Kolkata,986,Truck,Road,FedEx,4,Rain,Monsoon,0,1,214.7,Furniture,0,5.16,49,2024-09
+SHP00638,2024-11-20,Ahmedabad,Pune,746,Ship,Sea,Ecom Express,1,Clear,Monsoon,0,1,247.3,Perishable,1,6.33,79,2024-11
+SHP00639,2023-07-31,Bangalore,Kolkata,882,Van,Road,DTDC,3,Storm,Summer,0,0,300.2,Furniture,0,5.87,67,2023-07
+SHP00640,2024-04-06,Chennai,Hyderabad,788,Train,Rail,FedEx,2,Clear,Spring,1,0,453.7,Furniture,0,2.91,39,2024-04
+SHP00641,2024-02-12,Hyderabad,Pune,2437,Train,Rail,DTDC,1,Clear,Winter,0,1,343.6,Medical,1,6.78,82,2024-02
+SHP00642,2023-08-29,Delhi,Chennai,2496,Bike,Road,Ecom Express,1,Clear,Summer,0,0,235.7,Furniture,0,6.55,73,2023-08
+SHP00643,2024-11-18,Kolkata,Chennai,2500,Truck,Road,Ecom Express,1,Storm,Monsoon,0,1,185.8,Industrial,0,9.86,100,2024-11
+SHP00644,2024-06-27,Mumbai,Chennai,745,Ship,Sea,DTDC,4,Storm,Summer,0,0,216.7,Furniture,0,5.79,60,2024-06
+SHP00645,2023-10-17,Hyderabad,Chennai,528,Bike,Road,DTDC,1,Rain,Monsoon,0,1,451.4,Furniture,0,4.33,61,2023-10
+SHP00646,2023-06-04,Ahmedabad,Pune,1130,Ship,Sea,Delhivery,3,Fog,Summer,1,0,278.1,Medical,1,5.46,67,2023-06
+SHP00647,2024-04-26,Bangalore,Delhi,1852,Truck,Road,Blue Dart,2,Rain,Spring,0,0,130.5,Medical,1,6.21,77,2024-04
+SHP00648,2023-04-26,Ahmedabad,Chennai,2077,Truck,Road,Ecom Express,4,Storm,Spring,0,0,423.0,Perishable,1,7.81,83,2023-04
+SHP00649,2024-06-04,Bangalore,Pune,556,Bike,Road,FedEx,1,Rain,Summer,0,0,411.4,Industrial,0,4.42,62,2024-06
+SHP00650,2024-05-25,Chennai,Ahmedabad,2440,Truck,Road,DTDC,5,Rain,Spring,1,0,338.6,Furniture,0,6.25,51,2024-05
+SHP00651,2023-01-30,Hyderabad,Mumbai,156,Bike,Road,FedEx,1,Fog,Winter,0,1,41.0,Medical,1,4.39,71,2023-01
+SHP00652,2024-08-05,Hyderabad,Pune,1153,Ship,Sea,Blue Dart,1,Storm,Summer,0,0,65.1,Electronics,1,7.13,96,2024-08
+SHP00653,2023-09-19,Mumbai,Kolkata,1208,Bike,Road,Ecom Express,1,Clear,Monsoon,0,1,89.4,Apparel,0,5.74,67,2023-09
+SHP00654,2024-03-18,Kolkata,Chennai,717,Train,Rail,Delhivery,4,Storm,Spring,0,0,368.1,Furniture,0,5.29,56,2024-03
+SHP00655,2024-02-02,Ahmedabad,Chennai,587,Bike,Road,Ecom Express,1,Storm,Winter,0,1,238.5,Industrial,0,6.01,80,2024-02
+SHP00656,2024-06-09,Mumbai,Delhi,1780,Bike,Road,DTDC,5,Rain,Summer,1,0,171.2,Apparel,0,5.19,43,2024-06
+SHP00657,2024-05-04,Pune,Delhi,968,Van,Road,FedEx,4,Clear,Spring,1,0,150.5,Perishable,1,3.35,39,2024-05
+SHP00658,2024-06-09,Mumbai,Delhi,1068,Ship,Sea,Ecom Express,4,Storm,Summer,1,0,54.3,Apparel,0,6.07,62,2024-06
+SHP00659,2024-05-30,Mumbai,Ahmedabad,1741,Truck,Road,FedEx,4,Storm,Spring,0,0,8.6,Medical,1,6.39,72,2024-05
+SHP00660,2024-04-10,Hyderabad,Kolkata,796,Train,Rail,DTDC,1,Clear,Spring,0,0,378.8,Apparel,0,3.61,51,2024-04
+SHP00661,2024-11-20,Kolkata,Ahmedabad,1135,Bike,Road,Delhivery,2,Rain,Monsoon,0,1,53.6,Industrial,0,5.77,66,2024-11
+SHP00662,2024-09-23,Kolkata,Hyderabad,104,Van,Road,DTDC,4,Fog,Monsoon,0,1,180.7,Medical,1,4.39,53,2024-09
+SHP00663,2023-01-17,Chennai,Delhi,1667,Bike,Road,Delhivery,1,Rain,Winter,0,1,348.2,Perishable,1,6.95,89,2023-01
+SHP00664,2024-04-30,Ahmedabad,Mumbai,644,Van,Road,Blue Dart,4,Rain,Spring,0,0,211.2,Electronics,1,3.35,44,2024-04
+SHP00665,2023-09-06,Ahmedabad,Kolkata,730,Van,Road,DTDC,4,Fog,Monsoon,0,1,101.1,Industrial,0,4.98,49,2023-09
+SHP00666,2024-05-14,Kolkata,Delhi,1417,Truck,Road,DTDC,1,Fog,Spring,0,0,200.1,Industrial,0,6.42,78,2024-05
+SHP00667,2023-11-20,Pune,Kolkata,2470,Ship,Sea,Blue Dart,4,Rain,Monsoon,0,1,276.9,Furniture,0,7.5,67,2023-11
+SHP00668,2023-10-22,Delhi,Bangalore,1988,Truck,Road,DTDC,4,Storm,Monsoon,1,1,363.2,Apparel,0,7.88,76,2023-10
+SHP00669,2023-10-28,Ahmedabad,Mumbai,1458,Train,Rail,Ecom Express,2,Rain,Monsoon,1,1,361.6,Apparel,0,6.76,73,2023-10
+SHP00670,2023-06-27,Ahmedabad,Mumbai,1525,Train,Rail,FedEx,2,Rain,Summer,0,0,100.1,Industrial,0,5.04,60,2023-06
+SHP00671,2023-02-18,Chennai,Hyderabad,2065,Truck,Road,FedEx,4,Fog,Winter,1,1,499.6,Furniture,0,6.89,64,2023-02
+SHP00672,2024-09-24,Pune,Delhi,699,Van,Road,Blue Dart,5,Clear,Monsoon,0,1,113.7,Industrial,0,2.23,16,2024-09
+SHP00673,2024-06-11,Kolkata,Mumbai,967,Train,Rail,FedEx,3,Storm,Summer,0,0,302.3,Electronics,1,5.33,70,2024-06
+SHP00674,2023-04-18,Delhi,Hyderabad,1843,Train,Rail,Ecom Express,1,Clear,Spring,0,0,83.9,Electronics,1,4.85,68,2023-04
+SHP00675,2024-10-24,Mumbai,Bangalore,891,Bike,Road,DTDC,2,Storm,Monsoon,0,1,182.2,Perishable,1,7.07,90,2024-10
+SHP00676,2023-09-30,Bangalore,Delhi,1752,Truck,Road,FedEx,2,Fog,Monsoon,1,1,186.5,Apparel,0,6.93,76,2023-09
+SHP00677,2024-02-24,Pune,Chennai,1527,Van,Road,Delhivery,2,Fog,Winter,1,1,449.1,Industrial,0,6.65,74,2024-02
+SHP00678,2023-11-19,Mumbai,Chennai,171,Train,Rail,Ecom Express,2,Clear,Monsoon,1,1,201.1,Perishable,1,3.33,50,2023-11
+SHP00679,2024-02-16,Kolkata,Chennai,1827,Truck,Road,Delhivery,4,Clear,Winter,0,1,442.9,Medical,1,5.14,52,2024-02
+SHP00680,2024-10-21,Pune,Chennai,1334,Bike,Road,Ecom Express,1,Storm,Monsoon,0,1,103.0,Industrial,0,7.1,88,2024-10
+SHP00681,2023-12-09,Delhi,Hyderabad,1861,Bike,Road,FedEx,4,Rain,Winter,1,1,195.3,Medical,1,5.9,63,2023-12
+SHP00682,2024-10-12,Hyderabad,Ahmedabad,2265,Bike,Road,Ecom Express,2,Clear,Monsoon,1,1,80.4,Electronics,1,6.17,72,2024-10
+SHP00683,2023-03-03,Mumbai,Pune,2261,Ship,Sea,FedEx,3,Rain,Spring,0,0,420.9,Furniture,0,6.52,65,2023-03
+SHP00684,2023-08-30,Ahmedabad,Bangalore,245,Truck,Road,Ecom Express,4,Storm,Summer,0,0,402.8,Industrial,0,4.43,50,2023-08
+SHP00685,2024-08-09,Kolkata,Pune,2366,Ship,Sea,FedEx,5,Rain,Summer,0,0,336.4,Medical,1,5.7,55,2024-08
+SHP00686,2024-03-11,Mumbai,Bangalore,481,Bike,Road,FedEx,5,Rain,Spring,0,0,414.3,Electronics,1,3.49,39,2024-03
+SHP00687,2024-01-14,Ahmedabad,Delhi,427,Truck,Road,DTDC,4,Rain,Winter,1,1,338.6,Apparel,0,4.06,41,2024-01
+SHP00688,2024-03-02,Ahmedabad,Hyderabad,1667,Bike,Road,DTDC,5,Fog,Spring,1,0,412.0,Perishable,1,5.48,55,2024-03
+SHP00689,2024-04-29,Chennai,Kolkata,2121,Van,Road,Delhivery,4,Fog,Spring,0,0,16.8,Perishable,1,6.74,71,2024-04
+SHP00690,2024-06-19,Kolkata,Delhi,536,Ship,Sea,Blue Dart,4,Clear,Summer,0,0,77.1,Furniture,0,2.57,25,2024-06
+SHP00691,2024-08-26,Bangalore,Mumbai,1298,Bike,Road,DTDC,3,Storm,Summer,0,0,211.2,Furniture,0,6.37,70,2024-08
+SHP00692,2024-08-09,Pune,Chennai,2052,Truck,Road,Blue Dart,1,Storm,Summer,0,0,155.2,Apparel,0,7.85,93,2024-08
+SHP00693,2024-04-04,Ahmedabad,Hyderabad,1433,Train,Rail,Delhivery,4,Rain,Spring,0,0,74.9,Medical,1,4.82,55,2024-04
+SHP00694,2023-10-12,Ahmedabad,Hyderabad,1727,Train,Rail,FedEx,2,Fog,Monsoon,0,1,323.1,Perishable,1,7.26,86,2023-10
+SHP00695,2024-07-08,Chennai,Hyderabad,151,Ship,Sea,Ecom Express,3,Clear,Summer,0,0,288.6,Electronics,1,3.78,48,2024-07
+SHP00696,2023-07-30,Delhi,Chennai,1999,Ship,Sea,Ecom Express,1,Clear,Summer,1,0,123.0,Medical,1,6.64,81,2023-07
+SHP00697,2023-01-24,Ahmedabad,Pune,2423,Train,Rail,DTDC,1,Storm,Winter,0,1,170.3,Perishable,1,8.68,100,2023-01
+SHP00698,2023-05-28,Bangalore,Chennai,1349,Train,Rail,Blue Dart,3,Clear,Spring,1,0,91.7,Electronics,1,4.63,54,2023-05
+SHP00699,2023-03-01,Bangalore,Delhi,681,Bike,Road,Blue Dart,4,Rain,Spring,0,0,149.4,Electronics,1,3.24,43,2023-03
+SHP00700,2024-09-03,Chennai,Ahmedabad,1377,Bike,Road,Blue Dart,4,Clear,Monsoon,0,1,293.2,Apparel,0,4.1,36,2024-09
+SHP00701,2024-07-20,Hyderabad,Chennai,2133,Ship,Sea,FedEx,4,Clear,Summer,1,0,203.8,Apparel,0,5.85,49,2024-07
+SHP00702,2024-02-21,Kolkata,Hyderabad,126,Bike,Road,Delhivery,5,Clear,Winter,0,1,223.3,Medical,1,2.19,24,2024-02
+SHP00703,2024-03-09,Chennai,Hyderabad,2099,Van,Road,Ecom Express,2,Storm,Spring,1,0,480.7,Industrial,0,7.84,87,2024-03
+SHP00704,2024-09-04,Ahmedabad,Bangalore,1953,Ship,Sea,Blue Dart,3,Rain,Monsoon,0,1,125.8,Medical,1,7.1,78,2024-09
+SHP00705,2023-04-02,Mumbai,Chennai,1607,Bike,Road,Blue Dart,2,Storm,Spring,1,0,198.0,Electronics,1,7.27,91,2023-04
+SHP00706,2023-09-09,Ahmedabad,Bangalore,1194,Train,Rail,FedEx,2,Storm,Monsoon,1,1,331.3,Furniture,0,5.88,73,2023-09
+SHP00707,2024-05-02,Delhi,Hyderabad,1449,Van,Road,Blue Dart,4,Storm,Spring,0,0,2.6,Electronics,1,5.84,68,2024-05
+SHP00708,2023-05-07,Ahmedabad,Hyderabad,2052,Train,Rail,Blue Dart,5,Clear,Spring,1,0,176.8,Apparel,0,3.87,29,2023-05
+SHP00709,2024-03-31,Hyderabad,Mumbai,1516,Train,Rail,Blue Dart,2,Clear,Spring,1,0,5.2,Medical,1,5.29,65,2024-03
+SHP00710,2023-02-07,Ahmedabad,Bangalore,1515,Van,Road,Delhivery,1,Storm,Winter,0,1,140.7,Medical,1,7.91,100,2023-02
+SHP00711,2024-07-19,Ahmedabad,Mumbai,906,Truck,Road,Blue Dart,2,Fog,Summer,0,0,97.3,Medical,1,4.68,67,2024-07
+SHP00712,2023-08-22,Kolkata,Hyderabad,2364,Van,Road,Blue Dart,1,Rain,Summer,0,0,440.6,Medical,1,6.94,89,2023-08
+SHP00713,2024-10-18,Delhi,Kolkata,1173,Van,Road,Ecom Express,1,Storm,Monsoon,0,1,336.7,Medical,1,8.62,100,2024-10
+SHP00714,2024-06-13,Ahmedabad,Bangalore,1821,Train,Rail,Ecom Express,3,Clear,Summer,0,0,379.6,Medical,1,5.45,60,2024-06
+SHP00715,2024-02-06,Hyderabad,Delhi,969,Truck,Road,Ecom Express,3,Fog,Winter,0,1,97.7,Electronics,1,6.66,76,2024-02
+SHP00716,2023-03-06,Hyderabad,Bangalore,974,Train,Rail,Delhivery,1,Rain,Spring,0,0,313.2,Electronics,1,4.8,73,2023-03
+SHP00717,2023-04-21,Kolkata,Mumbai,164,Train,Rail,Ecom Express,4,Clear,Spring,0,0,237.1,Furniture,0,2.14,22,2023-04
+SHP00718,2023-03-04,Mumbai,Delhi,2178,Van,Road,Blue Dart,1,Fog,Spring,1,0,458.4,Apparel,0,6.72,80,2023-03
+SHP00719,2024-10-03,Kolkata,Hyderabad,1333,Truck,Road,DTDC,2,Clear,Monsoon,0,1,216.2,Electronics,1,5.43,66,2024-10
+SHP00720,2024-09-05,Chennai,Ahmedabad,1257,Train,Rail,Ecom Express,4,Clear,Monsoon,0,1,393.8,Industrial,0,3.74,34,2024-09
+SHP00721,2024-11-22,Hyderabad,Pune,93,Train,Rail,DTDC,4,Fog,Monsoon,0,1,391.6,Apparel,0,3.25,36,2024-11
+SHP00722,2024-06-05,Bangalore,Pune,492,Truck,Road,Ecom Express,1,Clear,Summer,0,0,128.5,Apparel,0,3.76,52,2024-06
+SHP00723,2023-05-11,Delhi,Mumbai,2021,Ship,Sea,Delhivery,4,Rain,Spring,0,0,156.2,Apparel,0,5.57,52,2023-05
+SHP00724,2023-12-18,Kolkata,Hyderabad,1515,Bike,Road,Delhivery,5,Rain,Winter,0,1,145.9,Electronics,1,5.27,52,2023-12
+SHP00725,2023-07-20,Pune,Bangalore,2170,Ship,Sea,Delhivery,2,Clear,Summer,0,0,488.3,Medical,1,7.04,78,2023-07
+SHP00726,2023-11-03,Hyderabad,Kolkata,1448,Van,Road,Ecom Express,4,Fog,Monsoon,0,1,209.6,Perishable,1,5.43,61,2023-11
+SHP00727,2023-08-24,Chennai,Pune,479,Train,Rail,Delhivery,1,Fog,Summer,0,0,233.5,Perishable,1,5.03,76,2023-08
+SHP00728,2023-03-17,Hyderabad,Delhi,1407,Train,Rail,Delhivery,2,Fog,Spring,0,0,179.3,Industrial,0,6.31,71,2023-03
+SHP00729,2023-07-23,Delhi,Mumbai,521,Van,Road,Delhivery,3,Fog,Summer,1,0,99.3,Perishable,1,4.49,60,2023-07
+SHP00730,2023-09-26,Delhi,Bangalore,763,Bike,Road,Delhivery,5,Rain,Monsoon,0,1,455.4,Electronics,1,4.31,45,2023-09
+SHP00731,2024-01-14,Ahmedabad,Mumbai,612,Train,Rail,Delhivery,1,Storm,Winter,1,1,404.8,Medical,1,6.8,94,2024-01
+SHP00732,2024-01-23,Chennai,Hyderabad,1826,Truck,Road,Delhivery,1,Rain,Winter,0,1,347.3,Furniture,0,7.55,85,2024-01
+SHP00733,2023-09-11,Bangalore,Chennai,1809,Van,Road,Ecom Express,1,Rain,Monsoon,0,1,27.1,Furniture,0,7.32,83,2023-09
+SHP00734,2024-02-02,Bangalore,Hyderabad,2442,Train,Rail,DTDC,2,Clear,Winter,0,1,375.8,Medical,1,6.28,73,2024-02
+SHP00735,2024-05-09,Hyderabad,Kolkata,2135,Bike,Road,Delhivery,4,Fog,Spring,0,0,358.0,Apparel,0,5.17,51,2024-05
+SHP00736,2023-08-12,Chennai,Kolkata,2441,Truck,Road,Delhivery,2,Rain,Summer,1,0,153.3,Apparel,0,7.67,80,2023-08
+SHP00737,2023-03-28,Bangalore,Ahmedabad,2390,Van,Road,Ecom Express,3,Storm,Spring,0,0,147.9,Industrial,0,7.5,79,2023-03
+SHP00738,2024-02-23,Ahmedabad,Chennai,1955,Ship,Sea,DTDC,5,Storm,Winter,0,1,184.1,Apparel,0,8.27,73,2024-02
+SHP00739,2024-10-22,Chennai,Bangalore,1348,Bike,Road,Delhivery,4,Clear,Monsoon,0,1,38.4,Electronics,1,4.3,46,2024-10
+SHP00740,2023-02-09,Mumbai,Chennai,2289,Truck,Road,Blue Dart,3,Rain,Winter,0,1,273.2,Furniture,0,7.42,72,2023-02
+SHP00741,2024-07-10,Bangalore,Ahmedabad,855,Bike,Road,FedEx,3,Storm,Summer,0,0,456.2,Electronics,1,5.27,70,2024-07
+SHP00742,2023-08-21,Pune,Mumbai,1469,Train,Rail,DTDC,4,Clear,Summer,0,0,361.8,Perishable,1,3.84,42,2023-08
+SHP00743,2023-07-12,Mumbai,Chennai,1993,Van,Road,DTDC,5,Fog,Summer,0,0,214.7,Medical,1,5.46,55,2023-07
+SHP00744,2023-01-10,Kolkata,Pune,2337,Truck,Road,Ecom Express,3,Rain,Winter,0,1,250.2,Medical,1,7.76,83,2023-01
+SHP00745,2024-08-24,Kolkata,Bangalore,1502,Bike,Road,DTDC,2,Fog,Summer,1,0,12.1,Electronics,1,6.75,83,2024-08
+SHP00746,2024-07-01,Pune,Delhi,1402,Ship,Sea,DTDC,5,Fog,Summer,0,0,193.5,Apparel,0,5.3,46,2024-07
+SHP00747,2024-11-22,Bangalore,Delhi,494,Bike,Road,FedEx,5,Fog,Monsoon,0,1,276.7,Electronics,1,3.96,44,2024-11
+SHP00748,2023-10-26,Chennai,Mumbai,159,Van,Road,DTDC,2,Clear,Monsoon,0,1,330.0,Electronics,1,2.98,48,2023-10
+SHP00749,2023-06-10,Pune,Chennai,1912,Truck,Road,Delhivery,3,Clear,Summer,1,0,494.8,Perishable,1,4.98,57,2023-06
+SHP00750,2024-11-11,Pune,Ahmedabad,331,Train,Rail,Delhivery,2,Rain,Monsoon,0,1,237.7,Industrial,0,4.01,53,2024-11
+SHP00751,2023-01-08,Kolkata,Mumbai,2405,Bike,Road,Ecom Express,5,Rain,Winter,1,1,495.5,Apparel,0,6.96,57,2023-01
+SHP00752,2023-04-04,Delhi,Pune,1061,Ship,Sea,DTDC,3,Fog,Spring,0,0,144.3,Apparel,0,6.02,63,2023-04
+SHP00753,2024-03-18,Bangalore,Hyderabad,1470,Bike,Road,DTDC,4,Rain,Spring,0,0,229.2,Medical,1,5.27,58,2024-03
+SHP00754,2023-08-11,Mumbai,Pune,1661,Truck,Road,FedEx,2,Rain,Summer,0,0,454.4,Apparel,0,6.09,68,2023-08
+SHP00755,2023-06-18,Pune,Chennai,2314,Truck,Road,Blue Dart,3,Clear,Summer,1,0,126.8,Industrial,0,5.59,53,2023-06
+SHP00756,2023-09-14,Delhi,Mumbai,1941,Train,Rail,Delhivery,3,Fog,Monsoon,0,1,57.8,Perishable,1,7.05,79,2023-09
+SHP00757,2024-03-24,Chennai,Pune,1389,Train,Rail,Blue Dart,4,Fog,Spring,1,0,70.6,Furniture,0,5.07,50,2024-03
+SHP00758,2023-03-21,Pune,Mumbai,123,Ship,Sea,FedEx,1,Rain,Spring,0,0,335.9,Electronics,1,4.37,69,2023-03
+SHP00759,2024-06-29,Delhi,Pune,1169,Van,Road,Delhivery,4,Storm,Summer,1,0,108.5,Medical,1,6.57,74,2024-06
+SHP00760,2024-01-22,Delhi,Mumbai,2191,Truck,Road,DTDC,4,Storm,Winter,0,1,383.7,Perishable,1,8.55,89,2024-01
+SHP00761,2023-12-12,Delhi,Mumbai,1584,Van,Road,Blue Dart,2,Clear,Winter,0,1,410.4,Medical,1,5.33,65,2023-12
+SHP00762,2024-07-29,Hyderabad,Bangalore,445,Van,Road,DTDC,2,Clear,Summer,0,0,313.6,Industrial,0,3.04,40,2024-07
+SHP00763,2024-01-01,Chennai,Delhi,898,Ship,Sea,Blue Dart,4,Fog,Winter,0,1,162.0,Electronics,1,5.16,59,2024-01
+SHP00764,2023-03-10,Hyderabad,Delhi,1644,Van,Road,Blue Dart,4,Rain,Spring,0,0,442.8,Apparel,0,4.89,47,2023-03
+SHP00765,2024-09-06,Kolkata,Delhi,1285,Ship,Sea,Ecom Express,4,Clear,Monsoon,0,1,162.5,Medical,1,4.8,50,2024-09
+SHP00766,2024-09-15,Hyderabad,Delhi,594,Bike,Road,DTDC,2,Storm,Monsoon,1,1,456.1,Apparel,0,5.63,71,2024-09
+SHP00767,2023-08-31,Mumbai,Chennai,1616,Ship,Sea,Delhivery,2,Clear,Summer,0,0,369.1,Perishable,1,5.56,67,2023-08
+SHP00768,2023-02-08,Chennai,Pune,1584,Train,Rail,Delhivery,3,Rain,Winter,0,1,119.4,Medical,1,6.12,70,2023-02
+SHP00769,2024-02-29,Delhi,Hyderabad,2499,Train,Rail,FedEx,3,Rain,Winter,0,1,324.2,Furniture,0,6.56,66,2024-02
+SHP00770,2023-08-16,Chennai,Ahmedabad,1406,Bike,Road,Ecom Express,2,Rain,Summer,0,0,304.2,Apparel,0,5.07,61,2023-08
+SHP00771,2023-07-17,Ahmedabad,Delhi,2185,Bike,Road,Blue Dart,2,Fog,Summer,0,0,26.5,Perishable,1,6.96,84,2023-07
+SHP00772,2024-04-23,Pune,Hyderabad,761,Ship,Sea,Delhivery,5,Rain,Spring,0,0,156.1,Medical,1,4.31,45,2024-04
+SHP00773,2024-08-13,Kolkata,Bangalore,859,Van,Road,Ecom Express,4,Rain,Summer,0,0,224.4,Medical,1,4.53,52,2024-08
+SHP00774,2024-03-08,Ahmedabad,Chennai,2020,Truck,Road,DTDC,3,Fog,Spring,0,0,252.9,Medical,1,7.76,84,2024-03
+SHP00775,2023-11-04,Mumbai,Ahmedabad,1825,Van,Road,DTDC,4,Clear,Monsoon,1,1,297.8,Perishable,1,5.47,55,2023-11
+SHP00776,2023-12-08,Ahmedabad,Delhi,1608,Train,Rail,FedEx,3,Fog,Winter,0,1,68.8,Apparel,0,5.87,62,2023-12
+SHP00777,2024-03-01,Ahmedabad,Chennai,851,Van,Road,Blue Dart,2,Clear,Spring,0,0,470.2,Medical,1,3.23,50,2024-03
+SHP00778,2024-03-22,Bangalore,Mumbai,2459,Truck,Road,Blue Dart,4,Clear,Spring,0,0,478.6,Medical,1,6.14,60,2024-03
+SHP00779,2023-09-10,Pune,Hyderabad,1477,Ship,Sea,Blue Dart,4,Storm,Monsoon,1,1,121.6,Electronics,1,7.94,84,2023-09
+SHP00780,2024-08-15,Chennai,Hyderabad,165,Van,Road,Delhivery,3,Fog,Summer,0,0,475.9,Perishable,1,3.55,53,2024-08
+SHP00781,2023-06-19,Chennai,Kolkata,100,Truck,Road,DTDC,1,Fog,Summer,0,0,415.0,Furniture,0,4.57,64,2023-06
+SHP00782,2024-08-09,Mumbai,Pune,2233,Train,Rail,DTDC,5,Storm,Summer,0,0,388.5,Furniture,0,6.45,59,2024-08
+SHP00783,2024-05-18,Bangalore,Ahmedabad,634,Bike,Road,FedEx,2,Fog,Spring,1,0,1.3,Electronics,1,4.72,67,2024-05
+SHP00784,2023-05-18,Bangalore,Pune,1757,Bike,Road,Delhivery,4,Rain,Spring,0,0,99.4,Perishable,1,4.74,54,2023-05
+SHP00785,2023-07-07,Delhi,Pune,2108,Truck,Road,Delhivery,4,Rain,Summer,0,0,404.7,Perishable,1,6.22,65,2023-07
+SHP00786,2024-01-22,Kolkata,Delhi,1724,Train,Rail,Delhivery,5,Clear,Winter,0,1,62.8,Electronics,1,5.42,48,2024-01
+SHP00787,2023-03-04,Mumbai,Delhi,1451,Truck,Road,DTDC,5,Rain,Spring,1,0,133.4,Electronics,1,5.26,52,2023-03
+SHP00788,2023-12-12,Ahmedabad,Chennai,221,Truck,Road,DTDC,2,Clear,Winter,0,1,302.4,Furniture,0,2.95,40,2023-12
+SHP00789,2023-02-28,Pune,Kolkata,1568,Bike,Road,FedEx,3,Rain,Winter,0,1,487.7,Furniture,0,5.5,58,2023-02
+SHP00790,2024-04-07,Chennai,Bangalore,1695,Van,Road,Ecom Express,1,Clear,Spring,1,0,309.4,Medical,1,5.58,73,2024-04
+SHP00791,2024-01-04,Delhi,Pune,1996,Ship,Sea,Blue Dart,4,Rain,Winter,0,1,436.8,Medical,1,6.39,66,2024-01
+SHP00792,2023-04-13,Ahmedabad,Hyderabad,2034,Train,Rail,FedEx,5,Clear,Spring,0,0,367.3,Furniture,0,4.44,33,2023-04
+SHP00793,2024-11-20,Mumbai,Chennai,849,Van,Road,Delhivery,5,Clear,Monsoon,0,1,498.2,Apparel,0,3.48,26,2024-11
+SHP00794,2024-11-06,Bangalore,Ahmedabad,523,Train,Rail,Delhivery,5,Rain,Monsoon,0,1,350.1,Electronics,1,4.14,44,2024-11
+SHP00795,2023-09-21,Chennai,Pune,1831,Truck,Road,DTDC,2,Storm,Monsoon,0,1,333.1,Medical,1,8.51,100,2023-09
+SHP00796,2024-01-26,Hyderabad,Chennai,2239,Train,Rail,Delhivery,1,Storm,Winter,0,1,327.1,Industrial,0,8.75,100,2024-01
+SHP00797,2023-04-02,Mumbai,Delhi,1839,Van,Road,Blue Dart,2,Storm,Spring,1,0,170.4,Industrial,0,7.68,86,2023-04
+SHP00798,2023-03-05,Delhi,Chennai,525,Ship,Sea,FedEx,3,Rain,Spring,1,0,295.2,Perishable,1,4.55,59,2023-03
+SHP00799,2023-01-10,Mumbai,Kolkata,1639,Train,Rail,Delhivery,3,Storm,Winter,0,1,269.4,Apparel,0,6.66,72,2023-01
+SHP00800,2024-11-12,Bangalore,Pune,1265,Van,Road,Delhivery,4,Fog,Monsoon,0,1,424.6,Medical,1,6.12,66,2024-11
+SHP00801,2024-08-10,Kolkata,Ahmedabad,190,Ship,Sea,Ecom Express,3,Storm,Summer,1,0,239.4,Perishable,1,5.15,69,2024-08
+SHP00802,2023-07-03,Delhi,Ahmedabad,1592,Truck,Road,Delhivery,3,Rain,Summer,0,0,428.5,Medical,1,5.9,69,2023-07
+SHP00803,2024-11-25,Hyderabad,Chennai,1654,Bike,Road,Ecom Express,2,Clear,Monsoon,0,1,237.0,Furniture,0,5.38,58,2024-11
+SHP00804,2023-11-28,Mumbai,Bangalore,2212,Bike,Road,Ecom Express,3,Rain,Monsoon,0,1,376.3,Industrial,0,6.41,65,2023-11
+SHP00805,2024-05-09,Ahmedabad,Hyderabad,271,Bike,Road,Ecom Express,4,Rain,Spring,0,0,145.9,Perishable,1,3.43,44,2024-05
+SHP00806,2023-06-22,Pune,Hyderabad,851,Truck,Road,Delhivery,3,Clear,Summer,0,0,463.0,Electronics,1,4.77,55,2023-06
+SHP00807,2024-10-04,Pune,Mumbai,1506,Train,Rail,Blue Dart,2,Clear,Monsoon,0,1,361.4,Perishable,1,5.18,64,2024-10
+SHP00808,2024-10-27,Ahmedabad,Pune,2051,Bike,Road,DTDC,5,Rain,Monsoon,1,1,191.4,Medical,1,6.39,60,2024-10
+SHP00809,2024-10-18,Mumbai,Kolkata,1873,Bike,Road,Blue Dart,1,Clear,Monsoon,0,1,334.6,Industrial,0,5.66,66,2024-10
+SHP00810,2024-10-22,Pune,Chennai,2395,Train,Rail,Ecom Express,3,Clear,Monsoon,0,1,351.5,Furniture,0,6.46,60,2024-10
+SHP00811,2023-01-21,Pune,Ahmedabad,2390,Van,Road,Blue Dart,1,Storm,Winter,1,1,197.2,Industrial,0,8.93,100,2023-01
+SHP00812,2024-09-05,Bangalore,Ahmedabad,311,Ship,Sea,Delhivery,5,Clear,Monsoon,0,1,347.8,Electronics,1,2.76,28,2024-09
+SHP00813,2023-06-15,Chennai,Pune,2322,Train,Rail,Blue Dart,3,Clear,Summer,0,0,44.4,Furniture,0,5.09,50,2023-06
+SHP00814,2023-01-01,Pune,Hyderabad,560,Ship,Sea,Ecom Express,3,Storm,Winter,1,1,124.5,Electronics,1,6.62,80,2023-01
+SHP00815,2023-12-27,Hyderabad,Kolkata,2177,Bike,Road,Delhivery,5,Fog,Winter,0,1,303.3,Industrial,0,6.31,53,2023-12
+SHP00816,2024-09-08,Chennai,Mumbai,233,Van,Road,Delhivery,1,Rain,Monsoon,1,1,276.3,Industrial,0,4.8,65,2024-09
+SHP00817,2024-10-27,Kolkata,Chennai,1520,Bike,Road,Blue Dart,2,Fog,Monsoon,1,1,451.9,Apparel,0,5.09,62,2024-10
+SHP00818,2024-01-17,Chennai,Pune,1792,Van,Road,Blue Dart,5,Rain,Winter,0,1,282.0,Medical,1,5.61,55,2024-01
+SHP00819,2023-01-27,Pune,Chennai,2144,Ship,Sea,Delhivery,2,Fog,Winter,0,1,482.0,Perishable,1,8.19,93,2023-01
+SHP00820,2023-10-07,Hyderabad,Bangalore,500,Ship,Sea,FedEx,4,Clear,Monsoon,1,1,73.6,Perishable,1,3.86,42,2023-10
+SHP00821,2023-05-07,Mumbai,Ahmedabad,1170,Truck,Road,Delhivery,1,Fog,Spring,1,0,88.3,Medical,1,7.1,91,2023-05
+SHP00822,2023-04-12,Kolkata,Hyderabad,2055,Truck,Road,Ecom Express,5,Storm,Spring,0,0,448.3,Perishable,1,6.65,68,2023-04
+SHP00823,2023-05-11,Ahmedabad,Kolkata,1352,Train,Rail,Ecom Express,2,Storm,Spring,0,0,129.9,Medical,1,6.8,88,2023-05
+SHP00824,2024-09-15,Chennai,Pune,567,Van,Road,Blue Dart,4,Storm,Monsoon,1,1,209.4,Apparel,0,5.03,54,2024-09
+SHP00825,2024-06-17,Kolkata,Chennai,799,Train,Rail,Ecom Express,3,Fog,Summer,0,0,470.9,Perishable,1,4.36,59,2024-06
+SHP00826,2023-06-19,Chennai,Delhi,1301,Train,Rail,Blue Dart,3,Clear,Summer,0,0,287.9,Electronics,1,4.7,55,2023-06
+SHP00827,2024-06-11,Ahmedabad,Chennai,1220,Ship,Sea,DTDC,4,Clear,Summer,0,0,342.7,Medical,1,4.97,51,2024-06
+SHP00828,2024-11-08,Hyderabad,Mumbai,1710,Truck,Road,Blue Dart,5,Rain,Monsoon,0,1,475.5,Industrial,0,5.19,43,2024-11
+SHP00829,2024-01-11,Bangalore,Delhi,223,Ship,Sea,Ecom Express,4,Rain,Winter,0,1,419.8,Industrial,0,4.1,41,2024-01
+SHP00830,2024-07-06,Chennai,Ahmedabad,2079,Train,Rail,Blue Dart,2,Storm,Summer,1,0,425.5,Electronics,1,7.71,94,2024-07
+SHP00831,2024-10-08,Delhi,Pune,1238,Bike,Road,FedEx,4,Storm,Monsoon,0,1,284.6,Perishable,1,6.74,75,2024-10
+SHP00832,2024-04-16,Delhi,Hyderabad,2161,Truck,Road,Blue Dart,4,Fog,Spring,0,0,164.6,Furniture,0,5.6,54,2024-04
+SHP00833,2024-03-17,Delhi,Mumbai,488,Truck,Road,DTDC,3,Rain,Spring,1,0,246.3,Electronics,1,3.75,53,2024-03
+SHP00834,2024-02-09,Chennai,Kolkata,1732,Truck,Road,Delhivery,4,Clear,Winter,0,1,187.5,Furniture,0,4.66,40,2024-02
+SHP00835,2023-05-24,Ahmedabad,Mumbai,1804,Van,Road,Blue Dart,5,Storm,Spring,0,0,177.2,Apparel,0,6.96,63,2023-05
+SHP00836,2023-12-06,Pune,Chennai,862,Truck,Road,Blue Dart,2,Storm,Winter,0,1,450.5,Perishable,1,6.72,87,2023-12
+SHP00837,2024-11-29,Ahmedabad,Pune,865,Train,Rail,DTDC,3,Clear,Monsoon,0,1,357.3,Furniture,0,4.09,42,2024-11
+SHP00838,2023-06-09,Delhi,Bangalore,1687,Ship,Sea,Blue Dart,4,Rain,Summer,0,0,172.4,Electronics,1,5.16,57,2023-06
+SHP00839,2023-10-24,Pune,Chennai,1018,Truck,Road,Ecom Express,3,Fog,Monsoon,0,1,141.5,Electronics,1,6.07,72,2023-10
+SHP00840,2023-09-11,Kolkata,Pune,674,Ship,Sea,FedEx,2,Rain,Monsoon,0,1,333.3,Apparel,0,4.91,59,2023-09
+SHP00841,2023-05-16,Chennai,Delhi,862,Train,Rail,Delhivery,1,Rain,Spring,0,0,200.9,Furniture,0,5.76,72,2023-05
+SHP00842,2024-06-21,Pune,Chennai,1796,Truck,Road,Blue Dart,5,Rain,Summer,0,0,153.6,Medical,1,5.31,52,2024-06
+SHP00843,2023-02-22,Pune,Hyderabad,997,Van,Road,DTDC,3,Fog,Winter,0,1,152.5,Furniture,0,4.9,55,2023-02
+SHP00844,2024-11-07,Delhi,Mumbai,1762,Van,Road,Delhivery,3,Clear,Monsoon,0,1,372.5,Perishable,1,6.14,66,2024-11
+SHP00845,2024-01-08,Kolkata,Chennai,1218,Train,Rail,DTDC,3,Clear,Winter,0,1,167.5,Electronics,1,4.7,55,2024-01
+SHP00846,2023-10-10,Chennai,Pune,2310,Van,Road,FedEx,3,Storm,Monsoon,0,1,105.4,Apparel,0,7.63,80,2023-10
+SHP00847,2024-04-01,Chennai,Pune,407,Truck,Road,Blue Dart,2,Clear,Spring,0,0,462.8,Electronics,1,3.86,54,2024-04
+SHP00848,2024-07-17,Chennai,Kolkata,1284,Train,Rail,Blue Dart,2,Rain,Summer,0,0,355.9,Industrial,0,4.7,58,2024-07
+SHP00849,2024-06-20,Ahmedabad,Chennai,1472,Bike,Road,DTDC,4,Clear,Summer,0,0,465.7,Industrial,0,3.91,35,2024-06
+SHP00850,2024-02-12,Chennai,Pune,1172,Van,Road,Ecom Express,3,Clear,Winter,0,1,247.8,Industrial,0,4.14,43,2024-02
+SHP00851,2024-09-13,Pune,Chennai,2153,Truck,Road,Ecom Express,2,Fog,Monsoon,0,1,136.1,Perishable,1,8.7,97,2024-09
+SHP00852,2023-08-14,Kolkata,Ahmedabad,2475,Truck,Road,Ecom Express,5,Fog,Summer,0,0,148.5,Furniture,0,6.44,54,2023-08
+SHP00853,2024-10-16,Kolkata,Delhi,2311,Truck,Road,Blue Dart,2,Rain,Monsoon,0,1,74.5,Furniture,0,7.55,79,2024-10
+SHP00854,2023-03-27,Hyderabad,Bangalore,261,Van,Road,Blue Dart,2,Clear,Spring,0,0,473.2,Industrial,0,2.27,35,2023-03
+SHP00855,2023-12-31,Delhi,Ahmedabad,1131,Van,Road,FedEx,4,Storm,Winter,1,1,110.0,Furniture,0,6.44,65,2023-12
+SHP00856,2023-11-29,Ahmedabad,Mumbai,2251,Ship,Sea,FedEx,1,Fog,Monsoon,0,1,134.8,Industrial,0,8.98,97,2023-11
+SHP00857,2023-04-06,Bangalore,Kolkata,1669,Van,Road,DTDC,4,Rain,Spring,0,0,248.2,Apparel,0,5.44,51,2023-04
+SHP00858,2023-07-01,Kolkata,Mumbai,823,Ship,Sea,FedEx,4,Rain,Summer,1,0,408.8,Medical,1,5.46,59,2023-07
+SHP00859,2024-02-17,Ahmedabad,Hyderabad,819,Truck,Road,DTDC,2,Clear,Winter,1,1,50.6,Industrial,0,5.16,56,2024-02
+SHP00860,2023-01-14,Mumbai,Ahmedabad,98,Ship,Sea,DTDC,1,Fog,Winter,1,1,381.8,Medical,1,6.55,87,2023-01
+SHP00861,2023-01-10,Delhi,Ahmedabad,229,Van,Road,FedEx,2,Clear,Winter,0,1,478.8,Electronics,1,2.47,44,2023-01
+SHP00862,2023-12-06,Bangalore,Chennai,398,Van,Road,Ecom Express,2,Fog,Winter,0,1,239.7,Perishable,1,5.17,71,2023-12
+SHP00863,2023-10-31,Mumbai,Hyderabad,278,Ship,Sea,Blue Dart,3,Clear,Monsoon,0,1,51.7,Apparel,0,3.95,41,2023-10
+SHP00864,2024-12-01,Kolkata,Mumbai,148,Van,Road,Delhivery,4,Fog,Winter,1,1,192.7,Medical,1,4.74,56,2024-12
+SHP00865,2023-03-20,Kolkata,Bangalore,510,Train,Rail,Delhivery,2,Clear,Spring,0,0,308.0,Electronics,1,2.8,47,2023-03
+SHP00866,2023-07-05,Hyderabad,Kolkata,397,Truck,Road,Delhivery,5,Rain,Summer,0,0,339.9,Perishable,1,4.42,46,2023-07
+SHP00867,2024-01-13,Ahmedabad,Hyderabad,1285,Ship,Sea,Blue Dart,3,Storm,Winter,1,1,466.5,Medical,1,7.54,87,2024-01
+SHP00868,2023-03-10,Ahmedabad,Pune,658,Van,Road,DTDC,3,Rain,Spring,0,0,57.0,Apparel,0,3.72,44,2023-03
+SHP00869,2023-11-23,Pune,Bangalore,1190,Van,Road,Delhivery,1,Storm,Monsoon,0,1,247.4,Apparel,0,6.97,87,2023-11
+SHP00870,2024-07-03,Ahmedabad,Kolkata,1415,Van,Road,DTDC,2,Fog,Summer,0,0,410.8,Apparel,0,5.73,67,2024-07
+SHP00871,2023-07-28,Hyderabad,Delhi,392,Ship,Sea,Blue Dart,4,Rain,Summer,0,0,497.0,Electronics,1,3.63,46,2023-07
+SHP00872,2023-05-28,Kolkata,Chennai,597,Truck,Road,FedEx,1,Storm,Spring,1,0,417.7,Industrial,0,6.31,82,2023-05
+SHP00873,2023-05-27,Mumbai,Pune,1774,Van,Road,Blue Dart,2,Rain,Spring,1,0,189.0,Electronics,1,6.05,76,2023-05
+SHP00874,2024-01-10,Delhi,Bangalore,271,Truck,Road,DTDC,5,Clear,Winter,0,1,71.1,Perishable,1,2.6,27,2024-01
+SHP00875,2023-05-24,Ahmedabad,Hyderabad,365,Truck,Road,Delhivery,5,Fog,Spring,0,0,374.2,Medical,1,4.16,45,2023-05
+SHP00876,2023-02-02,Delhi,Pune,1431,Train,Rail,Blue Dart,1,Storm,Winter,0,1,302.3,Perishable,1,7.31,97,2023-02
+SHP00877,2024-05-28,Kolkata,Hyderabad,2111,Van,Road,DTDC,1,Fog,Spring,0,0,153.4,Perishable,1,7.56,95,2024-05
+SHP00878,2024-02-06,Delhi,Bangalore,426,Ship,Sea,Delhivery,4,Rain,Winter,0,1,92.3,Medical,1,5.02,56,2024-02
+SHP00879,2024-01-25,Pune,Ahmedabad,2340,Ship,Sea,DTDC,1,Fog,Winter,0,1,82.8,Furniture,0,8.37,93,2024-01
+SHP00880,2023-10-16,Delhi,Bangalore,494,Truck,Road,Ecom Express,1,Storm,Monsoon,0,1,81.8,Electronics,1,6.49,91,2023-10
+SHP00881,2023-02-03,Chennai,Pune,317,Van,Road,FedEx,5,Clear,Winter,0,1,120.5,Electronics,1,2.77,28,2023-02
+SHP00882,2024-01-01,Kolkata,Delhi,2359,Train,Rail,FedEx,1,Clear,Winter,0,1,376.0,Apparel,0,6.19,70,2024-01
+SHP00883,2024-02-22,Mumbai,Chennai,2098,Van,Road,FedEx,3,Fog,Winter,0,1,448.3,Industrial,0,7.09,71,2024-02
+SHP00884,2023-06-05,Kolkata,Mumbai,665,Truck,Road,DTDC,5,Fog,Summer,0,0,341.3,Electronics,1,4.88,51,2023-06
+SHP00885,2023-05-15,Ahmedabad,Pune,432,Van,Road,Delhivery,2,Rain,Spring,0,0,169.8,Furniture,0,3.18,46,2023-05
+SHP00886,2024-10-04,Bangalore,Hyderabad,213,Train,Rail,Ecom Express,2,Rain,Monsoon,0,1,497.2,Electronics,1,3.89,60,2024-10
+SHP00887,2023-06-23,Ahmedabad,Bangalore,111,Van,Road,DTDC,3,Clear,Summer,0,0,467.1,Perishable,1,3.24,44,2023-06
+SHP00888,2024-03-28,Ahmedabad,Bangalore,1497,Truck,Road,DTDC,1,Rain,Spring,0,0,325.3,Perishable,1,6.75,87,2024-03
+SHP00889,2024-09-26,Pune,Chennai,557,Ship,Sea,FedEx,4,Clear,Monsoon,0,1,458.6,Perishable,1,2.99,36,2024-09
+SHP00890,2023-02-13,Kolkata,Pune,1334,Bike,Road,Ecom Express,1,Fog,Winter,0,1,310.5,Medical,1,7.03,91,2023-02
+SHP00891,2023-06-12,Kolkata,Chennai,283,Van,Road,Delhivery,5,Clear,Summer,0,0,285.3,Electronics,1,2.24,24,2023-06
+SHP00892,2023-07-04,Mumbai,Delhi,432,Bike,Road,Ecom Express,4,Fog,Summer,0,0,366.0,Apparel,0,4.52,46,2023-07
+SHP00893,2024-05-12,Hyderabad,Kolkata,1824,Van,Road,Blue Dart,4,Storm,Spring,1,0,106.7,Medical,1,6.33,72,2024-05
+SHP00894,2023-02-02,Hyderabad,Kolkata,206,Ship,Sea,Delhivery,2,Fog,Winter,0,1,493.9,Apparel,0,5.1,62,2023-02
+SHP00895,2023-01-24,Chennai,Ahmedabad,305,Bike,Road,Delhivery,4,Fog,Winter,0,1,476.3,Medical,1,3.82,49,2023-01
+SHP00896,2024-04-07,Mumbai,Chennai,771,Truck,Road,FedEx,2,Clear,Spring,1,0,435.7,Industrial,0,4.04,48,2024-04
+SHP00897,2023-11-01,Hyderabad,Ahmedabad,926,Bike,Road,Blue Dart,2,Clear,Monsoon,0,1,82.7,Furniture,0,4.45,51,2023-11
+SHP00898,2024-09-03,Delhi,Hyderabad,2243,Van,Road,Ecom Express,4,Storm,Monsoon,0,1,99.7,Medical,1,8.04,85,2024-09
+SHP00899,2023-06-01,Bangalore,Kolkata,2419,Ship,Sea,FedEx,2,Storm,Summer,0,0,250.0,Furniture,0,9.21,98,2023-06
+SHP00900,2024-08-15,Ahmedabad,Hyderabad,1714,Bike,Road,DTDC,5,Clear,Summer,0,0,49.2,Perishable,1,4.75,43,2024-08
+SHP00901,2023-08-03,Chennai,Bangalore,818,Train,Rail,Ecom Express,5,Rain,Summer,0,0,476.2,Medical,1,3.96,42,2023-08
+SHP00902,2024-04-11,Ahmedabad,Hyderabad,1540,Truck,Road,Ecom Express,3,Storm,Spring,0,0,207.3,Furniture,0,6.87,74,2024-04
+SHP00903,2024-01-18,Ahmedabad,Chennai,1492,Ship,Sea,Blue Dart,4,Storm,Winter,0,1,88.9,Industrial,0,7.11,70,2024-01
+SHP00904,2023-01-17,Mumbai,Pune,1217,Train,Rail,Blue Dart,3,Clear,Winter,0,1,308.3,Apparel,0,4.4,45,2023-01
+SHP00905,2024-03-06,Kolkata,Ahmedabad,474,Train,Rail,DTDC,5,Clear,Spring,0,0,106.3,Apparel,0,1.99,14,2024-03
+SHP00906,2023-08-18,Delhi,Chennai,1973,Truck,Road,DTDC,3,Fog,Summer,0,0,254.0,Furniture,0,6.81,69,2023-08
+SHP00907,2023-01-27,Delhi,Mumbai,1133,Bike,Road,Blue Dart,4,Rain,Winter,0,1,77.1,Furniture,0,4.88,47,2023-01
+SHP00908,2024-10-21,Chennai,Hyderabad,1350,Bike,Road,Delhivery,2,Fog,Monsoon,0,1,197.0,Electronics,1,6.02,77,2024-10
+SHP00909,2023-06-12,Hyderabad,Kolkata,2416,Train,Rail,Delhivery,2,Fog,Summer,0,0,219.0,Electronics,1,7.5,88,2023-06
+SHP00910,2023-04-06,Hyderabad,Mumbai,534,Ship,Sea,Ecom Express,4,Storm,Spring,0,0,47.1,Apparel,0,5.12,55,2023-04
+SHP00911,2023-05-14,Pune,Delhi,97,Ship,Sea,Ecom Express,2,Clear,Spring,1,0,491.7,Medical,1,3.53,52,2023-05
+SHP00912,2023-09-24,Pune,Ahmedabad,1031,Van,Road,Ecom Express,3,Rain,Monsoon,1,1,329.8,Furniture,0,5.01,54,2023-09
+SHP00913,2023-05-26,Mumbai,Delhi,389,Van,Road,Blue Dart,1,Clear,Spring,0,0,141.6,Perishable,1,4.0,62,2023-05
+SHP00914,2024-05-13,Pune,Delhi,1530,Van,Road,DTDC,4,Clear,Spring,0,0,479.6,Electronics,1,4.69,49,2024-05
+SHP00915,2023-01-11,Bangalore,Chennai,911,Train,Rail,DTDC,4,Storm,Winter,0,1,451.9,Medical,1,5.56,66,2023-01
+SHP00916,2023-09-18,Bangalore,Hyderabad,178,Truck,Road,DTDC,3,Storm,Monsoon,0,1,463.3,Perishable,1,5.63,73,2023-09
+SHP00917,2023-01-31,Mumbai,Bangalore,171,Ship,Sea,Delhivery,1,Rain,Winter,0,1,164.1,Perishable,1,5.77,80,2023-01
+SHP00918,2024-07-18,Hyderabad,Pune,568,Bike,Road,Delhivery,3,Fog,Summer,0,0,326.1,Apparel,0,4.32,50,2024-07
+SHP00919,2023-10-15,Bangalore,Mumbai,2080,Train,Rail,Delhivery,5,Fog,Monsoon,1,1,481.0,Electronics,1,5.77,57,2023-10
+SHP00920,2023-10-06,Pune,Kolkata,1326,Van,Road,DTDC,2,Fog,Monsoon,0,1,408.0,Industrial,0,6.15,70,2023-10
+SHP00921,2023-03-07,Hyderabad,Pune,490,Ship,Sea,Delhivery,4,Fog,Spring,0,0,225.0,Electronics,1,4.74,56,2023-03
+SHP00922,2023-11-27,Mumbai,Bangalore,1728,Bike,Road,DTDC,5,Storm,Monsoon,0,1,215.0,Perishable,1,6.79,69,2023-11
+SHP00923,2023-11-18,Bangalore,Ahmedabad,1515,Van,Road,FedEx,1,Rain,Monsoon,1,1,61.6,Furniture,0,5.91,73,2023-11
+SHP00924,2024-09-08,Pune,Bangalore,925,Train,Rail,Delhivery,5,Storm,Monsoon,1,1,106.5,Perishable,1,5.23,58,2024-09
+SHP00925,2023-11-24,Pune,Bangalore,471,Ship,Sea,Ecom Express,3,Clear,Monsoon,0,1,99.5,Electronics,1,4.58,54,2023-11
+SHP00926,2024-01-28,Hyderabad,Kolkata,1174,Train,Rail,DTDC,1,Clear,Winter,1,1,118.6,Electronics,1,5.04,69,2024-01
+SHP00927,2024-02-17,Bangalore,Ahmedabad,1217,Truck,Road,DTDC,5,Clear,Winter,1,1,19.0,Industrial,0,4.23,31,2024-02
+SHP00928,2023-12-21,Kolkata,Bangalore,116,Truck,Road,DTDC,4,Clear,Winter,0,1,200.5,Industrial,0,2.65,25,2023-12
+SHP00929,2024-10-18,Ahmedabad,Chennai,1332,Train,Rail,DTDC,5,Clear,Monsoon,0,1,483.6,Electronics,1,4.51,41,2024-10
+SHP00930,2024-03-22,Mumbai,Chennai,470,Truck,Road,Blue Dart,2,Clear,Spring,0,0,113.6,Electronics,1,2.65,45,2024-03
+SHP00931,2023-02-19,Delhi,Mumbai,832,Bike,Road,Blue Dart,5,Clear,Winter,1,1,473.6,Electronics,1,2.93,29,2023-02
+SHP00932,2023-11-23,Mumbai,Bangalore,1604,Bike,Road,Ecom Express,2,Rain,Monsoon,0,1,431.0,Industrial,0,6.9,74,2023-11
+SHP00933,2023-11-26,Ahmedabad,Bangalore,1742,Train,Rail,Ecom Express,1,Rain,Monsoon,1,1,386.4,Apparel,0,7.19,82,2023-11
+SHP00934,2023-03-03,Mumbai,Kolkata,1263,Truck,Road,Delhivery,3,Rain,Spring,0,0,106.6,Medical,1,5.81,68,2023-03
+SHP00935,2024-08-27,Hyderabad,Mumbai,935,Train,Rail,DTDC,4,Rain,Summer,0,0,380.9,Industrial,0,4.61,45,2024-08
+SHP00936,2024-04-08,Hyderabad,Chennai,1327,Train,Rail,Delhivery,2,Clear,Spring,0,0,434.0,Industrial,0,3.63,45,2024-04
+SHP00937,2023-11-11,Bangalore,Pune,881,Train,Rail,FedEx,2,Clear,Monsoon,1,1,475.8,Industrial,0,4.02,48,2023-11
+SHP00938,2024-05-02,Kolkata,Delhi,488,Truck,Road,DTDC,2,Clear,Spring,0,0,331.1,Apparel,0,3.38,43,2024-05
+SHP00939,2024-02-11,Chennai,Mumbai,1491,Bike,Road,FedEx,1,Clear,Winter,1,1,251.3,Industrial,0,5.06,61,2024-02
+SHP00940,2024-02-17,Kolkata,Mumbai,1564,Truck,Road,DTDC,1,Fog,Winter,1,1,88.7,Furniture,0,7.82,89,2024-02
+SHP00941,2023-08-13,Chennai,Delhi,2219,Ship,Sea,Blue Dart,4,Fog,Summer,1,0,58.0,Electronics,1,6.86,71,2023-08
+SHP00942,2023-04-14,Pune,Chennai,2229,Truck,Road,Ecom Express,3,Rain,Spring,0,0,110.3,Medical,1,7.0,77,2023-04
+SHP00943,2024-09-02,Kolkata,Pune,1148,Train,Rail,Delhivery,2,Rain,Monsoon,0,1,144.3,Electronics,1,5.97,75,2024-09
+SHP00944,2023-12-07,Bangalore,Mumbai,2002,Bike,Road,FedEx,2,Rain,Winter,0,1,450.0,Perishable,1,6.87,82,2023-12
+SHP00945,2023-06-24,Kolkata,Delhi,102,Train,Rail,Blue Dart,4,Storm,Summer,1,0,339.8,Electronics,1,3.33,49,2023-06
+SHP00946,2023-01-18,Delhi,Ahmedabad,2438,Truck,Road,DTDC,4,Rain,Winter,0,1,283.8,Furniture,0,6.64,60,2023-01
+SHP00947,2023-12-10,Mumbai,Chennai,985,Ship,Sea,Delhivery,5,Rain,Winter,1,1,226.6,Medical,1,5.11,51,2023-12
+SHP00948,2023-12-08,Kolkata,Pune,2042,Bike,Road,Blue Dart,3,Fog,Winter,0,1,445.7,Medical,1,6.91,78,2023-12
+SHP00949,2023-08-14,Bangalore,Kolkata,2490,Train,Rail,Ecom Express,1,Storm,Summer,0,0,329.9,Perishable,1,8.79,100,2023-08
+SHP00950,2023-04-21,Pune,Hyderabad,2415,Train,Rail,Blue Dart,3,Rain,Spring,0,0,482.7,Medical,1,6.54,74,2023-04
+SHP00951,2024-08-26,Hyderabad,Chennai,2281,Train,Rail,FedEx,5,Rain,Summer,0,0,208.9,Furniture,0,5.01,42,2024-08
+SHP00952,2023-04-23,Hyderabad,Bangalore,2180,Bike,Road,DTDC,5,Clear,Spring,1,0,484.8,Apparel,0,4.97,37,2023-04
+SHP00953,2023-10-23,Kolkata,Chennai,652,Train,Rail,Ecom Express,2,Storm,Monsoon,0,1,32.8,Furniture,0,6.11,74,2023-10
+SHP00954,2023-12-27,Delhi,Kolkata,1209,Ship,Sea,DTDC,1,Clear,Winter,0,1,330.3,Electronics,1,5.93,76,2023-12
+SHP00955,2023-10-05,Mumbai,Pune,254,Bike,Road,FedEx,2,Storm,Monsoon,0,1,71.8,Medical,1,5.4,77,2023-10
+SHP00956,2024-11-25,Chennai,Ahmedabad,380,Bike,Road,DTDC,2,Clear,Monsoon,0,1,318.7,Apparel,0,3.78,46,2024-11
+SHP00957,2024-03-22,Bangalore,Hyderabad,1684,Truck,Road,Ecom Express,3,Storm,Spring,0,0,339.6,Furniture,0,6.97,75,2024-03
+SHP00958,2023-03-29,Kolkata,Bangalore,867,Bike,Road,Ecom Express,2,Fog,Spring,0,0,149.0,Medical,1,4.89,69,2023-03
+SHP00959,2024-03-28,Bangalore,Hyderabad,1938,Ship,Sea,DTDC,2,Fog,Spring,0,0,347.2,Industrial,0,7.9,83,2024-03
+SHP00960,2024-07-26,Ahmedabad,Delhi,1968,Bike,Road,DTDC,4,Fog,Summer,0,0,13.7,Apparel,0,5.76,55,2024-07
+SHP00961,2024-07-10,Bangalore,Hyderabad,412,Van,Road,Delhivery,5,Storm,Summer,0,0,450.0,Furniture,0,4.71,46,2024-07
+SHP00962,2023-02-26,Delhi,Mumbai,565,Train,Rail,Ecom Express,1,Fog,Winter,1,1,135.5,Medical,1,6.31,85,2023-02
+SHP00963,2023-03-04,Hyderabad,Ahmedabad,488,Bike,Road,FedEx,5,Clear,Spring,1,0,61.2,Industrial,0,1.65,12,2023-03
+SHP00964,2024-11-22,Bangalore,Mumbai,267,Van,Road,Ecom Express,5,Rain,Monsoon,0,1,320.0,Perishable,1,3.25,37,2024-11
+SHP00965,2023-01-01,Mumbai,Delhi,1282,Bike,Road,Ecom Express,1,Fog,Winter,1,1,76.9,Electronics,1,6.44,86,2023-01
+SHP00966,2024-02-19,Mumbai,Chennai,474,Train,Rail,DTDC,1,Fog,Winter,0,1,242.1,Perishable,1,5.64,80,2024-02
+SHP00967,2024-10-13,Pune,Mumbai,1012,Ship,Sea,Ecom Express,3,Fog,Monsoon,1,1,11.3,Perishable,1,6.79,77,2024-10
+SHP00968,2024-11-14,Kolkata,Bangalore,749,Ship,Sea,DTDC,5,Rain,Monsoon,0,1,50.5,Industrial,0,4.39,37,2024-11
+SHP00969,2024-03-11,Ahmedabad,Chennai,2069,Bike,Road,DTDC,3,Fog,Spring,0,0,74.5,Furniture,0,5.86,62,2024-03
+SHP00970,2023-05-23,Delhi,Chennai,95,Ship,Sea,Ecom Express,3,Clear,Spring,0,0,234.2,Medical,1,3.52,46,2023-05
+SHP00971,2024-06-21,Hyderabad,Pune,1927,Bike,Road,FedEx,1,Rain,Summer,0,0,195.6,Electronics,1,6.37,84,2024-06
+SHP00972,2024-10-22,Pune,Delhi,2356,Bike,Road,FedEx,4,Rain,Monsoon,0,1,242.1,Apparel,0,6.11,56,2024-10
+SHP00973,2024-09-24,Hyderabad,Kolkata,788,Ship,Sea,Delhivery,5,Storm,Monsoon,0,1,415.0,Electronics,1,6.67,69,2024-09
+SHP00974,2023-08-26,Hyderabad,Ahmedabad,701,Van,Road,DTDC,1,Clear,Summer,1,0,490.7,Medical,1,4.87,68,2023-08
+SHP00975,2023-09-14,Delhi,Hyderabad,1019,Truck,Road,DTDC,2,Fog,Monsoon,0,1,57.7,Medical,1,7.11,85,2023-09
+SHP00976,2024-08-10,Bangalore,Pune,170,Van,Road,DTDC,3,Clear,Summer,1,0,278.5,Perishable,1,3.49,46,2024-08
+SHP00977,2024-06-25,Bangalore,Kolkata,1084,Train,Rail,Delhivery,4,Storm,Summer,0,0,404.4,Perishable,1,5.68,67,2024-06
+SHP00978,2024-07-13,Pune,Kolkata,444,Van,Road,Blue Dart,1,Rain,Summer,1,0,432.3,Furniture,0,4.27,61,2024-07
+SHP00979,2024-09-25,Hyderabad,Bangalore,809,Ship,Sea,Delhivery,4,Rain,Monsoon,0,1,449.9,Perishable,1,5.59,60,2024-09
+SHP00980,2024-05-25,Mumbai,Delhi,1590,Truck,Road,Delhivery,5,Clear,Spring,1,0,115.7,Industrial,0,3.55,26,2024-05
+SHP00981,2024-01-02,Pune,Hyderabad,2264,Bike,Road,FedEx,1,Rain,Winter,0,1,34.4,Perishable,1,7.28,91,2024-01
+SHP00982,2024-04-27,Mumbai,Hyderabad,2406,Van,Road,DTDC,5,Storm,Spring,1,0,468.5,Furniture,0,7.41,66,2024-04
+SHP00983,2023-03-02,Hyderabad,Ahmedabad,172,Truck,Road,FedEx,3,Fog,Spring,0,0,70.1,Industrial,0,3.7,46,2023-03
+SHP00984,2024-03-02,Hyderabad,Delhi,305,Van,Road,Ecom Express,4,Clear,Spring,1,0,299.3,Industrial,0,2.16,22,2024-03
+SHP00985,2024-05-23,Mumbai,Delhi,380,Ship,Sea,FedEx,4,Rain,Spring,0,0,254.0,Medical,1,3.62,46,2024-05
+SHP00986,2024-05-08,Delhi,Hyderabad,982,Truck,Road,Delhivery,1,Clear,Spring,0,0,26.5,Apparel,0,5.02,61,2024-05
+SHP00987,2024-01-12,Mumbai,Hyderabad,562,Train,Rail,Blue Dart,4,Rain,Winter,0,1,176.2,Furniture,0,3.78,39,2024-01
+SHP00988,2023-01-16,Delhi,Ahmedabad,1000,Truck,Road,Delhivery,5,Clear,Winter,0,1,436.7,Perishable,1,4.13,38,2023-01
+SHP00989,2023-11-18,Kolkata,Delhi,282,Truck,Road,DTDC,1,Rain,Monsoon,1,1,175.2,Medical,1,6.71,87,2023-11
+SHP00990,2024-07-10,Mumbai,Chennai,581,Ship,Sea,Blue Dart,4,Fog,Summer,0,0,103.3,Medical,1,3.68,48,2024-07
+SHP00991,2023-10-01,Chennai,Hyderabad,1512,Van,Road,FedEx,4,Storm,Monsoon,1,1,159.8,Industrial,0,6.17,63,2023-10
+SHP00992,2024-06-17,Bangalore,Ahmedabad,1732,Ship,Sea,Blue Dart,4,Storm,Summer,0,0,115.7,Medical,1,7.03,77,2024-06
+SHP00993,2024-03-26,Chennai,Pune,2314,Van,Road,Delhivery,1,Storm,Spring,0,0,325.1,Apparel,0,8.39,97,2024-03
+SHP00994,2024-09-16,Delhi,Chennai,188,Bike,Road,FedEx,3,Fog,Monsoon,0,1,192.3,Electronics,1,3.94,56,2024-09
+SHP00995,2024-11-06,Pune,Mumbai,1617,Train,Rail,Delhivery,4,Clear,Monsoon,0,1,215.8,Electronics,1,4.62,48,2024-11
+SHP00996,2024-09-28,Delhi,Chennai,1474,Truck,Road,FedEx,5,Storm,Monsoon,1,1,217.3,Apparel,0,6.23,57,2024-09
+SHP00997,2024-08-04,Pune,Kolkata,283,Truck,Road,FedEx,5,Fog,Summer,1,0,384.6,Furniture,0,3.66,33,2024-08
+SHP00998,2024-07-09,Chennai,Ahmedabad,1025,Van,Road,FedEx,1,Storm,Summer,0,0,148.3,Industrial,0,6.5,83,2024-07
+SHP00999,2024-10-30,Kolkata,Ahmedabad,1666,Truck,Road,FedEx,5,Storm,Monsoon,0,1,405.2,Industrial,0,6.61,60,2024-10
+SHP01000,2024-04-22,Ahmedabad,Delhi,1364,Bike,Road,DTDC,2,Fog,Spring,0,0,19.0,Furniture,0,5.73,67,2024-04
+SHP01001,2024-07-18,Kolkata,Hyderabad,2016,Ship,Sea,Blue Dart,2,Fog,Summer,0,0,157.4,Electronics,1,7.04,85,2024-07
+SHP01002,2024-09-24,Bangalore,Ahmedabad,1181,Bike,Road,Delhivery,4,Rain,Monsoon,0,1,328.2,Perishable,1,5.06,56,2024-09
+SHP01003,2023-08-22,Delhi,Hyderabad,518,Truck,Road,Ecom Express,2,Fog,Summer,0,0,30.9,Medical,1,6.07,78,2023-08
+SHP01004,2023-03-21,Hyderabad,Delhi,116,Bike,Road,Ecom Express,5,Clear,Spring,0,0,253.7,Electronics,1,1.62,20,2023-03
+SHP01005,2024-10-19,Pune,Delhi,2143,Truck,Road,FedEx,2,Rain,Monsoon,1,1,213.5,Furniture,0,7.22,77,2024-10
+SHP01006,2024-01-13,Delhi,Bangalore,1525,Bike,Road,DTDC,4,Storm,Winter,1,1,22.8,Perishable,1,7.2,79,2024-01
+SHP01007,2024-08-19,Chennai,Kolkata,2471,Truck,Road,FedEx,1,Rain,Summer,0,0,16.8,Medical,1,7.82,95,2024-08
+SHP01008,2024-04-28,Delhi,Hyderabad,371,Truck,Road,Ecom Express,2,Fog,Spring,1,0,329.8,Industrial,0,5.43,65,2024-04
+SHP01009,2023-09-06,Chennai,Bangalore,1856,Bike,Road,Ecom Express,3,Rain,Monsoon,0,1,399.6,Furniture,0,5.98,61,2023-09
+SHP01010,2024-06-01,Hyderabad,Kolkata,522,Van,Road,FedEx,4,Fog,Summer,1,0,38.7,Furniture,0,4.04,42,2024-06
+SHP01011,2023-09-08,Bangalore,Hyderabad,2033,Ship,Sea,DTDC,2,Fog,Monsoon,0,1,388.3,Apparel,0,7.59,81,2023-09
+SHP01012,2024-06-01,Pune,Chennai,1116,Bike,Road,Blue Dart,3,Storm,Summer,1,0,491.6,Industrial,0,5.17,61,2024-06
+SHP01013,2023-09-27,Mumbai,Kolkata,2074,Van,Road,Blue Dart,2,Fog,Monsoon,0,1,382.9,Medical,1,7.82,91,2023-09
+SHP01014,2024-06-26,Bangalore,Hyderabad,567,Truck,Road,Delhivery,4,Clear,Summer,0,0,459.4,Apparel,0,2.58,25,2024-06
+SHP01015,2023-12-11,Hyderabad,Ahmedabad,1501,Van,Road,FedEx,4,Rain,Winter,0,1,295.9,Industrial,0,5.59,52,2023-12
+SHP01016,2024-05-03,Kolkata,Ahmedabad,352,Bike,Road,DTDC,4,Fog,Spring,0,0,350.2,Medical,1,4.4,53,2024-05
+SHP01017,2024-10-26,Hyderabad,Pune,801,Ship,Sea,Delhivery,5,Clear,Monsoon,1,1,227.0,Furniture,0,3.4,25,2024-10
+SHP01018,2024-07-31,Hyderabad,Delhi,2458,Bike,Road,FedEx,1,Rain,Summer,0,0,259.1,Industrial,0,7.14,82,2024-07
+SHP01019,2023-07-02,Hyderabad,Ahmedabad,2424,Ship,Sea,FedEx,4,Storm,Summer,1,0,476.8,Electronics,1,8.62,89,2023-07
+SHP01020,2023-10-19,Mumbai,Chennai,912,Train,Rail,Ecom Express,5,Storm,Monsoon,0,1,83.2,Furniture,0,4.59,45,2023-10
+SHP01021,2023-04-19,Kolkata,Hyderabad,1171,Train,Rail,Delhivery,4,Rain,Spring,0,0,462.3,Medical,1,4.38,51,2023-04
+SHP01022,2024-05-15,Chennai,Delhi,2311,Ship,Sea,Ecom Express,2,Clear,Spring,0,0,416.3,Electronics,1,6.93,77,2024-05
+SHP01023,2023-04-23,Ahmedabad,Bangalore,1563,Van,Road,DTDC,3,Fog,Spring,1,0,358.3,Electronics,1,5.84,70,2023-04
+SHP01024,2023-08-16,Mumbai,Pune,1127,Truck,Road,Blue Dart,2,Storm,Summer,0,0,363.8,Furniture,0,6.3,76,2023-08
+SHP01025,2024-03-19,Hyderabad,Delhi,691,Ship,Sea,DTDC,3,Storm,Spring,0,0,50.7,Medical,1,6.48,79,2024-03
+SHP01026,2023-07-20,Chennai,Pune,2336,Truck,Road,Delhivery,1,Rain,Summer,0,0,133.0,Perishable,1,7.55,93,2023-07
+SHP01027,2023-08-08,Mumbai,Hyderabad,2034,Van,Road,Delhivery,4,Storm,Summer,0,0,2.1,Electronics,1,6.52,73,2023-08
+SHP01028,2023-12-24,Chennai,Pune,779,Truck,Road,Ecom Express,4,Storm,Winter,1,1,242.4,Medical,1,6.64,74,2023-12
+SHP01029,2024-01-01,Pune,Kolkata,787,Bike,Road,DTDC,2,Storm,Winter,0,1,271.9,Furniture,0,6.58,78,2024-01
+SHP01030,2024-04-20,Mumbai,Bangalore,1226,Train,Rail,Delhivery,4,Storm,Spring,1,0,478.2,Medical,1,6.36,72,2024-04
+SHP01031,2023-08-29,Pune,Hyderabad,515,Bike,Road,DTDC,4,Rain,Summer,0,0,15.0,Furniture,0,2.8,32,2023-08
+SHP01032,2024-03-28,Pune,Chennai,1725,Truck,Road,FedEx,5,Storm,Spring,0,0,212.9,Furniture,0,5.81,54,2024-03
+SHP01033,2024-02-24,Kolkata,Chennai,273,Bike,Road,FedEx,4,Rain,Winter,1,1,111.0,Perishable,1,2.96,41,2024-02
+SHP01034,2024-01-24,Delhi,Ahmedabad,501,Ship,Sea,Delhivery,5,Storm,Winter,0,1,45.6,Medical,1,5.56,60,2024-01
+SHP01035,2023-07-23,Hyderabad,Kolkata,1415,Bike,Road,Blue Dart,5,Clear,Summer,1,0,492.6,Industrial,0,2.63,19,2023-07
+SHP01036,2023-02-06,Chennai,Delhi,1238,Van,Road,DTDC,3,Storm,Winter,0,1,422.8,Industrial,0,7.07,76,2023-02
+SHP01037,2023-01-25,Kolkata,Bangalore,469,Ship,Sea,Blue Dart,4,Fog,Winter,0,1,115.4,Medical,1,4.84,56,2023-01
+SHP01038,2024-05-31,Mumbai,Delhi,556,Train,Rail,FedEx,4,Rain,Spring,0,0,361.2,Medical,1,3.76,47,2024-05
+SHP01039,2024-09-12,Chennai,Ahmedabad,1751,Truck,Road,Blue Dart,1,Rain,Monsoon,0,1,429.7,Furniture,0,6.46,77,2024-09
+SHP01040,2023-10-26,Ahmedabad,Chennai,1287,Bike,Road,Blue Dart,4,Rain,Monsoon,0,1,215.1,Perishable,1,5.08,57,2023-10
+SHP01041,2024-05-23,Pune,Delhi,1714,Ship,Sea,FedEx,3,Fog,Spring,0,0,363.9,Furniture,0,6.11,64,2024-05
+SHP01042,2024-05-03,Ahmedabad,Bangalore,1902,Van,Road,DTDC,5,Clear,Spring,0,0,281.8,Medical,1,3.9,37,2024-05
+SHP01043,2024-05-16,Chennai,Ahmedabad,1322,Bike,Road,Blue Dart,2,Clear,Spring,0,0,296.9,Electronics,1,4.5,59,2024-05
+SHP01044,2023-11-15,Kolkata,Chennai,1989,Ship,Sea,Blue Dart,5,Rain,Monsoon,0,1,370.4,Perishable,1,7.02,65,2023-11
+SHP01045,2024-07-29,Chennai,Ahmedabad,199,Bike,Road,Blue Dart,5,Fog,Summer,0,0,397.5,Industrial,0,1.36,16,2024-07
+SHP01046,2023-03-21,Mumbai,Kolkata,1015,Bike,Road,Ecom Express,4,Fog,Spring,0,0,188.2,Electronics,1,4.7,55,2023-03
+SHP01047,2024-03-10,Mumbai,Delhi,713,Ship,Sea,Delhivery,1,Rain,Spring,1,0,247.8,Medical,1,6.22,83,2024-03
+SHP01048,2024-11-23,Pune,Bangalore,2290,Train,Rail,FedEx,4,Clear,Monsoon,1,1,135.9,Furniture,0,4.88,42,2024-11
+SHP01049,2024-09-11,Hyderabad,Kolkata,1572,Ship,Sea,FedEx,2,Rain,Monsoon,0,1,126.0,Apparel,0,6.49,71,2024-09
+SHP01050,2023-06-03,Pune,Mumbai,604,Van,Road,Blue Dart,5,Fog,Summer,1,0,235.5,Electronics,1,4.0,44,2023-06
+SHP01051,2023-03-04,Hyderabad,Delhi,1327,Van,Road,Ecom Express,2,Clear,Spring,1,0,312.7,Industrial,0,5.0,55,2023-03
+SHP01052,2024-03-12,Kolkata,Ahmedabad,2340,Van,Road,Delhivery,3,Clear,Spring,0,0,292.4,Furniture,0,5.54,53,2024-03
+SHP01053,2023-06-06,Mumbai,Hyderabad,1554,Ship,Sea,Ecom Express,4,Storm,Summer,0,0,51.9,Perishable,1,7.02,77,2023-06
+SHP01054,2023-06-22,Ahmedabad,Mumbai,469,Van,Road,FedEx,5,Fog,Summer,0,0,1.8,Perishable,1,3.47,40,2023-06
+SHP01055,2023-01-01,Ahmedabad,Pune,936,Truck,Road,Delhivery,5,Rain,Winter,1,1,162.0,Electronics,1,5.42,53,2023-01
+SHP01056,2024-02-07,Chennai,Hyderabad,1792,Train,Rail,Ecom Express,3,Storm,Winter,0,1,189.0,Apparel,0,7.91,82,2024-02
+SHP01057,2024-10-10,Chennai,Mumbai,1993,Bike,Road,Ecom Express,3,Storm,Monsoon,0,1,416.9,Medical,1,8.11,91,2024-10
+SHP01058,2023-01-26,Hyderabad,Mumbai,1858,Train,Rail,Ecom Express,3,Clear,Winter,0,1,433.1,Apparel,0,5.74,55,2023-01
+SHP01059,2023-01-11,Bangalore,Pune,1467,Train,Rail,DTDC,2,Rain,Winter,0,1,98.3,Furniture,0,5.89,67,2023-01
+SHP01060,2024-10-24,Kolkata,Delhi,1321,Bike,Road,FedEx,1,Storm,Monsoon,0,1,137.8,Apparel,0,6.88,86,2024-10
+SHP01061,2024-10-09,Ahmedabad,Kolkata,1681,Truck,Road,Blue Dart,3,Storm,Monsoon,0,1,227.5,Perishable,1,6.8,82,2024-10
+SHP01062,2023-05-15,Bangalore,Ahmedabad,2284,Truck,Road,Blue Dart,1,Storm,Spring,0,0,41.9,Electronics,1,8.71,100,2023-05
+SHP01063,2024-09-20,Chennai,Pune,279,Train,Rail,Blue Dart,1,Storm,Monsoon,0,1,368.9,Furniture,0,5.79,78,2024-09
+SHP01064,2024-11-14,Pune,Chennai,1346,Van,Road,Ecom Express,5,Storm,Monsoon,0,1,335.0,Electronics,1,5.76,62,2024-11
+SHP01065,2023-10-10,Ahmedabad,Delhi,840,Ship,Sea,Blue Dart,2,Storm,Monsoon,0,1,304.5,Medical,1,6.71,87,2023-10
+SHP01066,2023-03-30,Ahmedabad,Kolkata,63,Bike,Road,Blue Dart,3,Storm,Spring,0,0,283.3,Apparel,0,3.77,51,2023-03
+SHP01067,2024-10-03,Hyderabad,Kolkata,411,Truck,Road,Blue Dart,1,Rain,Monsoon,0,1,482.9,Perishable,1,5.26,76,2024-10
+SHP01068,2023-02-24,Bangalore,Chennai,1584,Train,Rail,FedEx,1,Rain,Winter,0,1,190.0,Furniture,0,5.8,72,2023-02
+SHP01069,2023-07-24,Chennai,Bangalore,779,Bike,Road,DTDC,2,Storm,Summer,0,0,89.0,Furniture,0,5.65,71,2023-07
+SHP01070,2024-08-22,Bangalore,Delhi,428,Train,Rail,FedEx,3,Storm,Summer,0,0,193.1,Industrial,0,5.09,61,2024-08
+SHP01071,2024-05-30,Hyderabad,Pune,2379,Van,Road,FedEx,4,Storm,Spring,0,0,276.0,Medical,1,7.31,79,2024-05
+SHP01072,2024-11-05,Mumbai,Hyderabad,913,Bike,Road,FedEx,2,Fog,Monsoon,0,1,315.7,Apparel,0,4.89,61,2024-11
+SHP01073,2023-04-18,Delhi,Chennai,622,Train,Rail,FedEx,5,Storm,Spring,0,0,314.9,Electronics,1,4.79,54,2023-04
+SHP01074,2023-07-10,Ahmedabad,Kolkata,1429,Truck,Road,FedEx,2,Storm,Summer,0,0,376.1,Apparel,0,6.98,81,2023-07
+SHP01075,2024-01-18,Chennai,Bangalore,1919,Ship,Sea,DTDC,5,Fog,Winter,0,1,300.7,Apparel,0,6.74,57,2024-01
+SHP01076,2023-01-30,Pune,Kolkata,1009,Ship,Sea,DTDC,1,Fog,Winter,0,1,82.4,Perishable,1,6.63,88,2023-01
+SHP01077,2023-12-08,Bangalore,Pune,1281,Ship,Sea,Ecom Express,5,Rain,Winter,0,1,394.4,Electronics,1,5.98,57,2023-12
+SHP01078,2023-06-01,Delhi,Pune,629,Bike,Road,Delhivery,4,Fog,Summer,0,0,100.6,Perishable,1,4.13,51,2023-06
+SHP01079,2023-09-08,Pune,Delhi,1284,Bike,Road,Delhivery,1,Rain,Monsoon,0,1,77.5,Industrial,0,6.06,74,2023-09
+SHP01080,2024-11-15,Chennai,Kolkata,2005,Van,Road,DTDC,3,Clear,Monsoon,0,1,188.5,Apparel,0,5.49,53,2024-11
+SHP01081,2023-12-01,Pune,Ahmedabad,1044,Truck,Road,FedEx,4,Rain,Winter,0,1,449.1,Medical,1,4.9,55,2023-12
+SHP01082,2023-07-02,Chennai,Hyderabad,1663,Ship,Sea,DTDC,1,Storm,Summer,1,0,384.0,Furniture,0,7.96,94,2023-07
+SHP01083,2023-08-24,Mumbai,Pune,1533,Bike,Road,Ecom Express,5,Clear,Summer,0,0,69.5,Perishable,1,4.27,40,2023-08
+SHP01084,2024-02-01,Kolkata,Bangalore,430,Bike,Road,DTDC,4,Rain,Winter,0,1,337.8,Apparel,0,3.87,40,2024-02
+SHP01085,2023-03-26,Mumbai,Kolkata,192,Bike,Road,Delhivery,4,Rain,Spring,1,0,173.5,Medical,1,4.11,49,2023-03
+SHP01086,2024-05-12,Ahmedabad,Delhi,100,Van,Road,Ecom Express,3,Rain,Spring,1,0,327.1,Medical,1,4.47,58,2024-05
+SHP01087,2024-04-06,Mumbai,Hyderabad,1695,Train,Rail,DTDC,1,Storm,Spring,1,0,251.3,Apparel,0,7.33,89,2024-04
+SHP01088,2023-01-08,Mumbai,Bangalore,1544,Truck,Road,Ecom Express,2,Fog,Winter,1,1,168.9,Medical,1,6.76,83,2023-01
+SHP01089,2023-02-10,Ahmedabad,Bangalore,2467,Bike,Road,DTDC,2,Fog,Winter,0,1,61.2,Apparel,0,7.65,81,2023-02
+SHP01090,2023-10-28,Kolkata,Mumbai,1562,Bike,Road,FedEx,4,Storm,Monsoon,1,1,178.8,Electronics,1,6.71,75,2023-10
+SHP01091,2023-02-07,Hyderabad,Pune,1879,Bike,Road,Ecom Express,3,Clear,Winter,0,1,265.9,Apparel,0,5.19,50,2023-02
+SHP01092,2024-09-24,Hyderabad,Chennai,437,Van,Road,DTDC,2,Fog,Monsoon,0,1,122.4,Medical,1,5.33,72,2024-09
+SHP01093,2023-05-31,Hyderabad,Delhi,2194,Ship,Sea,Blue Dart,4,Clear,Spring,0,0,304.9,Medical,1,4.84,50,2023-05
+SHP01094,2023-07-08,Pune,Delhi,1614,Ship,Sea,FedEx,1,Storm,Summer,1,0,475.2,Furniture,0,7.33,89,2023-07
+SHP01095,2024-06-10,Kolkata,Hyderabad,374,Train,Rail,Ecom Express,1,Rain,Summer,0,0,269.8,Perishable,1,4.38,69,2024-06
+SHP01096,2024-11-18,Kolkata,Hyderabad,2398,Train,Rail,FedEx,2,Fog,Monsoon,0,1,23.3,Apparel,0,7.07,77,2024-11
+SHP01097,2024-02-29,Delhi,Ahmedabad,792,Bike,Road,DTDC,3,Clear,Winter,0,1,328.8,Furniture,0,3.58,38,2024-02
+SHP01098,2024-09-18,Chennai,Delhi,1353,Truck,Road,Blue Dart,2,Rain,Monsoon,0,1,144.3,Medical,1,6.61,80,2024-09
+SHP01099,2023-01-13,Ahmedabad,Kolkata,1936,Ship,Sea,Ecom Express,4,Storm,Winter,0,1,171.8,Furniture,0,7.82,75,2023-01
+SHP01100,2024-11-07,Pune,Delhi,1942,Train,Rail,DTDC,2,Rain,Monsoon,0,1,426.2,Electronics,1,7.27,85,2024-11
+SHP01101,2023-11-19,Kolkata,Bangalore,2042,Ship,Sea,Delhivery,3,Clear,Monsoon,1,1,226.0,Apparel,0,6.66,61,2023-11
+SHP01102,2024-05-17,Kolkata,Hyderabad,732,Ship,Sea,DTDC,3,Fog,Spring,0,0,494.8,Apparel,0,5.35,58,2024-05
+SHP01103,2023-04-24,Chennai,Mumbai,2251,Van,Road,Blue Dart,4,Clear,Spring,0,0,285.6,Perishable,1,5.67,56,2023-04
+SHP01104,2024-01-07,Kolkata,Bangalore,1692,Ship,Sea,Delhivery,4,Storm,Winter,1,1,315.3,Medical,1,7.6,82,2024-01
+SHP01105,2024-04-20,Ahmedabad,Pune,1351,Ship,Sea,Delhivery,5,Fog,Spring,1,0,143.5,Apparel,0,6.03,51,2024-04
+SHP01106,2024-08-17,Mumbai,Kolkata,1688,Bike,Road,DTDC,1,Storm,Summer,1,0,326.7,Apparel,0,8.2,96,2024-08
+SHP01107,2023-11-29,Pune,Delhi,1730,Van,Road,Delhivery,1,Rain,Monsoon,0,1,305.1,Perishable,1,6.66,86,2023-11
+SHP01108,2024-01-13,Bangalore,Kolkata,422,Bike,Road,Ecom Express,1,Fog,Winter,1,1,361.7,Perishable,1,5.32,78,2024-01
+SHP01109,2023-07-31,Mumbai,Delhi,767,Train,Rail,Delhivery,2,Storm,Summer,0,0,289.0,Apparel,0,5.45,69,2023-07
+SHP01110,2024-04-18,Bangalore,Mumbai,1040,Van,Road,Ecom Express,4,Clear,Spring,0,0,361.2,Electronics,1,3.97,43,2024-04
+SHP01111,2024-07-04,Pune,Bangalore,78,Truck,Road,DTDC,4,Fog,Summer,0,0,60.9,Industrial,0,3.36,37,2024-07
+SHP01112,2024-02-14,Delhi,Chennai,147,Train,Rail,FedEx,4,Clear,Winter,0,1,358.5,Industrial,0,1.82,19,2024-02
+SHP01113,2023-06-23,Mumbai,Pune,1852,Train,Rail,Delhivery,1,Clear,Summer,0,0,183.5,Medical,1,4.96,69,2023-06
+SHP01114,2024-05-18,Ahmedabad,Hyderabad,2026,Van,Road,FedEx,3,Clear,Spring,1,0,376.4,Furniture,0,5.64,54,2024-05
+SHP01115,2023-02-06,Kolkata,Hyderabad,1452,Bike,Road,DTDC,4,Storm,Winter,0,1,380.8,Perishable,1,6.52,73,2023-02
+SHP01116,2024-03-26,Kolkata,Chennai,1569,Ship,Sea,FedEx,3,Storm,Spring,0,0,336.8,Perishable,1,7.04,83,2024-03
+SHP01117,2023-08-05,Chennai,Delhi,576,Van,Road,DTDC,5,Storm,Summer,1,0,291.8,Perishable,1,4.65,53,2023-08
+SHP01118,2023-06-09,Hyderabad,Pune,2133,Ship,Sea,Ecom Express,4,Fog,Summer,0,0,293.8,Industrial,0,6.55,61,2023-06
+SHP01119,2024-05-10,Ahmedabad,Mumbai,1337,Ship,Sea,DTDC,3,Fog,Spring,0,0,448.6,Electronics,1,6.25,73,2024-05
+SHP01120,2023-07-21,Mumbai,Pune,970,Bike,Road,Delhivery,2,Rain,Summer,0,0,178.6,Apparel,0,4.3,55,2023-07
+SHP01121,2024-10-03,Delhi,Kolkata,2382,Truck,Road,Delhivery,5,Rain,Monsoon,0,1,49.9,Furniture,0,6.07,50,2024-10
+SHP01122,2023-07-07,Chennai,Bangalore,2240,Ship,Sea,DTDC,1,Clear,Summer,0,0,345.0,Medical,1,7.0,84,2023-07
+SHP01123,2023-07-14,Kolkata,Delhi,1053,Van,Road,Blue Dart,4,Rain,Summer,0,0,366.8,Electronics,1,4.32,51,2023-07
+SHP01124,2024-07-03,Ahmedabad,Delhi,1290,Truck,Road,Delhivery,2,Rain,Summer,0,0,440.9,Electronics,1,5.92,75,2024-07
+SHP01125,2023-07-22,Mumbai,Kolkata,1356,Truck,Road,Blue Dart,2,Fog,Summer,1,0,50.4,Industrial,0,6.24,71,2023-07
+SHP01126,2024-10-12,Chennai,Hyderabad,2381,Truck,Road,Blue Dart,5,Fog,Monsoon,1,1,307.4,Apparel,0,7.5,62,2024-10
+SHP01127,2024-05-09,Hyderabad,Kolkata,52,Bike,Road,DTDC,4,Storm,Spring,0,0,257.3,Medical,1,3.99,54,2024-05
+SHP01128,2023-01-07,Bangalore,Kolkata,1069,Bike,Road,DTDC,3,Storm,Winter,1,1,159.9,Industrial,0,7.29,77,2023-01
+SHP01129,2024-03-29,Kolkata,Delhi,1977,Train,Rail,Blue Dart,2,Rain,Spring,0,0,171.5,Medical,1,6.18,77,2024-03
+SHP01130,2024-06-27,Hyderabad,Ahmedabad,495,Van,Road,Ecom Express,2,Storm,Summer,0,0,236.2,Medical,1,5.49,78,2024-06
+SHP01131,2024-02-10,Chennai,Ahmedabad,1279,Ship,Sea,FedEx,2,Rain,Winter,1,1,393.0,Perishable,1,6.31,78,2024-02
+SHP01132,2023-11-07,Kolkata,Chennai,2165,Train,Rail,FedEx,5,Fog,Monsoon,0,1,185.7,Furniture,0,5.65,48,2023-11
+SHP01133,2024-03-03,Pune,Ahmedabad,1416,Bike,Road,FedEx,3,Fog,Spring,1,0,3.3,Apparel,0,5.66,60,2024-03
+SHP01134,2024-01-18,Kolkata,Bangalore,623,Train,Rail,Delhivery,3,Clear,Winter,0,1,12.3,Apparel,0,3.44,37,2024-01
+SHP01135,2023-03-18,Kolkata,Delhi,1616,Bike,Road,Delhivery,5,Rain,Spring,1,0,121.9,Furniture,0,4.7,40,2023-03
+SHP01136,2024-08-23,Kolkata,Hyderabad,2478,Train,Rail,DTDC,1,Fog,Summer,0,0,187.8,Electronics,1,7.01,91,2024-08
+SHP01137,2023-05-18,Mumbai,Kolkata,279,Bike,Road,DTDC,3,Storm,Spring,0,0,440.5,Electronics,1,4.48,64,2023-05
+SHP01138,2023-09-09,Mumbai,Kolkata,1744,Van,Road,Ecom Express,2,Storm,Monsoon,1,1,164.3,Industrial,0,8.47,92,2023-09
+SHP01139,2023-11-18,Mumbai,Ahmedabad,1117,Ship,Sea,Blue Dart,5,Storm,Monsoon,1,1,478.6,Furniture,0,6.57,60,2023-11
+SHP01140,2023-07-23,Hyderabad,Bangalore,929,Van,Road,Delhivery,3,Fog,Summer,1,0,339.0,Medical,1,5.13,64,2023-07
+SHP01141,2024-02-10,Pune,Chennai,1110,Bike,Road,Delhivery,5,Clear,Winter,1,1,403.1,Electronics,1,3.85,36,2024-02
+SHP01142,2024-08-11,Ahmedabad,Bangalore,2148,Bike,Road,Blue Dart,1,Fog,Summer,1,0,167.2,Electronics,1,6.94,90,2024-08
+SHP01143,2024-04-24,Mumbai,Hyderabad,359,Ship,Sea,Ecom Express,1,Clear,Spring,0,0,305.2,Perishable,1,4.23,63,2024-04
+SHP01144,2024-10-25,Mumbai,Bangalore,1815,Bike,Road,Delhivery,4,Fog,Monsoon,0,1,287.8,Apparel,0,5.05,50,2024-10
+SHP01145,2024-02-04,Delhi,Hyderabad,2211,Train,Rail,Ecom Express,1,Fog,Winter,1,1,9.9,Perishable,1,7.95,98,2024-02
+SHP01146,2023-06-01,Bangalore,Mumbai,962,Ship,Sea,Delhivery,3,Fog,Summer,0,0,103.5,Perishable,1,5.67,69,2023-06
+SHP01147,2023-11-19,Mumbai,Chennai,463,Truck,Road,Delhivery,5,Clear,Monsoon,1,1,464.3,Medical,1,3.24,32,2023-11
+SHP01148,2023-05-07,Bangalore,Kolkata,1787,Bike,Road,FedEx,2,Rain,Spring,1,0,417.2,Apparel,0,6.03,68,2023-05
+SHP01149,2023-07-23,Ahmedabad,Chennai,154,Train,Rail,Blue Dart,2,Fog,Summer,1,0,103.2,Apparel,0,3.85,53,2023-07
+SHP01150,2024-09-11,Mumbai,Kolkata,767,Ship,Sea,Delhivery,5,Clear,Monsoon,0,1,179.5,Furniture,0,3.39,25,2024-09
+SHP01151,2024-06-04,Ahmedabad,Bangalore,1750,Van,Road,Ecom Express,2,Clear,Summer,0,0,56.4,Apparel,0,5.23,57,2024-06
+SHP01152,2024-10-29,Mumbai,Kolkata,1770,Train,Rail,FedEx,1,Storm,Monsoon,0,1,150.7,Medical,1,7.76,100,2024-10
+SHP01153,2023-09-12,Delhi,Bangalore,395,Train,Rail,FedEx,4,Clear,Monsoon,0,1,89.1,Electronics,1,2.67,34,2023-09
+SHP01154,2023-06-11,Pune,Ahmedabad,1974,Truck,Road,FedEx,1,Rain,Summer,1,0,209.9,Perishable,1,7.08,90,2023-06
+SHP01155,2023-07-28,Delhi,Kolkata,2174,Van,Road,Blue Dart,2,Storm,Summer,0,0,153.4,Medical,1,7.23,91,2023-07
+SHP01156,2023-05-28,Delhi,Pune,1365,Truck,Road,Blue Dart,1,Storm,Spring,1,0,456.8,Electronics,1,8.25,100,2023-05
+SHP01157,2023-08-17,Delhi,Chennai,2259,Train,Rail,Delhivery,5,Rain,Summer,0,0,46.5,Electronics,1,6.17,59,2023-08
+SHP01158,2024-04-25,Kolkata,Chennai,1750,Ship,Sea,Ecom Express,4,Rain,Spring,0,0,449.8,Furniture,0,6.25,57,2024-04
+SHP01159,2024-08-07,Ahmedabad,Chennai,575,Bike,Road,Ecom Express,5,Storm,Summer,0,0,98.5,Perishable,1,3.9,48,2024-08
+SHP01160,2023-08-20,Mumbai,Bangalore,634,Van,Road,DTDC,1,Clear,Summer,1,0,125.7,Medical,1,4.13,62,2023-08
+SHP01161,2024-11-08,Pune,Bangalore,1283,Bike,Road,Delhivery,4,Storm,Monsoon,0,1,73.0,Medical,1,6.27,72,2024-11
+SHP01162,2023-09-01,Delhi,Ahmedabad,1627,Truck,Road,Blue Dart,2,Rain,Monsoon,0,1,81.4,Furniture,0,6.24,69,2023-09
+SHP01163,2023-08-08,Pune,Chennai,97,Ship,Sea,FedEx,4,Fog,Summer,0,0,226.9,Furniture,0,3.21,36,2023-08
+SHP01164,2024-05-14,Hyderabad,Ahmedabad,1194,Ship,Sea,Delhivery,3,Storm,Spring,0,0,386.1,Apparel,0,6.34,70,2024-05
+SHP01165,2023-01-27,Pune,Hyderabad,445,Bike,Road,Blue Dart,5,Storm,Winter,0,1,482.4,Perishable,1,5.33,58,2023-01
+SHP01166,2024-03-22,Kolkata,Chennai,505,Truck,Road,Delhivery,5,Storm,Spring,0,0,276.9,Electronics,1,5.32,58,2024-03
+SHP01167,2023-12-29,Delhi,Bangalore,2117,Van,Road,Delhivery,4,Rain,Winter,0,1,263.0,Perishable,1,6.03,64,2023-12
+SHP01168,2023-04-13,Hyderabad,Mumbai,242,Ship,Sea,Ecom Express,3,Rain,Spring,0,0,340.4,Medical,1,4.17,56,2023-04
+SHP01169,2023-10-31,Delhi,Kolkata,976,Van,Road,Delhivery,5,Fog,Monsoon,0,1,195.2,Industrial,0,5.22,45,2023-10
+SHP01170,2024-07-23,Kolkata,Pune,1966,Bike,Road,Blue Dart,2,Storm,Summer,0,0,334.2,Perishable,1,7.21,91,2024-07
+SHP01171,2023-06-14,Ahmedabad,Pune,2482,Truck,Road,Delhivery,1,Fog,Summer,0,0,382.4,Perishable,1,7.97,98,2023-06
+SHP01172,2023-10-10,Mumbai,Bangalore,1766,Train,Rail,Delhivery,5,Rain,Monsoon,0,1,70.6,Apparel,0,5.26,44,2023-10
+SHP01173,2023-12-02,Kolkata,Ahmedabad,555,Ship,Sea,DTDC,2,Rain,Winter,1,1,5.9,Electronics,1,5.47,72,2023-12
+SHP01174,2023-12-16,Bangalore,Delhi,1979,Van,Road,Blue Dart,4,Storm,Winter,1,1,437.7,Electronics,1,7.66,82,2023-12
+SHP01175,2023-10-26,Ahmedabad,Pune,1612,Bike,Road,DTDC,1,Fog,Monsoon,0,1,112.7,Electronics,1,7.66,95,2023-10
+SHP01176,2023-10-14,Mumbai,Ahmedabad,1535,Van,Road,DTDC,4,Fog,Monsoon,1,1,421.2,Medical,1,6.79,71,2023-10
+SHP01177,2023-01-14,Hyderabad,Delhi,1179,Bike,Road,DTDC,5,Storm,Winter,1,1,51.0,Apparel,0,5.8,54,2023-01
+SHP01178,2024-09-08,Pune,Delhi,2471,Train,Rail,DTDC,3,Clear,Monsoon,1,1,54.3,Medical,1,7.35,75,2024-09
+SHP01179,2024-02-08,Pune,Ahmedabad,453,Ship,Sea,Delhivery,1,Clear,Winter,0,1,359.3,Electronics,1,4.23,63,2024-02
+SHP01180,2024-08-03,Delhi,Bangalore,1937,Ship,Sea,DTDC,5,Clear,Summer,1,0,90.8,Medical,1,6.19,54,2024-08
+SHP01181,2024-11-30,Kolkata,Bangalore,1397,Truck,Road,Blue Dart,3,Fog,Monsoon,1,1,172.4,Perishable,1,6.53,75,2024-11
+SHP01182,2023-12-23,Pune,Ahmedabad,1379,Train,Rail,Delhivery,3,Rain,Winter,1,1,390.6,Perishable,1,6.45,73,2023-12
+SHP01183,2023-11-10,Hyderabad,Ahmedabad,2097,Truck,Road,Ecom Express,3,Storm,Monsoon,0,1,51.1,Medical,1,8.75,96,2023-11
+SHP01184,2024-03-24,Hyderabad,Bangalore,2086,Van,Road,FedEx,4,Rain,Spring,1,0,447.9,Perishable,1,6.3,66,2024-03
+SHP01185,2024-07-27,Kolkata,Ahmedabad,740,Bike,Road,Delhivery,1,Clear,Summer,1,0,269.4,Apparel,0,3.53,50,2024-07
+SHP01186,2023-12-29,Hyderabad,Kolkata,432,Truck,Road,FedEx,5,Fog,Winter,0,1,198.7,Apparel,0,3.62,33,2023-12
+SHP01187,2023-02-11,Ahmedabad,Pune,474,Bike,Road,FedEx,5,Clear,Winter,1,1,123.3,Perishable,1,2.33,25,2023-02
+SHP01188,2023-01-13,Chennai,Mumbai,2075,Van,Road,Delhivery,2,Rain,Winter,0,1,148.7,Electronics,1,7.09,84,2023-01
+SHP01189,2024-08-12,Pune,Hyderabad,2029,Train,Rail,DTDC,4,Rain,Summer,0,0,444.4,Apparel,0,5.65,53,2024-08
+SHP01190,2024-01-01,Hyderabad,Kolkata,1540,Bike,Road,FedEx,4,Storm,Winter,0,1,39.0,Medical,1,5.73,67,2024-01
+SHP01191,2024-09-10,Hyderabad,Delhi,600,Bike,Road,Blue Dart,2,Rain,Monsoon,0,1,114.3,Furniture,0,4.44,56,2024-09
+SHP01192,2024-03-24,Ahmedabad,Kolkata,2319,Van,Road,Ecom Express,4,Storm,Spring,1,0,248.8,Apparel,0,7.0,69,2024-03
+SHP01193,2023-06-01,Hyderabad,Chennai,314,Van,Road,Ecom Express,1,Fog,Summer,0,0,32.4,Furniture,0,5.23,69,2023-06
+SHP01194,2024-11-08,Pune,Mumbai,2383,Bike,Road,DTDC,1,Fog,Monsoon,0,1,226.3,Industrial,0,8.17,91,2024-11
+SHP01195,2023-02-24,Delhi,Hyderabad,1297,Bike,Road,Delhivery,2,Fog,Winter,0,1,356.2,Furniture,0,5.1,62,2023-02
+SHP01196,2023-07-03,Chennai,Hyderabad,340,Ship,Sea,Delhivery,1,Fog,Summer,0,0,418.0,Electronics,1,5.04,76,2023-07
+SHP01197,2024-02-22,Pune,Ahmedabad,2077,Truck,Road,Blue Dart,3,Clear,Winter,0,1,191.0,Apparel,0,6.05,57,2024-02
+SHP01198,2023-07-08,Ahmedabad,Delhi,442,Bike,Road,DTDC,3,Rain,Summer,1,0,130.6,Perishable,1,4.3,57,2023-07
+SHP01199,2024-09-12,Kolkata,Delhi,978,Bike,Road,DTDC,1,Storm,Monsoon,0,1,30.9,Industrial,0,7.26,89,2024-09
+SHP01200,2023-01-29,Pune,Bangalore,740,Truck,Road,Blue Dart,5,Clear,Winter,1,1,400.1,Industrial,0,3.19,23,2023-01
+SHP01201,2023-08-12,Bangalore,Hyderabad,2357,Bike,Road,Delhivery,1,Rain,Summer,1,0,487.9,Electronics,1,8.23,98,2023-08
+SHP01202,2024-09-29,Ahmedabad,Delhi,1582,Ship,Sea,Delhivery,2,Fog,Monsoon,1,1,19.9,Industrial,0,6.58,73,2024-09
+SHP01203,2024-05-24,Bangalore,Delhi,542,Bike,Road,FedEx,3,Clear,Spring,0,0,97.0,Perishable,1,3.48,46,2024-05
+SHP01204,2024-01-10,Hyderabad,Mumbai,1912,Ship,Sea,Blue Dart,4,Fog,Winter,0,1,71.1,Apparel,0,6.67,62,2024-01
+SHP01205,2024-06-16,Mumbai,Ahmedabad,821,Train,Rail,Blue Dart,1,Storm,Summer,1,0,45.9,Medical,1,6.31,90,2024-06
+SHP01206,2023-05-19,Kolkata,Bangalore,2405,Ship,Sea,Ecom Express,5,Fog,Spring,0,0,224.2,Perishable,1,7.49,70,2023-05
+SHP01207,2024-05-18,Ahmedabad,Delhi,1249,Train,Rail,DTDC,4,Fog,Spring,1,0,52.6,Industrial,0,4.74,48,2024-05
+SHP01208,2024-08-07,Kolkata,Hyderabad,2088,Bike,Road,Delhivery,1,Clear,Summer,0,0,271.6,Medical,1,5.92,76,2024-08
+SHP01209,2023-12-27,Pune,Mumbai,1334,Truck,Road,Blue Dart,5,Clear,Winter,0,1,482.1,Electronics,1,4.27,40,2023-12
+SHP01210,2023-04-12,Delhi,Bangalore,1826,Ship,Sea,Ecom Express,5,Rain,Spring,0,0,228.9,Perishable,1,5.26,52,2023-04
+SHP01211,2024-01-26,Delhi,Mumbai,957,Bike,Road,DTDC,1,Rain,Winter,0,1,103.4,Medical,1,6.12,82,2024-01
+SHP01212,2023-06-09,Pune,Delhi,1034,Bike,Road,Delhivery,2,Fog,Summer,0,0,71.3,Perishable,1,5.34,72,2023-06
+SHP01213,2023-01-11,Pune,Hyderabad,1107,Train,Rail,Delhivery,5,Storm,Winter,0,1,208.2,Apparel,0,4.82,47,2023-01
+SHP01214,2024-11-09,Ahmedabad,Mumbai,826,Train,Rail,DTDC,3,Clear,Monsoon,1,1,344.9,Electronics,1,4.92,56,2024-11
+SHP01215,2023-09-20,Hyderabad,Mumbai,518,Truck,Road,Blue Dart,2,Fog,Monsoon,0,1,477.7,Medical,1,5.67,75,2023-09
+SHP01216,2023-07-26,Pune,Ahmedabad,2246,Bike,Road,Blue Dart,3,Storm,Summer,0,0,475.1,Industrial,0,6.94,75,2023-07
+SHP01217,2023-08-23,Mumbai,Delhi,2089,Van,Road,DTDC,2,Clear,Summer,0,0,19.5,Apparel,0,6.06,63,2023-08
+SHP01218,2023-02-12,Ahmedabad,Kolkata,326,Van,Road,DTDC,4,Storm,Winter,1,1,331.6,Industrial,0,5.85,60,2023-02
+SHP01219,2023-09-14,Bangalore,Chennai,824,Van,Road,Ecom Express,3,Clear,Monsoon,0,1,461.0,Furniture,0,3.04,34,2023-09
+SHP01220,2024-10-04,Chennai,Mumbai,281,Train,Rail,FedEx,4,Rain,Monsoon,0,1,97.6,Medical,1,3.75,47,2024-10
+SHP01221,2024-07-14,Bangalore,Mumbai,1847,Truck,Road,Delhivery,4,Clear,Summer,1,0,482.1,Electronics,1,5.09,52,2024-07
+SHP01222,2023-04-17,Delhi,Bangalore,2171,Ship,Sea,FedEx,1,Rain,Spring,0,0,342.3,Electronics,1,7.39,92,2023-04
+SHP01223,2024-10-05,Chennai,Ahmedabad,1611,Truck,Road,DTDC,5,Clear,Monsoon,1,1,18.1,Industrial,0,5.42,40,2024-10
+SHP01224,2023-09-01,Ahmedabad,Hyderabad,2001,Ship,Sea,Ecom Express,4,Storm,Monsoon,0,1,341.6,Industrial,0,8.42,80,2023-09
+SHP01225,2023-05-28,Hyderabad,Mumbai,1074,Bike,Road,Delhivery,4,Fog,Spring,1,0,143.8,Medical,1,5.51,61,2023-05
+SHP01226,2024-04-15,Bangalore,Delhi,1103,Van,Road,DTDC,3,Clear,Spring,0,0,205.5,Industrial,0,4.6,46,2024-04
+SHP01227,2024-04-16,Pune,Chennai,979,Train,Rail,Delhivery,2,Storm,Spring,0,0,366.9,Apparel,0,6.53,77,2024-04
+SHP01228,2023-07-15,Chennai,Mumbai,1433,Bike,Road,Ecom Express,4,Rain,Summer,1,0,284.4,Medical,1,4.98,56,2023-07
+SHP01229,2023-05-25,Chennai,Kolkata,1538,Train,Rail,FedEx,5,Fog,Spring,0,0,235.4,Industrial,0,4.09,37,2023-05
+SHP01230,2024-03-18,Pune,Kolkata,1738,Truck,Road,FedEx,2,Rain,Spring,0,0,90.6,Apparel,0,5.57,64,2024-03
+SHP01231,2023-07-22,Pune,Kolkata,147,Van,Road,FedEx,4,Rain,Summer,1,0,75.8,Furniture,0,1.98,25,2023-07
+SHP01232,2023-01-09,Mumbai,Delhi,584,Train,Rail,Blue Dart,3,Clear,Winter,0,1,460.1,Electronics,1,3.59,46,2023-01
+SHP01233,2023-03-09,Chennai,Bangalore,1407,Truck,Road,Delhivery,3,Storm,Spring,0,0,181.8,Furniture,0,5.87,67,2023-03
+SHP01234,2023-06-17,Bangalore,Mumbai,1995,Bike,Road,FedEx,2,Storm,Summer,1,0,207.9,Industrial,0,6.82,80,2023-06
+SHP01235,2023-05-31,Mumbai,Pune,1728,Van,Road,FedEx,5,Fog,Spring,0,0,454.6,Electronics,1,5.09,52,2023-05
+SHP01236,2024-08-21,Hyderabad,Chennai,1610,Train,Rail,Delhivery,4,Fog,Summer,0,0,286.2,Apparel,0,5.03,50,2024-08
+SHP01237,2023-07-01,Hyderabad,Delhi,131,Train,Rail,FedEx,5,Storm,Summer,1,0,67.9,Furniture,0,3.19,34,2023-07
+SHP01238,2024-09-28,Ahmedabad,Delhi,504,Van,Road,Blue Dart,3,Storm,Monsoon,1,1,445.6,Apparel,0,4.51,56,2024-09
+SHP01239,2023-11-23,Delhi,Kolkata,742,Bike,Road,Ecom Express,3,Rain,Monsoon,0,1,453.0,Electronics,1,4.28,57,2023-11
+SHP01240,2023-03-24,Ahmedabad,Hyderabad,1127,Train,Rail,Blue Dart,4,Storm,Spring,0,0,166.8,Electronics,1,4.85,61,2023-03
+SHP01241,2024-01-25,Chennai,Kolkata,585,Ship,Sea,FedEx,1,Clear,Winter,0,1,194.5,Medical,1,4.59,66,2024-01
+SHP01242,2023-09-25,Bangalore,Chennai,1424,Bike,Road,DTDC,5,Fog,Monsoon,0,1,276.4,Apparel,0,4.48,40,2023-09
+SHP01243,2023-05-12,Mumbai,Delhi,1203,Bike,Road,Blue Dart,1,Fog,Spring,0,0,403.2,Electronics,1,5.52,79,2023-05
+SHP01244,2023-01-14,Delhi,Pune,316,Van,Road,Blue Dart,5,Rain,Winter,1,1,368.4,Furniture,0,3.6,32,2023-01
+SHP01245,2023-05-23,Mumbai,Delhi,338,Van,Road,FedEx,5,Fog,Spring,0,0,100.2,Medical,1,3.41,40,2023-05
+SHP01246,2023-11-25,Mumbai,Kolkata,425,Truck,Road,Delhivery,4,Rain,Monsoon,1,1,312.9,Perishable,1,4.54,53,2023-11
+SHP01247,2023-07-09,Delhi,Kolkata,1999,Van,Road,DTDC,4,Rain,Summer,1,0,254.0,Electronics,1,6.21,65,2023-07
+SHP01248,2023-11-26,Chennai,Mumbai,639,Ship,Sea,Blue Dart,5,Rain,Monsoon,1,1,378.3,Perishable,1,4.95,50,2023-11
+SHP01249,2024-03-12,Kolkata,Mumbai,715,Train,Rail,Ecom Express,5,Storm,Spring,0,0,125.8,Furniture,0,4.73,46,2024-03
+SHP01250,2023-03-03,Ahmedabad,Bangalore,1080,Bike,Road,Blue Dart,2,Clear,Spring,0,0,310.1,Apparel,0,3.1,41,2023-03
+SHP01251,2023-09-26,Mumbai,Hyderabad,377,Train,Rail,FedEx,1,Clear,Monsoon,0,1,363.7,Furniture,0,2.6,43,2023-09
+SHP01252,2024-08-24,Chennai,Mumbai,2017,Bike,Road,DTDC,4,Storm,Summer,1,0,85.7,Medical,1,7.32,79,2024-08
+SHP01253,2024-04-20,Ahmedabad,Pune,1495,Train,Rail,FedEx,4,Fog,Spring,1,0,226.4,Perishable,1,5.41,61,2024-04
+SHP01254,2024-03-20,Hyderabad,Delhi,150,Van,Road,Delhivery,3,Fog,Spring,0,0,395.8,Medical,1,3.67,54,2024-03
+SHP01255,2024-04-28,Delhi,Kolkata,757,Van,Road,Delhivery,5,Rain,Spring,1,0,75.4,Furniture,0,3.83,33,2024-04
+SHP01256,2024-05-26,Ahmedabad,Kolkata,698,Bike,Road,Delhivery,5,Storm,Spring,1,0,216.7,Perishable,1,5.25,58,2024-05
+SHP01257,2023-10-24,Ahmedabad,Kolkata,2046,Truck,Road,Blue Dart,3,Clear,Monsoon,0,1,71.2,Industrial,0,6.09,57,2023-10
+SHP01258,2024-09-25,Kolkata,Pune,1755,Train,Rail,Delhivery,1,Storm,Monsoon,0,1,214.8,Electronics,1,7.75,100,2024-09
+SHP01259,2024-04-29,Hyderabad,Kolkata,580,Ship,Sea,FedEx,3,Storm,Spring,0,0,32.0,Apparel,0,5.13,61,2024-04
+SHP01260,2023-07-19,Hyderabad,Pune,1386,Van,Road,FedEx,3,Fog,Summer,0,0,451.0,Furniture,0,5.09,56,2023-07
+SHP01261,2023-11-17,Ahmedabad,Delhi,2394,Van,Road,Delhivery,5,Rain,Monsoon,0,1,255.7,Electronics,1,6.6,62,2023-11
+SHP01262,2024-02-03,Mumbai,Kolkata,1367,Truck,Road,DTDC,5,Fog,Winter,1,1,388.8,Furniture,0,5.79,49,2024-02
+SHP01263,2023-12-31,Delhi,Chennai,636,Bike,Road,Delhivery,1,Fog,Winter,1,1,412.5,Apparel,0,4.77,66,2023-12
+SHP01264,2023-03-04,Kolkata,Pune,1360,Train,Rail,Delhivery,3,Rain,Spring,1,0,367.9,Perishable,1,5.18,63,2023-03
+SHP01265,2023-09-25,Delhi,Chennai,2194,Ship,Sea,DTDC,3,Rain,Monsoon,0,1,102.5,Furniture,0,8.26,78,2023-09
+SHP01266,2023-06-10,Pune,Kolkata,1776,Truck,Road,Delhivery,3,Fog,Summer,1,0,297.1,Furniture,0,6.68,68,2023-06
+SHP01267,2024-08-23,Kolkata,Mumbai,491,Bike,Road,Delhivery,4,Storm,Summer,0,0,64.7,Electronics,1,5.47,66,2024-08
+SHP01268,2024-03-20,Delhi,Pune,2313,Train,Rail,FedEx,3,Rain,Spring,0,0,323.3,Apparel,0,6.72,67,2024-03
+SHP01269,2023-02-27,Delhi,Hyderabad,779,Bike,Road,FedEx,5,Clear,Winter,0,1,361.5,Medical,1,2.7,28,2023-02
+SHP01270,2024-01-04,Chennai,Delhi,328,Van,Road,Ecom Express,2,Clear,Winter,0,1,486.2,Furniture,0,3.54,44,2024-01
+SHP01271,2024-03-02,Delhi,Hyderabad,382,Train,Rail,DTDC,3,Clear,Spring,1,0,321.1,Apparel,0,2.92,33,2024-03
+SHP01272,2023-02-27,Chennai,Mumbai,416,Van,Road,Blue Dart,4,Rain,Winter,0,1,322.6,Industrial,0,2.96,33,2023-02
+SHP01273,2023-08-27,Chennai,Ahmedabad,149,Truck,Road,Blue Dart,2,Fog,Summer,1,0,475.0,Perishable,1,4.21,64,2023-08
+SHP01274,2023-03-11,Pune,Kolkata,1671,Truck,Road,DTDC,5,Storm,Spring,1,0,20.5,Industrial,0,6.69,61,2023-03
+SHP01275,2024-01-12,Mumbai,Hyderabad,197,Van,Road,Blue Dart,2,Fog,Winter,0,1,254.8,Perishable,1,4.24,64,2024-01
+SHP01276,2023-07-26,Pune,Mumbai,80,Ship,Sea,Ecom Express,3,Storm,Summer,0,0,377.2,Furniture,0,5.04,60,2023-07
+SHP01277,2023-01-30,Kolkata,Chennai,1420,Van,Road,DTDC,3,Storm,Winter,0,1,223.0,Medical,1,7.01,83,2023-01
+SHP01278,2024-08-06,Chennai,Mumbai,888,Van,Road,DTDC,1,Clear,Summer,0,0,368.0,Furniture,0,3.66,51,2024-08
+SHP01279,2023-09-16,Chennai,Hyderabad,927,Ship,Sea,DTDC,3,Storm,Monsoon,1,1,108.8,Electronics,1,7.32,85,2023-09
+SHP01280,2024-09-08,Ahmedabad,Chennai,791,Bike,Road,DTDC,2,Fog,Monsoon,1,1,377.1,Apparel,0,5.63,66,2024-09
+SHP01281,2023-02-01,Mumbai,Delhi,2016,Ship,Sea,Delhivery,5,Storm,Winter,0,1,309.8,Electronics,1,8.75,84,2023-02
+SHP01282,2024-10-23,Hyderabad,Mumbai,1292,Train,Rail,Blue Dart,4,Rain,Monsoon,0,1,95.8,Apparel,0,4.49,44,2024-10
+SHP01283,2023-11-06,Delhi,Mumbai,1577,Truck,Road,Blue Dart,3,Fog,Monsoon,0,1,71.3,Apparel,0,6.8,69,2023-11
+SHP01284,2023-08-29,Mumbai,Delhi,888,Truck,Road,Delhivery,1,Fog,Summer,0,0,227.9,Industrial,0,5.31,70,2023-08
+SHP01285,2023-06-06,Mumbai,Pune,2333,Bike,Road,Ecom Express,3,Clear,Summer,0,0,108.1,Apparel,0,5.44,52,2023-06
+SHP01286,2023-03-06,Delhi,Pune,2087,Train,Rail,Delhivery,4,Fog,Spring,0,0,479.7,Furniture,0,5.84,56,2023-03
+SHP01287,2024-04-03,Chennai,Mumbai,1203,Train,Rail,Blue Dart,2,Storm,Spring,0,0,405.3,Medical,1,6.65,86,2024-04
+SHP01288,2024-09-04,Hyderabad,Delhi,1833,Ship,Sea,Blue Dart,4,Rain,Monsoon,0,1,184.0,Apparel,0,6.2,57,2024-09
+SHP01289,2024-10-16,Hyderabad,Pune,2280,Van,Road,Ecom Express,3,Storm,Monsoon,0,1,173.7,Perishable,1,8.03,91,2024-10
+SHP01290,2023-03-30,Hyderabad,Chennai,1473,Bike,Road,Ecom Express,2,Fog,Spring,0,0,301.3,Perishable,1,6.02,77,2023-03
+SHP01291,2024-06-02,Delhi,Chennai,1413,Bike,Road,Ecom Express,4,Fog,Summer,1,0,459.2,Medical,1,5.6,62,2024-06
+SHP01292,2024-05-28,Pune,Delhi,703,Ship,Sea,DTDC,2,Rain,Spring,0,0,272.2,Industrial,0,5.54,64,2024-05
+SHP01293,2023-12-09,Chennai,Pune,475,Ship,Sea,Ecom Express,1,Storm,Winter,1,1,244.8,Furniture,0,6.91,86,2023-12
+SHP01294,2023-04-19,Pune,Hyderabad,2296,Train,Rail,Delhivery,5,Fog,Spring,0,0,113.3,Medical,1,5.26,53,2023-04
+SHP01295,2023-03-15,Ahmedabad,Mumbai,1908,Van,Road,Ecom Express,2,Clear,Spring,0,0,347.6,Furniture,0,5.3,57,2023-03
+SHP01296,2023-05-04,Delhi,Chennai,907,Ship,Sea,Blue Dart,1,Rain,Spring,0,0,103.9,Medical,1,6.2,83,2023-05
+SHP01297,2024-02-17,Hyderabad,Pune,342,Truck,Road,Blue Dart,3,Fog,Winter,1,1,5.8,Industrial,0,4.72,53,2024-02
+SHP01298,2024-05-26,Ahmedabad,Delhi,903,Bike,Road,Ecom Express,4,Fog,Spring,1,0,160.2,Electronics,1,5.12,58,2024-05
+SHP01299,2024-01-25,Ahmedabad,Delhi,1097,Train,Rail,DTDC,4,Clear,Winter,0,1,19.8,Apparel,0,3.72,33,2024-01
+SHP01300,2023-12-12,Ahmedabad,Chennai,1082,Ship,Sea,Delhivery,1,Clear,Winter,0,1,121.1,Apparel,0,5.28,63,2023-12
+SHP01301,2024-12-01,Mumbai,Delhi,190,Bike,Road,Delhivery,3,Fog,Winter,1,1,64.6,Medical,1,4.8,62,2024-12
+SHP01302,2024-07-02,Pune,Ahmedabad,1870,Truck,Road,DTDC,5,Rain,Summer,0,0,327.0,Electronics,1,4.74,48,2024-07
+SHP01303,2023-06-16,Kolkata,Ahmedabad,1087,Ship,Sea,Delhivery,1,Fog,Summer,0,0,20.4,Industrial,0,6.31,77,2023-06
+SHP01304,2024-10-31,Delhi,Kolkata,684,Truck,Road,DTDC,2,Fog,Monsoon,0,1,452.8,Apparel,0,5.81,68,2024-10
+SHP01305,2024-03-31,Chennai,Pune,229,Bike,Road,FedEx,2,Rain,Spring,1,0,404.3,Electronics,1,4.1,61,2024-03
+SHP01306,2024-06-21,Delhi,Pune,2355,Truck,Road,FedEx,4,Fog,Summer,0,0,448.9,Furniture,0,6.69,62,2024-06
+SHP01307,2024-03-08,Pune,Kolkata,2276,Truck,Road,Blue Dart,4,Fog,Spring,0,0,33.9,Electronics,1,6.41,68,2024-03
+SHP01308,2023-03-30,Delhi,Bangalore,1514,Train,Rail,Delhivery,4,Rain,Spring,0,0,285.4,Medical,1,6.08,64,2023-03
+SHP01309,2024-11-03,Ahmedabad,Delhi,854,Train,Rail,Ecom Express,5,Storm,Monsoon,1,1,93.2,Apparel,0,5.4,51,2024-11
+SHP01310,2024-06-06,Hyderabad,Delhi,879,Van,Road,DTDC,3,Rain,Summer,0,0,394.1,Electronics,1,4.93,61,2024-06
+SHP01311,2024-05-06,Hyderabad,Mumbai,2198,Bike,Road,FedEx,5,Clear,Spring,0,0,400.7,Perishable,1,4.02,38,2024-05
+SHP01312,2023-05-11,Bangalore,Pune,927,Truck,Road,Ecom Express,2,Fog,Spring,0,0,429.0,Perishable,1,5.38,72,2023-05
+SHP01313,2024-02-28,Chennai,Pune,328,Train,Rail,Ecom Express,5,Clear,Winter,0,1,420.0,Furniture,0,2.97,22,2024-02
+SHP01314,2024-11-18,Delhi,Bangalore,1714,Truck,Road,FedEx,4,Clear,Monsoon,0,1,363.4,Furniture,0,4.56,40,2024-11
+SHP01315,2024-10-12,Pune,Hyderabad,1650,Train,Rail,Delhivery,5,Rain,Monsoon,1,1,79.1,Industrial,0,5.04,42,2024-10
+SHP01316,2023-05-30,Mumbai,Pune,357,Train,Rail,DTDC,5,Clear,Spring,0,0,386.6,Electronics,1,2.25,24,2023-05
+SHP01317,2024-07-02,Kolkata,Ahmedabad,1563,Bike,Road,DTDC,4,Storm,Summer,0,0,302.8,Furniture,0,6.25,63,2024-07
+SHP01318,2024-05-16,Mumbai,Pune,2047,Train,Rail,DTDC,5,Rain,Spring,0,0,487.6,Industrial,0,4.86,41,2024-05
+SHP01319,2024-06-09,Kolkata,Hyderabad,2167,Ship,Sea,FedEx,1,Storm,Summer,1,0,114.3,Furniture,0,8.82,100,2024-06
+SHP01320,2024-09-04,Kolkata,Bangalore,1477,Bike,Road,Ecom Express,2,Storm,Monsoon,0,1,212.2,Medical,1,7.33,91,2024-09
+SHP01321,2024-04-18,Hyderabad,Mumbai,821,Ship,Sea,Delhivery,2,Storm,Spring,0,0,291.1,Perishable,1,6.99,89,2024-04
+SHP01322,2024-02-06,Hyderabad,Mumbai,1243,Van,Road,Delhivery,2,Storm,Winter,0,1,242.4,Furniture,0,7.51,85,2024-02
+SHP01323,2023-05-08,Mumbai,Chennai,2377,Train,Rail,Delhivery,5,Storm,Spring,0,0,483.3,Industrial,0,6.72,61,2023-05
+SHP01324,2023-09-30,Pune,Mumbai,823,Bike,Road,Ecom Express,4,Fog,Monsoon,1,1,26.0,Apparel,0,4.61,47,2023-09
+SHP01325,2023-05-24,Hyderabad,Delhi,2055,Ship,Sea,DTDC,1,Fog,Spring,0,0,91.0,Furniture,0,8.07,91,2023-05
+SHP01326,2023-04-09,Bangalore,Ahmedabad,218,Truck,Road,Ecom Express,3,Clear,Spring,1,0,462.9,Medical,1,1.82,33,2023-04
+SHP01327,2023-10-11,Hyderabad,Kolkata,1783,Van,Road,Blue Dart,1,Clear,Monsoon,0,1,142.5,Perishable,1,6.02,77,2023-10
+SHP01328,2024-08-21,Delhi,Hyderabad,2387,Bike,Road,Delhivery,5,Storm,Summer,0,0,158.7,Perishable,1,7.57,75,2024-08
+SHP01329,2024-05-12,Kolkata,Ahmedabad,753,Train,Rail,Delhivery,2,Clear,Spring,1,0,62.7,Perishable,1,4.09,56,2024-05
+SHP01330,2023-09-02,Mumbai,Delhi,1932,Ship,Sea,Delhivery,2,Rain,Monsoon,1,1,335.7,Apparel,0,7.07,76,2023-09
+SHP01331,2023-03-25,Mumbai,Ahmedabad,2424,Ship,Sea,Delhivery,4,Fog,Spring,1,0,204.6,Apparel,0,6.61,62,2023-03
+SHP01332,2024-05-18,Chennai,Pune,1624,Ship,Sea,Ecom Express,4,Clear,Spring,1,0,218.6,Industrial,0,4.99,43,2024-05
+SHP01333,2023-07-30,Ahmedabad,Kolkata,1452,Bike,Road,Ecom Express,1,Fog,Summer,1,0,186.8,Medical,1,7.4,94,2023-07
+SHP01334,2023-10-08,Hyderabad,Chennai,1596,Van,Road,Delhivery,4,Rain,Monsoon,1,1,124.8,Furniture,0,5.88,55,2023-10
+SHP01335,2023-01-23,Mumbai,Kolkata,995,Train,Rail,Blue Dart,5,Fog,Winter,0,1,194.7,Furniture,0,4.18,37,2023-01
+SHP01336,2023-10-03,Hyderabad,Mumbai,1837,Train,Rail,DTDC,4,Clear,Monsoon,0,1,183.6,Furniture,0,4.83,42,2023-10
+SHP01337,2024-01-09,Delhi,Kolkata,2010,Van,Road,Ecom Express,2,Rain,Winter,0,1,24.5,Perishable,1,7.88,90,2024-01
+SHP01338,2023-06-02,Kolkata,Chennai,428,Ship,Sea,FedEx,5,Clear,Summer,0,0,146.9,Apparel,0,2.79,20,2023-06
+SHP01339,2023-04-05,Mumbai,Bangalore,1190,Van,Road,FedEx,2,Fog,Spring,0,0,310.7,Industrial,0,4.66,59,2023-04
+SHP01340,2023-07-20,Chennai,Delhi,770,Bike,Road,DTDC,5,Fog,Summer,0,0,301.5,Electronics,1,3.43,40,2023-07
+SHP01341,2024-01-13,Ahmedabad,Kolkata,325,Truck,Road,Ecom Express,3,Rain,Winter,1,1,361.7,Perishable,1,4.71,60,2024-01
+SHP01342,2023-05-19,Delhi,Kolkata,85,Bike,Road,Ecom Express,2,Storm,Spring,0,0,83.9,Apparel,0,4.62,63,2023-05
+SHP01343,2024-04-10,Ahmedabad,Mumbai,688,Van,Road,Ecom Express,2,Storm,Spring,0,0,88.0,Electronics,1,5.77,80,2024-04
+SHP01344,2024-05-16,Ahmedabad,Kolkata,223,Truck,Road,Blue Dart,4,Rain,Spring,0,0,338.9,Apparel,0,2.73,31,2024-05
+SHP01345,2023-09-15,Pune,Ahmedabad,2304,Ship,Sea,Ecom Express,4,Fog,Monsoon,0,1,262.0,Apparel,0,7.73,70,2023-09
+SHP01346,2024-09-10,Kolkata,Delhi,567,Truck,Road,Ecom Express,2,Clear,Monsoon,0,1,452.1,Apparel,0,4.63,52,2024-09
+SHP01347,2023-01-17,Chennai,Ahmedabad,1589,Bike,Road,FedEx,3,Clear,Winter,0,1,108.2,Medical,1,4.82,56,2023-01
+SHP01348,2024-03-25,Delhi,Bangalore,2468,Van,Road,Delhivery,3,Fog,Spring,0,0,126.8,Apparel,0,6.4,66,2024-03
+SHP01349,2023-09-09,Pune,Delhi,1960,Train,Rail,DTDC,3,Rain,Monsoon,1,1,473.9,Medical,1,7.21,79,2023-09
+SHP01350,2024-06-08,Kolkata,Bangalore,267,Bike,Road,DTDC,4,Fog,Summer,1,0,276.0,Electronics,1,3.78,48,2024-06
+SHP01351,2023-04-14,Bangalore,Delhi,2013,Truck,Road,Delhivery,3,Storm,Spring,0,0,73.4,Medical,1,7.44,86,2023-04
+SHP01352,2024-09-19,Pune,Bangalore,2136,Van,Road,Blue Dart,5,Storm,Monsoon,0,1,230.4,Industrial,0,7.05,63,2024-09
+SHP01353,2024-05-14,Ahmedabad,Pune,1387,Bike,Road,Ecom Express,3,Clear,Spring,0,0,217.0,Industrial,0,4.66,46,2024-05
+SHP01354,2024-10-12,Ahmedabad,Hyderabad,2369,Ship,Sea,DTDC,1,Rain,Monsoon,1,1,133.9,Perishable,1,8.93,100,2024-10
+SHP01355,2023-02-15,Chennai,Delhi,854,Truck,Road,FedEx,5,Fog,Winter,0,1,151.8,Perishable,1,5.05,52,2023-02
+SHP01356,2023-02-08,Mumbai,Bangalore,1760,Van,Road,Delhivery,4,Storm,Winter,0,1,133.1,Apparel,0,7.45,72,2023-02
+SHP01357,2024-04-15,Mumbai,Pune,320,Van,Road,DTDC,4,Rain,Spring,0,0,405.9,Furniture,0,2.58,30,2024-04
+SHP01358,2024-08-31,Kolkata,Ahmedabad,1970,Bike,Road,FedEx,5,Storm,Summer,1,0,389.3,Perishable,1,5.58,60,2024-08
+SHP01359,2024-02-19,Kolkata,Chennai,976,Truck,Road,FedEx,4,Fog,Winter,0,1,26.1,Industrial,0,4.49,46,2024-02
+SHP01360,2023-04-11,Ahmedabad,Mumbai,486,Van,Road,Delhivery,5,Rain,Spring,0,0,348.8,Industrial,0,3.76,33,2023-04
+SHP01361,2023-09-06,Kolkata,Delhi,1536,Train,Rail,Ecom Express,4,Fog,Monsoon,0,1,81.6,Apparel,0,6.09,58,2023-09
+SHP01362,2023-02-01,Pune,Chennai,1335,Truck,Road,DTDC,4,Fog,Winter,0,1,167.2,Furniture,0,5.68,55,2023-02
+SHP01363,2024-03-16,Chennai,Kolkata,534,Bike,Road,DTDC,2,Fog,Spring,1,0,424.8,Furniture,0,4.89,61,2024-03
+SHP01364,2023-03-26,Mumbai,Delhi,1426,Van,Road,Ecom Express,5,Storm,Spring,1,0,41.6,Medical,1,7.11,72,2023-03
+SHP01365,2023-01-03,Bangalore,Delhi,84,Van,Road,DTDC,5,Fog,Winter,0,1,235.9,Electronics,1,4.59,48,2023-01
+SHP01366,2023-04-13,Kolkata,Bangalore,1552,Bike,Road,Blue Dart,5,Clear,Spring,0,0,20.0,Industrial,0,3.98,29,2023-04
+SHP01367,2024-05-17,Pune,Ahmedabad,387,Truck,Road,Delhivery,5,Clear,Spring,0,0,54.2,Industrial,0,1.97,14,2024-05
+SHP01368,2024-10-20,Kolkata,Mumbai,343,Ship,Sea,Blue Dart,3,Rain,Monsoon,1,1,388.1,Industrial,0,5.58,58,2024-10
+SHP01369,2023-12-13,Pune,Ahmedabad,443,Train,Rail,FedEx,5,Rain,Winter,0,1,332.7,Medical,1,3.0,35,2023-12
+SHP01370,2023-12-01,Kolkata,Pune,2134,Bike,Road,DTDC,3,Fog,Winter,0,1,105.7,Apparel,0,6.93,70,2023-12
+SHP01371,2024-04-04,Bangalore,Delhi,659,Van,Road,Blue Dart,1,Clear,Spring,0,0,63.5,Medical,1,4.46,65,2024-04
+SHP01372,2024-11-15,Mumbai,Pune,1360,Ship,Sea,DTDC,2,Fog,Monsoon,0,1,471.3,Industrial,0,7.45,80,2024-11
+SHP01373,2023-07-16,Bangalore,Kolkata,2457,Bike,Road,Blue Dart,2,Fog,Summer,1,0,172.9,Electronics,1,7.92,91,2023-07
+SHP01374,2023-05-17,Hyderabad,Chennai,1082,Train,Rail,DTDC,2,Fog,Spring,0,0,408.0,Medical,1,6.0,77,2023-05
+SHP01375,2023-04-06,Kolkata,Chennai,1779,Bike,Road,Blue Dart,5,Rain,Spring,0,0,243.7,Furniture,0,4.95,42,2023-04
+SHP01376,2023-02-09,Bangalore,Kolkata,1033,Ship,Sea,FedEx,5,Fog,Winter,0,1,385.5,Medical,1,5.85,58,2023-02
+SHP01377,2024-05-28,Mumbai,Kolkata,1527,Bike,Road,FedEx,5,Storm,Spring,0,0,101.3,Perishable,1,5.29,58,2024-05
+SHP01378,2023-02-10,Pune,Ahmedabad,2118,Bike,Road,Ecom Express,5,Fog,Winter,0,1,227.7,Medical,1,6.85,65,2023-02
+SHP01379,2024-02-22,Hyderabad,Delhi,2470,Ship,Sea,Blue Dart,3,Fog,Winter,0,1,294.9,Electronics,1,7.11,79,2024-02
+SHP01380,2023-11-04,Ahmedabad,Bangalore,1948,Ship,Sea,FedEx,5,Rain,Monsoon,1,1,445.8,Electronics,1,6.52,61,2023-11
+SHP01381,2023-08-16,Chennai,Delhi,989,Ship,Sea,FedEx,3,Fog,Summer,0,0,476.0,Apparel,0,5.11,56,2023-08
+SHP01382,2024-08-17,Delhi,Kolkata,245,Truck,Road,Blue Dart,3,Fog,Summer,1,0,107.1,Medical,1,4.17,57,2024-08
+SHP01383,2024-11-02,Bangalore,Hyderabad,2312,Bike,Road,DTDC,1,Rain,Monsoon,1,1,100.5,Medical,1,7.57,93,2024-11
+SHP01384,2023-10-27,Bangalore,Pune,1055,Train,Rail,Delhivery,1,Clear,Monsoon,0,1,336.1,Apparel,0,4.65,58,2023-10
+SHP01385,2024-07-09,Kolkata,Bangalore,712,Train,Rail,FedEx,2,Rain,Summer,0,0,345.9,Medical,1,5.4,71,2024-07
+SHP01386,2024-04-07,Mumbai,Ahmedabad,547,Truck,Road,FedEx,2,Clear,Spring,1,0,169.1,Industrial,0,3.82,46,2024-04
+SHP01387,2023-04-05,Mumbai,Chennai,2239,Train,Rail,DTDC,5,Clear,Spring,0,0,176.9,Apparel,0,4.66,34,2023-04
+SHP01388,2023-06-14,Bangalore,Chennai,1075,Truck,Road,Blue Dart,5,Clear,Summer,0,0,261.3,Medical,1,2.77,28,2023-06
+SHP01389,2024-03-18,Pune,Ahmedabad,2240,Van,Road,Blue Dart,4,Storm,Spring,0,0,52.2,Industrial,0,6.81,68,2024-03
+SHP01390,2024-11-03,Chennai,Ahmedabad,736,Van,Road,Ecom Express,5,Fog,Monsoon,1,1,466.9,Apparel,0,4.15,37,2024-11
+SHP01391,2024-04-08,Delhi,Mumbai,2333,Train,Rail,FedEx,4,Storm,Spring,0,0,94.4,Industrial,0,6.06,62,2024-04
+SHP01392,2023-04-09,Mumbai,Bangalore,1575,Bike,Road,FedEx,4,Clear,Spring,1,0,297.5,Industrial,0,4.79,41,2023-04
+SHP01393,2023-02-03,Mumbai,Hyderabad,527,Ship,Sea,DTDC,2,Fog,Winter,0,1,393.2,Medical,1,5.75,75,2023-02
+SHP01394,2023-09-22,Bangalore,Pune,1793,Bike,Road,Blue Dart,1,Clear,Monsoon,0,1,407.9,Perishable,1,5.87,76,2023-09
+SHP01395,2023-11-12,Mumbai,Kolkata,1199,Bike,Road,Ecom Express,4,Clear,Monsoon,1,1,369.4,Apparel,0,4.97,43,2023-11
+SHP01396,2023-04-08,Hyderabad,Delhi,1392,Van,Road,Ecom Express,1,Rain,Spring,1,0,487.3,Furniture,0,6.25,75,2023-04
+SHP01397,2023-10-11,Chennai,Delhi,1353,Truck,Road,Ecom Express,2,Rain,Monsoon,0,1,156.1,Industrial,0,6.31,70,2023-10
+SHP01398,2023-02-11,Mumbai,Kolkata,376,Ship,Sea,Ecom Express,5,Storm,Winter,1,1,156.3,Apparel,0,4.44,44,2023-02
+SHP01399,2023-01-05,Mumbai,Hyderabad,430,Bike,Road,Delhivery,3,Clear,Winter,0,1,53.9,Apparel,0,3.72,39,2023-01
+SHP01400,2023-06-22,Mumbai,Chennai,1712,Ship,Sea,Delhivery,1,Storm,Summer,0,0,93.0,Industrial,0,8.15,96,2023-06
+SHP01401,2023-01-06,Chennai,Kolkata,475,Truck,Road,Delhivery,4,Rain,Winter,0,1,340.9,Furniture,0,3.57,37,2023-01
+SHP01402,2024-11-13,Chennai,Hyderabad,818,Train,Rail,Blue Dart,5,Rain,Monsoon,0,1,194.5,Industrial,0,3.62,32,2024-11
+SHP01403,2023-09-13,Kolkata,Bangalore,1248,Bike,Road,Ecom Express,2,Fog,Monsoon,0,1,308.4,Electronics,1,6.3,79,2023-09
+SHP01404,2023-05-12,Kolkata,Pune,2088,Truck,Road,Ecom Express,1,Fog,Spring,0,0,288.5,Medical,1,7.4,94,2023-05
+SHP01405,2023-02-17,Chennai,Pune,2426,Truck,Road,Blue Dart,2,Rain,Winter,0,1,365.8,Medical,1,6.91,82,2023-02
+SHP01406,2023-04-20,Delhi,Kolkata,1182,Truck,Road,Delhivery,5,Clear,Spring,0,0,171.0,Apparel,0,4.03,30,2023-04
+SHP01407,2024-06-15,Pune,Hyderabad,641,Van,Road,FedEx,1,Storm,Summer,1,0,340.3,Apparel,0,5.56,76,2024-06
+SHP01408,2023-10-08,Ahmedabad,Chennai,647,Van,Road,Delhivery,4,Storm,Monsoon,1,1,219.0,Furniture,0,4.81,53,2023-10
+SHP01409,2023-10-24,Ahmedabad,Kolkata,62,Train,Rail,Blue Dart,4,Rain,Monsoon,0,1,102.3,Electronics,1,3.5,45,2023-10
+SHP01410,2023-11-07,Ahmedabad,Bangalore,1194,Van,Road,DTDC,4,Clear,Monsoon,0,1,322.3,Apparel,0,4.01,36,2023-11
+SHP01411,2024-03-24,Ahmedabad,Mumbai,872,Bike,Road,FedEx,4,Fog,Spring,1,0,452.5,Electronics,1,4.32,52,2024-03
+SHP01412,2023-09-18,Hyderabad,Kolkata,1625,Van,Road,Blue Dart,5,Rain,Monsoon,0,1,345.1,Furniture,0,4.25,36,2023-09
+SHP01413,2023-09-16,Chennai,Bangalore,2165,Bike,Road,Blue Dart,4,Clear,Monsoon,1,1,405.0,Medical,1,6.16,60,2023-09
+SHP01414,2023-12-02,Bangalore,Delhi,2402,Ship,Sea,Ecom Express,2,Fog,Winter,1,1,384.4,Industrial,0,8.25,86,2023-12
+SHP01415,2023-11-10,Bangalore,Delhi,1769,Ship,Sea,DTDC,3,Clear,Monsoon,0,1,360.6,Apparel,0,5.83,55,2023-11
+SHP01416,2023-07-20,Ahmedabad,Kolkata,2451,Van,Road,Blue Dart,4,Storm,Summer,0,0,445.2,Furniture,0,8.12,77,2023-07
+SHP01417,2024-03-17,Ahmedabad,Mumbai,237,Bike,Road,Delhivery,3,Fog,Spring,1,0,478.8,Electronics,1,3.76,54,2024-03
+SHP01418,2023-03-16,Pune,Kolkata,611,Van,Road,Delhivery,4,Clear,Spring,0,0,51.8,Industrial,0,2.6,25,2023-03
+SHP01419,2023-09-20,Mumbai,Delhi,1857,Van,Road,Delhivery,2,Rain,Monsoon,0,1,6.3,Industrial,0,5.36,63,2023-09
+SHP01420,2023-09-14,Mumbai,Delhi,2461,Train,Rail,FedEx,2,Clear,Monsoon,0,1,395.7,Industrial,0,6.64,67,2023-09
+SHP01421,2024-05-16,Delhi,Ahmedabad,1037,Truck,Road,Ecom Express,4,Storm,Spring,0,0,408.6,Perishable,1,6.28,72,2024-05
+SHP01422,2023-12-24,Delhi,Kolkata,459,Truck,Road,Ecom Express,5,Rain,Winter,1,1,467.4,Apparel,0,3.14,28,2023-12
+SHP01423,2023-06-26,Kolkata,Mumbai,2328,Van,Road,Ecom Express,1,Clear,Summer,0,0,411.2,Perishable,1,6.47,80,2023-06
+SHP01424,2024-04-05,Delhi,Pune,852,Van,Road,FedEx,2,Rain,Spring,0,0,113.2,Perishable,1,4.17,62,2024-04
+SHP01425,2023-03-06,Bangalore,Pune,178,Truck,Road,FedEx,2,Storm,Spring,0,0,416.9,Perishable,1,5.31,76,2023-03
+SHP01426,2023-06-11,Mumbai,Ahmedabad,1584,Truck,Road,DTDC,5,Rain,Summer,1,0,106.3,Perishable,1,5.67,55,2023-06
+SHP01427,2023-06-11,Hyderabad,Chennai,1750,Truck,Road,Delhivery,4,Rain,Summer,1,0,414.5,Industrial,0,5.03,48,2023-06
+SHP01428,2023-08-08,Kolkata,Hyderabad,1889,Train,Rail,FedEx,2,Fog,Summer,0,0,463.1,Electronics,1,6.03,77,2023-08
+SHP01429,2024-08-18,Mumbai,Ahmedabad,853,Train,Rail,Ecom Express,3,Fog,Summer,1,0,58.1,Medical,1,5.36,66,2024-08
+SHP01430,2023-07-04,Delhi,Hyderabad,2235,Truck,Road,DTDC,5,Fog,Summer,0,0,269.7,Perishable,1,6.7,64,2023-07
+SHP01431,2024-07-04,Hyderabad,Kolkata,567,Van,Road,Delhivery,1,Clear,Summer,0,0,47.2,Furniture,0,3.5,50,2024-07
+SHP01432,2024-10-13,Chennai,Pune,780,Truck,Road,Delhivery,4,Fog,Monsoon,1,1,45.1,Perishable,1,5.56,62,2024-10
+SHP01433,2023-10-10,Bangalore,Pune,1861,Truck,Road,FedEx,4,Clear,Monsoon,0,1,496.4,Furniture,0,5.73,48,2023-10
+SHP01434,2023-07-14,Mumbai,Delhi,161,Truck,Road,FedEx,1,Clear,Summer,0,0,240.6,Electronics,1,3.37,57,2023-07
+SHP01435,2023-11-17,Bangalore,Chennai,1848,Ship,Sea,Ecom Express,3,Clear,Monsoon,0,1,189.8,Electronics,1,6.37,67,2023-11
+SHP01436,2024-05-17,Ahmedabad,Bangalore,1237,Bike,Road,Blue Dart,3,Rain,Spring,0,0,261.3,Electronics,1,4.22,56,2024-05
+SHP01437,2024-06-03,Ahmedabad,Delhi,666,Van,Road,FedEx,3,Clear,Summer,0,0,217.6,Electronics,1,3.32,44,2024-06
+SHP01438,2024-06-12,Hyderabad,Pune,1120,Van,Road,FedEx,4,Storm,Summer,0,0,137.9,Perishable,1,5.58,66,2024-06
+SHP01439,2023-10-03,Bangalore,Ahmedabad,1709,Train,Rail,Delhivery,5,Clear,Monsoon,0,1,256.1,Furniture,0,4.3,32,2023-10
+SHP01440,2024-02-21,Ahmedabad,Delhi,1320,Van,Road,Blue Dart,5,Fog,Winter,0,1,104.4,Apparel,0,4.98,43,2024-02
+SHP01441,2023-03-04,Bangalore,Delhi,2336,Train,Rail,Blue Dart,5,Storm,Spring,1,0,134.3,Electronics,1,7.77,77,2023-03
+SHP01442,2024-04-30,Bangalore,Hyderabad,1085,Ship,Sea,FedEx,1,Clear,Spring,0,0,249.5,Perishable,1,4.39,64,2024-04
+SHP01443,2023-09-06,Pune,Bangalore,2162,Van,Road,Ecom Express,4,Rain,Monsoon,0,1,77.9,Electronics,1,6.99,71,2023-09
+SHP01444,2023-09-06,Bangalore,Delhi,1258,Van,Road,DTDC,5,Storm,Monsoon,0,1,439.8,Medical,1,6.5,67,2023-09
+SHP01445,2023-09-15,Kolkata,Ahmedabad,584,Bike,Road,Delhivery,5,Fog,Monsoon,0,1,41.5,Electronics,1,4.28,46,2023-09
+SHP01446,2023-08-23,Bangalore,Kolkata,1646,Van,Road,FedEx,3,Storm,Summer,0,0,360.7,Furniture,0,6.05,68,2023-08
+SHP01447,2024-01-22,Mumbai,Kolkata,1442,Ship,Sea,Delhivery,2,Storm,Winter,0,1,154.2,Furniture,0,8.12,89,2024-01
+SHP01448,2024-05-27,Chennai,Hyderabad,2222,Ship,Sea,Blue Dart,1,Rain,Spring,0,0,259.6,Furniture,0,6.8,80,2024-05
+SHP01449,2024-10-16,Kolkata,Pune,1408,Van,Road,FedEx,4,Clear,Monsoon,0,1,29.2,Furniture,0,4.02,36,2024-10
+SHP01450,2023-08-16,Mumbai,Kolkata,905,Bike,Road,Ecom Express,2,Storm,Summer,0,0,403.4,Electronics,1,6.82,88,2023-08
+SHP01451,2023-02-19,Mumbai,Hyderabad,418,Truck,Road,Ecom Express,5,Fog,Winter,1,1,303.4,Perishable,1,4.86,50,2023-02
+SHP01452,2024-02-21,Chennai,Delhi,860,Train,Rail,DTDC,2,Rain,Winter,0,1,427.5,Medical,1,5.54,72,2024-02
+SHP01453,2024-05-27,Mumbai,Kolkata,364,Truck,Road,FedEx,5,Fog,Spring,0,0,429.3,Industrial,0,3.28,31,2024-05
+SHP01454,2024-02-29,Mumbai,Chennai,84,Truck,Road,Blue Dart,2,Rain,Winter,0,1,56.5,Perishable,1,3.99,60,2024-02
+SHP01455,2024-05-24,Ahmedabad,Hyderabad,2496,Ship,Sea,DTDC,1,Rain,Spring,0,0,132.3,Furniture,0,8.19,90,2024-05
+SHP01456,2023-03-01,Hyderabad,Mumbai,1751,Truck,Road,DTDC,5,Rain,Spring,0,0,38.6,Industrial,0,4.71,40,2023-03
+SHP01457,2024-02-11,Chennai,Mumbai,340,Truck,Road,Blue Dart,5,Storm,Winter,1,1,265.2,Furniture,0,4.96,48,2024-02
+SHP01458,2024-04-07,Mumbai,Bangalore,1718,Van,Road,Delhivery,2,Rain,Spring,1,0,137.9,Furniture,0,5.56,64,2024-04
+SHP01459,2024-07-02,Bangalore,Hyderabad,1763,Truck,Road,Blue Dart,1,Storm,Summer,0,0,203.9,Medical,1,8.08,100,2024-07
+SHP01460,2023-02-17,Pune,Ahmedabad,137,Bike,Road,DTDC,2,Fog,Winter,0,1,259.9,Electronics,1,5.0,70,2023-02
+SHP01461,2023-07-28,Delhi,Hyderabad,527,Van,Road,Blue Dart,4,Clear,Summer,0,0,181.0,Apparel,0,2.34,23,2023-07
+SHP01462,2023-06-29,Chennai,Delhi,161,Train,Rail,Blue Dart,2,Fog,Summer,0,0,383.9,Furniture,0,3.36,49,2023-06
+SHP01463,2023-04-22,Pune,Kolkata,1444,Bike,Road,Ecom Express,1,Fog,Spring,1,0,243.0,Apparel,0,5.72,73,2023-04
+SHP01464,2023-11-08,Mumbai,Bangalore,634,Ship,Sea,FedEx,2,Storm,Monsoon,0,1,448.2,Electronics,1,6.89,88,2023-11
+SHP01465,2024-11-14,Ahmedabad,Pune,2211,Train,Rail,FedEx,2,Storm,Monsoon,0,1,456.4,Medical,1,8.29,99,2024-11
+SHP01466,2024-11-14,Delhi,Mumbai,238,Van,Road,Ecom Express,2,Storm,Monsoon,0,1,185.6,Medical,1,5.76,80,2024-11
+SHP01467,2024-08-10,Kolkata,Bangalore,123,Ship,Sea,Ecom Express,1,Storm,Summer,1,0,91.3,Electronics,1,6.28,90,2024-08
+SHP01468,2024-11-03,Pune,Ahmedabad,1095,Ship,Sea,Ecom Express,2,Fog,Monsoon,1,1,148.6,Industrial,0,6.44,72,2024-11
+SHP01469,2024-08-05,Pune,Hyderabad,1918,Truck,Road,Delhivery,5,Storm,Summer,0,0,124.5,Furniture,0,6.12,56,2024-08
+SHP01470,2023-08-17,Mumbai,Bangalore,2099,Bike,Road,Delhivery,5,Rain,Summer,0,0,147.6,Perishable,1,5.28,52,2023-08
+SHP01471,2024-02-12,Ahmedabad,Mumbai,1810,Train,Rail,DTDC,5,Clear,Winter,0,1,320.3,Apparel,0,4.68,35,2024-02
+SHP01472,2024-11-17,Chennai,Bangalore,175,Train,Rail,FedEx,2,Rain,Monsoon,1,1,331.4,Furniture,0,2.84,44,2024-11
+SHP01473,2024-11-10,Hyderabad,Chennai,1049,Ship,Sea,FedEx,2,Clear,Monsoon,1,1,59.3,Perishable,1,5.67,68,2024-11
+SHP01474,2024-11-07,Bangalore,Kolkata,1828,Bike,Road,DTDC,1,Rain,Monsoon,0,1,133.4,Industrial,0,6.4,77,2024-11
+SHP01475,2024-07-29,Chennai,Delhi,1616,Ship,Sea,DTDC,4,Storm,Summer,0,0,241.2,Apparel,0,7.67,74,2024-07
+SHP01476,2023-07-16,Mumbai,Chennai,646,Van,Road,Ecom Express,5,Storm,Summer,1,0,388.7,Apparel,0,5.05,48,2023-07
+SHP01477,2023-01-31,Delhi,Ahmedabad,2267,Van,Road,Ecom Express,2,Storm,Winter,0,1,416.3,Perishable,1,8.3,99,2023-01
+SHP01478,2024-02-01,Delhi,Mumbai,76,Ship,Sea,DTDC,4,Fog,Winter,0,1,252.2,Electronics,1,4.8,56,2024-02
+SHP01479,2024-06-24,Mumbai,Kolkata,382,Van,Road,Blue Dart,5,Storm,Summer,0,0,28.5,Medical,1,4.18,50,2024-06
+SHP01480,2024-08-19,Chennai,Ahmedabad,349,Bike,Road,DTDC,1,Fog,Summer,0,0,474.7,Medical,1,5.14,77,2024-08
+SHP01481,2024-05-22,Kolkata,Delhi,1734,Van,Road,Delhivery,1,Storm,Spring,0,0,220.6,Industrial,0,7.22,89,2024-05
+SHP01482,2024-07-22,Hyderabad,Delhi,1889,Van,Road,Delhivery,4,Fog,Summer,0,0,399.4,Medical,1,6.19,66,2024-07
+SHP01483,2024-02-11,Kolkata,Delhi,2065,Train,Rail,Delhivery,4,Clear,Winter,1,1,468.3,Medical,1,5.45,54,2024-02
+SHP01484,2024-01-02,Bangalore,Chennai,849,Van,Road,Delhivery,2,Fog,Winter,0,1,357.6,Perishable,1,5.73,75,2024-01
+SHP01485,2023-07-29,Ahmedabad,Delhi,879,Bike,Road,DTDC,4,Clear,Summer,1,0,424.8,Perishable,1,3.43,39,2023-07
+SHP01486,2024-06-09,Chennai,Ahmedabad,719,Truck,Road,Delhivery,4,Clear,Summer,1,0,489.8,Furniture,0,3.28,30,2024-06
+SHP01487,2024-04-03,Chennai,Mumbai,592,Train,Rail,DTDC,4,Storm,Spring,0,0,37.6,Medical,1,4.87,61,2024-04
+SHP01488,2024-06-06,Pune,Bangalore,2477,Truck,Road,Blue Dart,2,Storm,Summer,0,0,22.0,Electronics,1,8.4,100,2024-06
+SHP01489,2023-09-14,Chennai,Pune,1816,Bike,Road,Delhivery,3,Clear,Monsoon,0,1,416.1,Apparel,0,4.96,49,2023-09
+SHP01490,2023-06-15,Delhi,Ahmedabad,630,Train,Rail,Delhivery,4,Rain,Summer,0,0,319.7,Apparel,0,3.59,37,2023-06
+SHP01491,2024-08-09,Pune,Mumbai,2462,Ship,Sea,Delhivery,2,Clear,Summer,0,0,273.3,Medical,1,6.99,78,2024-08
+SHP01492,2024-06-11,Mumbai,Ahmedabad,1843,Van,Road,Ecom Express,4,Rain,Summer,0,0,89.0,Medical,1,5.08,57,2024-06
+SHP01493,2024-08-25,Delhi,Kolkata,1354,Train,Rail,Delhivery,1,Storm,Summer,1,0,272.5,Medical,1,6.94,95,2024-08
+SHP01494,2024-06-14,Chennai,Kolkata,537,Train,Rail,DTDC,4,Clear,Summer,0,0,390.1,Perishable,1,3.33,38,2024-06
+SHP01495,2023-06-25,Mumbai,Pune,113,Bike,Road,Ecom Express,1,Fog,Summer,1,0,90.6,Medical,1,4.22,70,2023-06
+SHP01496,2023-09-29,Mumbai,Pune,403,Train,Rail,FedEx,3,Clear,Monsoon,0,1,202.8,Perishable,1,3.71,47,2023-09
+SHP01497,2024-02-12,Hyderabad,Kolkata,348,Ship,Sea,Ecom Express,2,Clear,Winter,0,1,484.5,Industrial,0,4.55,52,2024-02
+SHP01498,2023-05-10,Delhi,Bangalore,2238,Bike,Road,Ecom Express,2,Fog,Spring,0,0,446.1,Electronics,1,6.79,83,2023-05
+SHP01499,2023-10-26,Kolkata,Hyderabad,1405,Truck,Road,Ecom Express,5,Rain,Monsoon,0,1,324.4,Furniture,0,5.73,47,2023-10
+SHP01500,2024-07-12,Ahmedabad,Hyderabad,2147,Ship,Sea,FedEx,1,Clear,Summer,0,0,254.0,Electronics,1,6.01,77,2024-07
